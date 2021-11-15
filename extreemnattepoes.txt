@@ -1,0 +1,6380 @@
+admin:admin:222.189.12.234
+admin:admin:27.191.227.175
+admin:admin:121.30.254.203
+admin:admin:116.132.35.46
+admin:admin:220.163.156.29
+admin:admin:202.98.209.184
+admin:admin:58.218.110.179
+admin:admin:58.57.51.138
+admin:admin:123.178.153.106
+admin:admin:123.163.19.197
+admin:admin:61.157.132.199
+admin:admin:115.207.196.217
+admin:admin:222.169.196.14
+admin:admin:182.138.194.191
+admin:admin:59.55.0.5
+admin:admin:106.59.202.131
+admin:admin:110.157.26.26
+admin:admin:60.223.227.163
+admin:admin:220.163.117.122
+admin:admin:60.160.235.87
+admin:admin:61.163.170.103
+admin:admin:60.174.249.65
+root:root:2.177.107.175
+admin:admin:183.24.99.107
+admin:admin:112.230.234.14
+admin:admin:123.191.40.155
+admin:admin:122.143.200.206
+admin:admin:220.248.244.202
+admin:admin:58.58.42.230
+admin:admin:180.142.111.132
+admin:admin:211.93.17.102
+admin:admin:116.31.224.242
+admin:admin:222.87.16.72
+admin:admin:222.75.176.138
+admin:admin:223.150.27.130
+admin:admin:222.138.25.54
+admin:admin:218.26.24.218
+admin:admin:123.157.152.170
+admin:admin:42.180.189.170
+admin:admin:113.233.129.70
+admin:admin:14.107.159.185
+admin:admin:61.180.33.71
+admin:admin:218.28.117.106
+admin:admin:180.129.225.188
+admin:admin:222.220.162.107
+admin:admin:180.142.246.7
+admin:admin:106.112.138.69
+admin:admin:220.168.164.30
+admin:admin:140.75.165.118
+root:root:80.210.235.208
+admin:admin:14.214.194.143
+admin:admin:171.212.115.185
+admin:admin:221.226.1.22
+admin:admin:116.52.252.222
+admin:admin:101.26.202.11
+admin:admin:222.168.33.222
+admin:admin:222.79.250.26
+admin:admin:1.196.217.65
+admin:admin:125.46.12.82
+admin:admin:220.197.200.161
+root:root:46.248.33.177
+admin:admin:222.74.25.242
+admin:admin:122.225.205.254
+admin:admin:60.6.223.191
+admin:admin:119.96.62.254
+admin:admin:60.11.114.36
+admin:admin:117.84.185.160
+admin:admin:222.161.35.28
+admin:admin:222.212.90.54
+admin:admin:202.98.162.27
+admin:admin:58.21.173.146
+admin:admin:49.71.16.92
+admin:admin:123.235.106.97
+admin:admin:222.180.208.6
+root:root:115.231.140.115
+admin:admin:59.38.35.206
+admin:admin:58.211.55.142
+admin:admin:125.118.19.68
+admin:admin:183.64.247.122
+admin:admin:116.54.117.254
+admin:admin:119.162.39.222
+admin:admin:222.216.125.130
+admin:admin:222.184.86.186
+admin:admin:60.216.44.71
+admin:admin:220.167.54.98
+admin:admin:115.213.166.54
+admin:admin:221.194.133.162
+admin:admin:219.138.226.78
+admin:admin:113.2.198.220
+admin:admin:58.56.187.18
+admin:admin:111.85.83.176
+admin:admin:125.76.70.5
+admin:admin:78.188.39.186
+admin:admin:221.12.125.77
+admin:admin:218.56.108.58
+admin:admin:125.121.14.91
+admin:admin:59.45.114.4
+admin:admin:27.191.227.41
+admin:admin:60.211.235.226
+admin:admin:110.243.38.69
+admin:admin:124.165.189.6
+admin:admin:218.17.46.30
+admin:admin:60.10.24.174
+admin:admin:61.155.112.155
+admin:admin:58.211.42.107
+admin:admin:123.138.216.62
+admin:admin:218.23.12.55
+admin:admin:58.57.146.122
+admin:admin:58.211.168.98
+admin:admin:124.76.5.192
+admin:admin:1.207.250.86
+admin:admin:222.139.214.46
+admin:admin:58.33.127.26
+admin:admin:61.163.25.162
+admin:admin:221.207.127.134
+admin:admin:183.129.84.115
+admin:admin:78.188.37.171
+admin:admin:218.70.196.194
+admin:admin:106.91.208.32
+admin:admin:14.23.50.74
+admin:admin:113.108.40.94
+admin:admin:219.139.36.76
+admin:admin:1.192.63.234
+admin:admin:122.4.202.239
+admin:admin:122.224.132.74
+admin:admin:113.110.20.154
+admin:admin:220.177.124.17
+admin:admin:118.213.150.82
+admin:admin:222.162.71.195
+admin:admin:58.215.223.170
+admin:admin:222.56.47.217
+admin:admin:182.137.61.58
+admin:admin:220.180.35.50
+admin:admin:220.179.180.185
+admin:admin:176.236.83.179
+admin:admin:59.44.170.58
+admin:admin:183.161.54.116
+admin:admin:60.187.135.143
+admin:admin:58.58.43.238
+admin:admin:1.83.105.165
+admin:admin:125.88.165.112
+admin:admin:106.92.2.147
+admin:admin:112.230.67.194
+admin:admin:58.56.144.102
+admin:admin:125.71.132.136
+admin:admin:115.195.94.115
+admin:admin:61.153.53.138
+admin:admin:221.199.186.210
+admin:admin:116.25.44.167
+admin:admin:58.19.244.38
+admin:admin:113.87.86.71
+admin:admin:183.157.170.117
+admin:admin:118.187.50.66
+admin:admin:119.145.189.118
+admin:admin:221.2.93.196
+admin:admin:58.242.252.64
+admin:admin:124.133.51.34
+admin:admin:212.156.247.82
+admin:admin:218.23.210.91
+admin:admin:121.26.226.74
+admin:admin:110.16.85.210
+admin:admin:125.76.177.93
+admin:admin:60.223.227.73
+guest:guest:218.76.30.193
+admin:admin:14.117.228.122
+admin:admin:124.131.118.201
+admin:admin:218.75.78.42
+admin:admin:58.221.244.78
+admin:admin:222.86.174.227
+admin:admin:222.209.201.21
+admin:admin:221.212.34.204
+admin:admin:220.166.43.46
+admin:admin:121.230.90.126
+admin:admin:58.222.109.122
+admin:admin:121.18.38.66
+admin:admin:222.242.225.137
+admin:admin:221.214.6.234
+admin:admin:60.190.27.114
+admin:admin:124.128.226.170
+admin:admin:113.59.70.51
+admin:admin:61.132.94.58
+admin:admin:222.76.67.215
+admin:admin:218.93.37.18
+admin:admin:58.33.145.46
+admin:admin:111.175.32.226
+admin:admin:123.13.214.213
+admin:admin:222.180.203.138
+guest:guest:121.12.130.39
+admin:admin:219.139.51.84
+admin:admin:59.48.148.130
+admin:admin:119.180.27.55
+admin:admin:221.2.75.232
+admin:admin:60.164.208.83
+admin:admin:123.13.224.242
+admin:admin:183.167.194.120
+admin:admin:218.91.82.98
+admin:admin:58.211.105.234
+ubnt:ubnt:222.76.42.111
+admin:admin:119.1.160.67
+admin:admin:221.14.138.69
+admin:admin:222.221.36.120
+admin:admin:111.165.4.121
+admin:admin:61.166.144.43
+admin:admin:119.191.79.6
+admin:admin:125.45.239.222
+admin:admin:60.10.10.152
+admin:admin:123.178.26.198
+admin:admin:61.178.34.146
+admin:admin:60.211.199.134
+admin:admin:221.226.117.126
+admin:admin:180.109.127.39
+admin:admin:60.191.121.122
+admin:admin:60.2.128.66
+admin:admin:119.86.85.127
+admin:admin:113.108.135.186
+admin:admin:122.5.39.226
+admin:admin:58.16.56.186
+admin:admin:119.145.65.242
+admin:admin:60.161.85.205
+admin:admin:153.35.169.27
+admin:admin:119.119.70.2
+admin:admin:110.16.84.142
+admin:admin:183.3.140.163
+admin:admin:1.28.194.254
+admin:admin:123.130.242.130
+admin:admin:60.222.245.133
+admin:admin:111.124.244.5
+admin:admin:58.57.45.2
+admin:admin:183.157.170.53
+admin:admin:222.240.159.130
+admin:admin:113.26.251.135
+admin:admin:183.30.204.223
+admin:admin:60.169.120.193
+admin:admin:122.96.136.73
+admin:admin:116.114.84.122
+admin:admin:58.244.174.66
+admin:admin:58.210.121.182
+admin:admin:221.234.48.37
+admin:admin:211.93.17.170
+admin:admin:61.177.139.6
+admin:admin:222.180.149.94
+admin:admin:112.243.62.199
+admin:admin:117.22.230.170
+admin:admin:222.88.248.139
+admin:admin:222.75.143.70
+admin:admin:183.63.13.214
+admin:admin:211.93.16.162
+admin:admin:121.29.222.9
+admin:admin:121.30.220.203
+admin:admin:113.140.87.162
+admin:admin:121.30.188.82
+admin:admin:119.176.253.93
+admin:admin:60.220.107.76
+admin:admin:58.213.112.10
+admin:admin:222.182.185.177
+admin:admin:121.22.94.214
+admin:admin:61.156.219.170
+admin:admin:122.224.167.154
+admin:admin:222.223.56.116
+admin:admin:218.13.54.194
+admin:admin:60.28.55.242
+admin:admin:114.98.62.13
+admin:admin:222.187.33.198
+admin:admin:221.226.213.146
+admin:admin:36.7.129.46
+admin:admin:49.88.48.14
+admin:admin:222.173.98.110
+admin:admin:183.185.180.19
+admin:admin:123.130.87.140
+admin:admin:116.112.0.74
+admin:admin:27.154.233.146
+admin:admin:1.192.215.29
+admin:admin:60.29.164.106
+admin:admin:119.250.60.53
+admin:admin:113.200.215.74
+admin:admin:113.195.181.237
+admin:admin:42.103.52.92
+admin:admin:211.93.17.118
+admin:admin:183.166.79.172
+admin:admin:220.164.2.121
+admin:admin:211.93.16.94
+admin:admin:121.30.254.204
+admin:admin:111.160.110.146
+admin:admin:36.26.51.234
+admin:admin:58.42.222.216
+admin:admin:88.249.192.237
+admin:admin:58.222.253.83
+admin:admin:116.139.28.203
+admin:admin:58.210.185.178
+admin:admin:60.165.241.204
+admin:admin:118.125.106.63
+admin:admin:58.37.58.233
+admin:admin:122.225.84.118
+admin:admin:123.155.73.16
+admin:admin:78.186.36.37
+admin:admin:218.18.152.20
+admin:admin:39.73.93.197
+admin:admin:211.93.16.110
+admin:admin:88.247.160.201
+admin:admin:220.164.126.185
+admin:admin:123.160.238.209
+admin:admin:175.174.59.158
+admin:admin:171.8.197.239
+admin:admin:36.33.1.137
+admin:admin:58.18.219.210
+admin:admin:113.88.118.117
+admin:admin:111.75.237.88
+admin:admin:220.172.138.97
+admin:admin:125.40.91.134
+admin:admin:106.81.230.61
+admin:admin:124.163.236.66
+admin:admin:124.165.250.46
+admin:admin:58.16.178.236
+admin:admin:106.87.85.166
+admin:admin:78.189.205.166
+admin:admin:61.54.110.190
+admin:admin:183.64.79.186
+admin:admin:125.75.117.132
+admin:admin:220.166.172.161
+admin:admin:218.63.72.27
+admin:admin:101.69.62.58
+admin:admin:59.49.189.82
+admin:admin:219.150.127.214
+admin:admin:220.201.231.115
+admin:admin:59.48.246.38
+admin:admin:222.223.52.150
+admin:admin:113.7.113.206
+admin:admin:112.101.74.226
+admin:admin:59.48.153.106
+admin:admin:88.247.57.6
+admin:admin:61.191.183.210
+admin:admin:121.205.68.116
+admin:admin:119.49.133.187
+admin:admin:220.197.200.17
+admin:admin:27.128.206.253
+admin:admin:171.92.251.32
+admin:admin:121.26.252.133
+admin:admin:61.159.148.191
+admin:admin:220.172.203.143
+admin:admin:61.138.28.53
+admin:admin:61.191.209.106
+admin:admin:116.52.29.109
+admin:admin:220.163.111.106
+admin:admin:61.147.250.130
+admin:admin:117.32.155.186
+admin:admin:182.242.244.116
+admin:admin:218.28.91.170
+admin:admin:124.164.250.15
+admin:admin:219.138.231.46
+admin:admin:60.11.97.162
+admin:admin:113.128.243.54
+admin:admin:222.240.252.90
+admin:admin:221.0.139.211
+admin:admin:60.165.100.31
+admin:admin:182.147.98.141
+admin:admin:120.35.33.153
+admin:admin:211.93.4.82
+admin:admin:110.247.82.112
+admin:admin:113.225.117.3
+admin:admin:110.185.168.161
+admin:admin:202.98.218.192
+admin:admin:218.56.98.206
+admin:admin:222.95.169.117
+admin:admin:58.50.92.116
+admin:admin:218.94.62.62
+admin:admin:121.30.203.223
+admin:admin:182.137.60.230
+admin:admin:82.222.53.21
+admin:admin:118.125.106.221
+admin:admin:36.33.0.48
+admin:admin:117.71.178.27
+admin:admin:218.64.81.43
+admin:admin:113.226.78.24
+admin:admin:219.138.9.117
+admin:admin:121.17.165.33
+admin:admin:112.115.84.98
+admin:admin:183.157.173.1
+admin:admin:171.88.17.43
+admin:admin:211.93.17.130
+admin:admin:49.71.17.116
+admin:admin:219.144.183.70
+admin:admin:113.227.193.72
+admin:admin:121.17.28.16
+admin:admin:106.87.23.202
+admin:admin:58.213.193.90
+admin:admin:61.145.197.191
+admin:admin:221.195.144.82
+admin:admin:183.63.46.34
+admin:admin:218.19.93.130
+admin:admin:122.227.193.46
+admin:admin:58.211.96.154
+admin:admin:220.189.224.234
+admin:admin:58.49.50.226
+admin:admin:58.57.54.37
+admin:admin:124.128.9.198
+admin:admin:119.123.241.56
+admin:admin:61.162.61.50
+admin:admin:219.139.51.101
+admin:admin:36.7.110.188
+admin:admin:85.107.216.169
+admin:admin:36.26.51.26
+admin:admin:219.147.25.6
+admin:admin:183.157.169.247
+admin:admin:219.152.24.117
+admin:admin:211.93.17.46
+admin:admin:123.232.39.106
+admin:admin:60.30.158.26
+admin:admin:125.74.116.89
+admin:admin:171.211.79.38
+admin:admin:58.214.10.54
+admin:admin:119.53.149.66
+admin:admin:112.112.75.224
+admin:admin:58.49.15.82
+admin:admin:60.223.251.70
+admin:admin:219.139.51.237
+admin:admin:222.138.25.50
+admin:admin:221.224.160.2
+admin:admin:61.189.188.43
+admin:admin:113.235.32.185
+admin:admin:124.89.76.18
+admin:admin:211.93.16.234
+admin:admin:218.21.71.36
+admin:admin:60.6.214.48
+admin:admin:61.178.89.102
+admin:admin:125.43.69.150
+admin:admin:113.122.36.203
+admin:admin:58.216.226.162
+admin:admin:59.41.198.116
+admin:admin:58.242.158.8
+admin:admin:218.22.38.82
+admin:admin:113.56.30.172
+admin:admin:211.93.16.206
+admin:admin:59.36.21.10
+admin:admin:115.231.194.234
+admin:admin:221.231.9.158
+admin:admin:218.75.48.174
+admin:admin:124.90.206.78
+admin:admin:60.162.150.40
+admin:admin:116.53.247.207
+admin:admin:116.177.32.121
+admin:admin:220.164.2.139
+admin:admin:112.250.109.50
+admin:admin:113.115.200.224
+admin:admin:59.37.21.218
+admin:admin:36.7.191.139
+admin:admin:220.163.122.118
+admin:admin:121.11.170.152
+admin:admin:112.122.54.117
+admin:admin:220.194.147.198
+admin:admin:123.13.205.71
+admin:admin:222.173.78.86
+admin:admin:222.221.147.96
+admin:admin:183.157.173.237
+admin:admin:125.75.36.69
+admin:admin:113.57.203.146
+admin:admin:106.118.212.23
+root:root:5.234.151.54
+admin:admin:113.105.66.83
+admin:admin:218.21.83.24
+admin:admin:60.10.24.95
+admin:admin:58.57.214.158
+admin:admin:223.159.17.20
+admin:admin:118.186.21.12
+admin:admin:221.203.166.46
+admin:admin:219.135.149.67
+admin:admin:125.75.47.3
+admin:admin:222.75.209.46
+admin:admin:124.163.249.234
+admin:admin:183.134.210.62
+admin:admin:111.121.230.9
+admin:admin:218.28.180.50
+admin:admin:219.130.115.150
+admin:admin:218.93.220.102
+admin:admin:218.70.19.82
+admin:admin:218.75.119.218
+admin:admin:61.141.203.250
+admin:admin:219.147.20.186
+admin:admin:1.180.177.14
+admin:admin:119.1.194.171
+admin:admin:122.225.237.122
+admin:admin:220.174.35.236
+admin:admin:211.93.16.166
+admin:admin:106.59.230.206
+admin:admin:61.178.208.137
+admin:admin:61.189.242.137
+admin:admin:115.209.97.117
+admin:admin:116.54.117.246
+admin:admin:61.53.69.18
+admin:admin:124.128.27.66
+admin:admin:60.8.183.238
+admin:admin:60.175.55.79
+admin:admin:113.0.99.174
+admin:admin:61.182.246.241
+admin:admin:27.223.11.158
+admin:admin:58.213.138.82
+admin:admin:219.157.119.188
+admin:admin:116.95.252.178
+root:root:2.181.15.223
+admin:admin:183.24.68.130
+admin:admin:220.164.2.73
+admin:admin:183.157.169.143
+admin:admin:60.223.224.82
+admin:admin:122.143.192.38
+admin:admin:117.28.26.18
+admin:admin:61.134.239.130
+admin:admin:218.85.12.90
+admin:admin:61.53.68.43
+admin:admin:222.138.25.58
+admin:admin:222.89.107.11
+admin:admin:58.220.237.194
+admin:admin:220.180.125.57
+admin:admin:222.85.231.227
+ubnt:ubnt:36.7.72.117
+admin:admin:221.212.49.138
+admin:admin:220.197.194.171
+admin:admin:171.42.213.110
+admin:admin:221.211.48.206
+admin:admin:106.92.203.122
+root:root:222.74.69.146
+admin:admin:113.26.251.149
+admin:admin:139.210.1.58
+admin:admin:1.62.227.127
+admin:admin:122.226.174.118
+admin:admin:123.13.222.165
+admin:admin:219.145.189.214
+admin:admin:122.224.38.174
+admin:admin:27.128.192.133
+admin:admin:61.178.14.55
+admin:admin:113.106.216.82
+admin:admin:42.224.11.71
+admin:admin:218.23.29.116
+admin:admin:60.2.47.82
+admin:admin:119.1.195.116
+admin:admin:123.54.69.56
+admin:admin:58.49.129.226
+admin:admin:124.235.224.157
+admin:admin:121.22.125.138
+admin:admin:220.167.116.229
+admin:admin:110.16.107.54
+admin:admin:14.215.246.10
+admin:admin:1.180.97.222
+root:root:2.191.5.191
+admin:admin:122.224.227.2
+admin:admin:113.57.95.134
+admin:admin:219.130.112.104
+admin:admin:183.141.169.114
+admin:admin:211.93.17.66
+admin:admin:119.165.2.165
+admin:admin:222.221.156.14
+admin:admin:106.92.3.198
+admin:admin:58.37.53.37
+admin:admin:183.157.172.227
+admin:admin:211.93.16.30
+admin:admin:182.245.100.237
+admin:admin:58.221.131.126
+admin:admin:222.173.91.18
+admin:admin:220.163.44.218
+admin:admin:222.222.167.17
+admin:admin:60.6.230.88
+admin:admin:58.46.64.29
+admin:admin:124.166.247.50
+admin:admin:220.160.203.44
+admin:admin:218.56.155.194
+admin:admin:221.210.80.133
+admin:admin:221.224.212.130
+admin:admin:14.213.252.248
+admin:admin:113.106.250.18
+admin:admin:60.210.104.38
+admin:admin:183.157.172.183
+guest:guest:60.212.42.55
+admin:admin:221.236.156.84
+admin:admin:106.92.1.56
+admin:admin:223.199.14.208
+admin:admin:27.218.63.63
+admin:admin:60.13.21.212
+admin:admin:36.106.40.197
+admin:admin:61.243.44.14
+admin:admin:58.20.64.197
+admin:admin:220.163.13.155
+admin:admin:59.49.102.218
+admin:admin:222.219.86.159
+admin:admin:222.90.72.234
+admin:admin:58.213.80.242
+admin:admin:220.182.45.148
+admin:admin:61.178.170.81
+admin:admin:61.138.121.18
+admin:admin:101.68.132.79
+admin:admin:59.56.62.65
+ubnt:ubnt:118.113.46.20
+admin:admin:61.145.181.23
+admin:admin:218.85.12.89
+admin:admin:221.233.24.218
+guest:guest:60.212.42.57
+admin:admin:219.159.234.250
+admin:admin:113.110.221.161
+admin:admin:58.222.254.90
+admin:admin:113.140.28.146
+admin:admin:125.72.68.162
+admin:admin:58.210.212.98
+admin:admin:58.221.6.190
+admin:admin:117.81.67.34
+admin:admin:122.226.151.66
+admin:admin:218.56.108.130
+admin:admin:61.177.57.50
+admin:admin:61.170.130.2
+admin:admin:218.59.231.46
+admin:admin:221.14.138.72
+admin:admin:218.69.91.226
+admin:admin:157.0.1.42
+admin:admin:111.172.25.85
+admin:admin:27.223.85.86
+admin:admin:222.222.72.26
+admin:admin:218.90.172.30
+admin:admin:125.45.231.9
+admin:admin:112.115.237.85
+admin:admin:58.215.14.206
+admin:admin:114.135.86.11
+admin:admin:222.182.58.243
+admin:admin:113.107.76.228
+admin:admin:220.167.114.91
+admin:admin:218.28.216.76
+admin:admin:58.210.187.74
+admin:admin:123.183.162.2
+admin:admin:220.180.35.17
+admin:admin:222.134.69.78
+admin:admin:59.48.22.22
+admin:admin:58.210.7.226
+admin:admin:42.48.136.54
+admin:admin:220.164.2.110
+admin:admin:121.228.125.156
+admin:admin:61.166.164.43
+admin:admin:183.67.94.53
+admin:admin:218.94.62.58
+admin:admin:124.90.207.218
+admin:admin:61.166.174.109
+admin:admin:218.27.73.194
+admin:admin:183.11.235.22
+admin:admin:221.226.6.82
+admin:admin:171.223.209.176
+admin:admin:124.135.30.21
+admin:admin:171.221.223.9
+admin:admin:219.159.203.119
+admin:admin:183.157.172.107
+admin:admin:61.136.143.131
+admin:admin:220.164.2.134
+admin:admin:27.199.96.113
+admin:admin:171.221.250.105
+admin:admin:60.162.237.195
+admin:admin:125.70.227.253
+admin:admin:221.214.84.141
+admin:admin:222.183.24.37
+admin:admin:60.165.200.175
+admin:admin:58.16.29.26
+admin:admin:218.28.5.46
+support:support:212.175.58.104
+admin:admin:211.93.16.114
+admin:admin:58.18.135.210
+admin:admin:60.223.253.195
+admin:admin:58.49.171.198
+admin:admin:123.157.244.182
+admin:admin:221.195.138.138
+admin:admin:222.174.186.210
+admin:admin:222.86.171.81
+admin:admin:221.204.148.211
+admin:admin:121.30.217.194
+admin:admin:58.49.171.194
+admin:admin:14.104.204.58
+admin:admin:61.160.9.18
+admin:admin:114.99.51.25
+admin:admin:221.201.101.181
+admin:admin:111.75.248.230
+admin:admin:58.42.211.41
+DUP support:support:176.236.24.68
+DUP guest:guest:176.236.24.68
+DUP ubnt:ubnt:176.236.24.68
+DUP root:root:176.236.24.68
+admin:admin:176.236.24.68
+admin:admin:211.93.16.38
+admin:admin:115.50.126.216
+admin:admin:60.213.136.230
+admin:admin:222.220.34.177
+admin:admin:60.2.19.218
+admin:admin:59.46.68.114
+admin:admin:139.170.220.219
+admin:admin:112.253.44.70
+admin:admin:183.67.90.61
+admin:admin:118.113.105.135
+admin:admin:119.250.172.167
+admin:admin:58.210.62.54
+admin:admin:58.42.245.114
+admin:admin:36.99.221.240
+admin:admin:222.162.70.164
+DUP support:support:59.50.85.195
+DUP guest:guest:59.50.85.195
+DUP ubnt:ubnt:59.50.85.195
+root:root:59.50.85.195
+admin:admin:124.128.9.194
+admin:admin:42.180.53.115
+admin:admin:211.93.16.218
+admin:admin:14.106.0.122
+guest:guest:223.243.127.176
+admin:admin:171.8.196.129
+admin:admin:222.217.221.178
+admin:admin:220.164.2.80
+admin:admin:61.190.162.143
+admin:admin:218.13.173.130
+admin:admin:27.223.200.245
+admin:admin:59.37.21.219
+admin:admin:222.75.12.66
+admin:admin:218.63.117.177
+admin:admin:222.178.231.218
+admin:admin:117.14.149.114
+admin:admin:211.93.16.150
+admin:admin:118.182.33.35
+admin:admin:111.160.232.14
+admin:admin:222.86.159.220
+admin:admin:60.30.6.74
+admin:admin:58.50.1.33
+admin:admin:218.17.136.189
+admin:admin:125.108.5.42
+admin:admin:171.39.16.34
+admin:admin:218.29.4.108
+admin:admin:27.191.227.96
+admin:admin:222.160.236.246
+admin:admin:58.33.104.170
+admin:admin:119.136.26.148
+admin:admin:218.94.134.234
+admin:admin:222.191.204.2
+admin:admin:113.7.241.78
+admin:admin:123.235.132.38
+admin:admin:219.138.89.251
+admin:admin:27.151.125.17
+admin:admin:183.157.173.166
+admin:admin:122.137.240.6
+admin:admin:42.180.187.135
+admin:admin:222.80.227.65
+admin:admin:110.185.161.138
+admin:admin:222.74.107.14
+admin:admin:183.131.28.102
+admin:admin:36.32.10.51
+admin:admin:115.216.169.72
+admin:admin:59.48.241.102
+admin:admin:14.117.179.138
+admin:admin:61.163.197.133
+admin:admin:27.191.234.85
+admin:admin:110.153.180.2
+admin:admin:219.135.137.26
+ubnt:ubnt:183.141.10.230
+admin:admin:58.221.115.142
+admin:admin:125.70.227.38
+admin:admin:58.214.13.226
+admin:admin:58.20.36.88
+admin:admin:59.49.224.216
+admin:admin:219.139.51.236
+DUP guest:guest:202.107.34.250
+admin:admin:202.107.34.250
+admin:admin:182.138.126.20
+admin:admin:115.198.222.250
+admin:admin:180.108.254.212
+admin:admin:221.199.42.222
+admin:admin:115.210.122.227
+admin:admin:219.129.236.174
+admin:admin:115.236.7.226
+admin:admin:218.94.62.61
+admin:admin:122.224.189.242
+root:root:114.99.238.246
+root:root:221.214.167.137
+admin:admin:27.223.8.117
+admin:admin:171.34.168.200
+admin:admin:116.249.149.158
+admin:admin:218.0.91.159
+admin:admin:221.231.8.102
+admin:admin:222.245.132.250
+root:root:123.234.59.61
+admin:admin:106.59.125.68
+admin:admin:222.76.42.107
+admin:admin:118.212.69.156
+admin:admin:61.177.75.22
+admin:admin:61.190.12.210
+admin:admin:125.91.142.126
+admin:admin:221.211.48.93
+admin:admin:183.129.182.122
+admin:admin:222.188.127.178
+admin:admin:60.173.167.19
+admin:admin:222.223.53.51
+admin:admin:58.221.251.250
+admin:admin:211.93.16.6
+admin:admin:222.183.233.122
+admin:admin:218.58.69.74
+admin:admin:222.184.87.49
+admin:admin:222.188.95.202
+admin:admin:221.7.50.223
+admin:admin:220.164.2.62
+admin:admin:112.86.35.206
+admin:admin:218.87.91.173
+admin:admin:112.247.191.21
+admin:admin:211.93.16.74
+admin:admin:183.4.28.184
+admin:admin:211.93.16.18
+admin:admin:221.206.4.116
+admin:admin:42.243.172.2
+admin:admin:120.40.69.169
+admin:admin:112.115.153.32
+admin:admin:222.182.120.53
+admin:admin:111.75.222.23
+admin:admin:222.87.16.128
+admin:admin:223.199.20.224
+admin:admin:218.15.225.98
+admin:admin:221.2.81.86
+admin:admin:183.191.126.29
+admin:admin:182.129.222.69
+admin:admin:58.214.26.206
+admin:admin:123.13.223.58
+admin:admin:119.1.233.173
+admin:admin:60.174.68.250
+admin:admin:115.231.201.126
+admin:admin:112.99.6.19
+admin:admin:39.81.48.24
+admin:admin:123.7.112.185
+admin:admin:218.75.52.110
+admin:admin:116.2.173.137
+admin:admin:113.100.190.137
+admin:admin:121.16.245.232
+admin:admin:112.234.35.119
+admin:admin:220.165.28.9
+admin:admin:49.71.67.117
+admin:admin:211.91.56.71
+root:root:5.238.255.250
+admin:admin:122.226.114.222
+admin:admin:221.226.50.162
+admin:admin:119.165.30.243
+admin:admin:222.74.61.230
+admin:admin:113.241.138.145
+admin:admin:58.213.44.38
+admin:admin:27.191.234.93
+admin:admin:60.169.86.97
+admin:admin:124.118.175.60
+admin:admin:60.208.18.186
+admin:admin:58.218.61.70
+admin:admin:123.5.2.107
+admin:admin:223.243.25.189
+admin:admin:211.93.17.138
+admin:admin:114.99.47.201
+admin:admin:58.48.184.250
+admin:admin:112.116.126.34
+admin:admin:223.243.98.27
+admin:admin:124.31.223.93
+admin:admin:123.181.245.30
+admin:admin:222.170.210.146
+admin:admin:218.94.15.34
+admin:admin:58.220.109.66
+admin:admin:222.175.127.166
+admin:admin:112.231.252.78
+admin:admin:14.104.140.159
+admin:admin:58.222.194.242
+root:root:2.177.83.67
+admin:admin:60.191.23.202
+admin:admin:183.157.173.63
+admin:admin:218.29.63.106
+admin:admin:221.13.96.26
+admin:admin:113.57.95.141
+admin:admin:125.108.202.4
+admin:admin:211.93.16.98
+admin:admin:114.217.11.91
+admin:admin:120.33.89.28
+admin:admin:125.90.2.50
+admin:admin:222.212.93.3
+admin:admin:39.88.110.95
+admin:admin:221.0.92.194
+admin:admin:219.148.159.14
+admin:admin:119.108.36.202
+admin:admin:183.65.43.110
+admin:admin:61.132.96.58
+admin:admin:183.157.169.221
+admin:admin:116.248.182.132
+admin:admin:124.116.40.178
+admin:admin:106.58.218.169
+admin:admin:116.55.19.162
+admin:admin:124.133.154.1
+admin:admin:110.186.73.137
+admin:admin:218.26.187.215
+admin:admin:61.175.196.78
+admin:admin:113.118.18.102
+admin:admin:222.87.139.44
+admin:admin:116.132.35.34
+admin:admin:220.167.111.111
+admin:admin:60.160.85.16
+admin:admin:171.223.212.149
+admin:admin:116.10.142.79
+admin:admin:124.227.196.103
+admin:admin:36.32.191.75
+admin:admin:88.246.3.4
+admin:admin:124.239.211.53
+admin:admin:1.180.177.22
+admin:admin:180.104.117.174
+admin:admin:124.239.211.76
+admin:admin:61.155.50.34
+admin:admin:222.74.208.62
+admin:admin:106.112.154.83
+admin:admin:58.56.177.166
+admin:admin:59.44.212.58
+admin:admin:61.185.79.54
+admin:admin:125.77.83.84
+admin:admin:61.189.186.185
+admin:admin:115.202.210.90
+admin:admin:222.188.105.154
+admin:admin:111.122.191.113
+admin:admin:117.21.139.69
+admin:admin:58.214.248.150
+admin:admin:58.56.182.46
+admin:admin:113.135.192.179
+admin:admin:121.33.223.210
+admin:admin:125.72.68.150
+admin:admin:116.55.170.218
+guest:guest:218.26.163.122
+admin:admin:58.56.181.46
+admin:admin:112.82.120.174
+admin:admin:222.138.225.6
+admin:admin:218.93.232.166
+admin:admin:115.210.4.249
+admin:admin:58.216.179.154
+admin:admin:220.164.2.118
+admin:admin:222.82.236.162
+admin:admin:27.191.158.78
+admin:admin:125.91.142.114
+admin:admin:218.4.150.253
+admin:admin:211.93.16.246
+admin:admin:112.250.105.86
+admin:admin:182.136.239.29
+admin:admin:119.36.187.119
+admin:admin:218.59.229.2
+admin:admin:119.162.24.158
+root:root:87.251.140.90
+admin:admin:222.85.207.81
+admin:admin:180.104.126.86
+admin:admin:115.227.62.2
+admin:admin:219.145.1.242
+admin:admin:58.56.25.170
+admin:admin:61.53.71.3
+admin:admin:183.159.75.214
+admin:admin:58.214.243.146
+ubnt:ubnt:220.189.79.33
+admin:admin:61.158.156.6
+admin:admin:218.87.216.77
+admin:admin:219.140.239.248
+admin:admin:221.2.35.86
+admin:admin:58.211.117.198
+admin:admin:171.223.209.234
+admin:admin:219.146.81.82
+admin:admin:60.223.248.55
+admin:admin:59.38.197.245
+admin:admin:221.212.221.206
+admin:admin:221.14.138.66
+admin:admin:14.21.23.205
+admin:admin:219.146.247.114
+admin:admin:60.165.133.157
+admin:admin:125.32.43.50
+admin:admin:183.66.184.34
+admin:admin:60.169.17.97
+admin:admin:58.33.138.203
+admin:admin:122.247.86.246
+admin:admin:218.93.245.158
+admin:admin:112.103.141.79
+admin:admin:222.242.226.98
+admin:admin:171.221.199.38
+admin:admin:60.214.211.146
+admin:admin:218.62.120.220
+admin:admin:58.52.119.146
+admin:admin:60.175.42.70
+admin:admin:124.235.117.226
+admin:admin:60.255.230.234
+admin:admin:115.199.238.207
+admin:admin:61.175.194.78
+admin:admin:59.46.63.133
+admin:admin:58.218.243.62
+admin:admin:119.36.177.216
+admin:admin:123.52.43.233
+admin:admin:221.2.100.74
+admin:admin:58.16.77.58
+admin:admin:222.87.55.101
+admin:admin:202.99.197.2
+admin:admin:222.132.80.22
+admin:admin:117.26.154.122
+ubnt:ubnt:114.216.46.24
+admin:admin:221.195.143.233
+admin:admin:125.74.222.247
+admin:admin:58.217.98.13
+admin:admin:222.247.62.221
+admin:admin:58.33.149.234
+admin:admin:219.139.51.135
+admin:admin:222.220.117.195
+admin:admin:218.3.120.165
+admin:admin:218.28.94.39
+admin:admin:27.128.207.73
+admin:admin:60.21.128.126
+admin:admin:115.216.121.61
+admin:admin:124.160.62.10
+admin:admin:218.26.2.219
+admin:admin:58.57.42.166
+admin:admin:58.54.248.18
+admin:admin:222.223.150.143
+admin:admin:112.232.35.213
+admin:admin:61.185.86.254
+admin:admin:60.20.173.51
+admin:admin:220.170.69.207
+admin:admin:111.160.115.18
+admin:admin:182.104.193.136
+admin:admin:115.198.4.28
+admin:admin:59.49.39.104
+admin:admin:115.204.180.188
+admin:admin:112.225.173.113
+admin:admin:61.184.89.249
+admin:admin:60.29.164.134
+admin:admin:117.32.154.250
+admin:admin:116.10.143.148
+admin:admin:123.14.65.224
+admin:admin:222.211.162.234
+admin:admin:217.218.3.81
+admin:admin:211.93.17.30
+admin:admin:60.214.128.162
+admin:admin:122.224.234.106
+admin:admin:221.230.1.113
+admin:admin:221.2.63.210
+admin:admin:14.104.138.143
+admin:admin:115.219.45.236
+admin:admin:60.165.254.163
+admin:admin:59.172.106.182
+admin:admin:82.222.188.82
+admin:admin:61.160.121.66
+admin:admin:36.97.181.116
+admin:admin:60.172.102.19
+admin:admin:39.65.69.181
+admin:admin:218.93.177.58
+admin:admin:122.224.189.245
+admin:admin:125.71.226.173
+admin:admin:203.93.170.18
+admin:admin:114.98.127.183
+admin:admin:60.171.135.254
+admin:admin:60.164.165.103
+admin:admin:60.12.3.131
+admin:admin:218.91.231.122
+admin:admin:60.213.41.158
+admin:admin:219.138.59.240
+admin:admin:101.74.239.10
+admin:admin:1.70.252.11
+admin:admin:117.28.27.130
+admin:admin:116.52.125.135
+admin:admin:112.250.107.8
+admin:admin:211.93.16.186
+admin:admin:183.63.79.194
+admin:admin:58.212.63.129
+admin:admin:218.26.96.43
+admin:admin:36.32.232.175
+admin:admin:101.69.241.218
+admin:admin:60.191.11.178
+admin:admin:218.23.209.10
+admin:admin:61.134.101.242
+admin:admin:59.37.21.220
+admin:admin:115.233.211.254
+admin:admin:218.17.241.76
+admin:admin:115.237.124.135
+admin:admin:60.29.142.54
+admin:admin:49.64.37.159
+admin:admin:182.150.52.14
+admin:admin:222.92.27.34
+admin:admin:115.203.182.106
+admin:admin:123.145.62.5
+admin:admin:115.208.142.99
+admin:admin:124.112.97.243
+admin:admin:171.34.43.152
+admin:admin:221.226.27.214
+admin:admin:221.215.164.174
+admin:admin:221.226.66.78
+admin:admin:61.185.63.94
+admin:admin:211.93.17.126
+admin:admin:221.231.116.114
+admin:admin:110.180.245.165
+admin:admin:42.243.75.54
+admin:admin:106.58.130.173
+admin:admin:183.66.196.138
+admin:admin:218.14.212.74
+admin:admin:175.162.242.237
+admin:admin:221.6.82.10
+admin:admin:61.144.101.13
+admin:admin:171.8.10.176
+admin:admin:222.222.129.153
+admin:admin:202.111.186.164
+admin:admin:112.250.105.240
+admin:admin:218.59.214.104
+admin:admin:117.62.184.48
+admin:admin:36.111.85.205
+root:root:5.236.26.25
+admin:admin:183.189.179.233
+admin:admin:116.115.101.124
+admin:admin:14.21.88.126
+admin:admin:60.10.66.232
+admin:admin:61.157.99.62
+admin:admin:221.234.216.75
+admin:admin:116.113.71.246
+admin:admin:125.75.117.126
+admin:admin:221.212.247.252
+admin:admin:113.64.255.67
+admin:admin:183.63.144.186
+admin:admin:180.125.7.192
+admin:admin:60.190.253.238
+admin:admin:61.163.178.95
+admin:admin:202.98.215.235
+admin:admin:119.98.87.229
+admin:admin:61.159.128.228
+admin:admin:115.238.107.242
+admin:admin:221.0.113.46
+admin:admin:58.218.48.6
+admin:admin:61.144.103.149
+admin:admin:175.170.133.167
+admin:admin:119.187.171.62
+admin:admin:113.78.218.84
+admin:admin:183.157.168.252
+admin:admin:58.210.253.250
+admin:admin:182.241.92.70
+admin:admin:183.66.53.58
+admin:admin:220.165.59.120
+admin:admin:218.3.180.214
+admin:admin:49.65.2.198
+admin:admin:180.109.122.234
+admin:admin:119.54.116.59
+admin:admin:58.56.179.250
+admin:admin:122.159.180.132
+admin:admin:61.54.197.124
+admin:admin:219.139.43.57
+admin:admin:218.63.201.210
+admin:admin:218.2.176.26
+admin:admin:115.231.196.202
+admin:admin:124.160.61.142
+admin:admin:115.211.128.221
+admin:admin:219.154.46.111
+admin:admin:218.70.82.134
+admin:admin:221.214.214.143
+admin:admin:61.185.26.70
+admin:admin:49.85.213.215
+admin:admin:218.8.87.11
+admin:admin:112.113.102.11
+admin:admin:60.221.63.162
+admin:admin:183.161.54.39
+admin:admin:118.183.186.52
+admin:admin:221.231.101.90
+admin:admin:221.226.24.54
+admin:admin:113.107.255.210
+admin:admin:59.37.126.25
+admin:admin:125.70.161.22
+admin:admin:60.2.85.70
+admin:admin:220.179.30.238
+admin:admin:111.85.91.218
+admin:admin:171.8.197.61
+admin:admin:116.132.25.66
+admin:admin:119.1.159.177
+admin:admin:183.26.224.173
+admin:admin:36.6.51.38
+admin:admin:218.92.116.38
+admin:admin:58.59.90.186
+admin:admin:153.37.223.142
+admin:admin:124.112.119.6
+admin:admin:183.66.232.50
+admin:admin:14.118.212.66
+admin:admin:222.175.79.94
+admin:admin:182.150.115.186
+admin:admin:218.28.68.138
+admin:admin:106.57.3.113
+admin:admin:222.134.153.94
+admin:admin:183.187.42.214
+admin:admin:121.8.124.74
+admin:admin:171.123.104.227
+admin:admin:110.185.169.18
+admin:admin:59.45.114.5
+admin:admin:61.128.133.2
+admin:admin:60.190.7.26
+admin:admin:123.157.234.226
+admin:admin:117.40.191.184
+admin:admin:218.58.220.46
+admin:admin:116.22.252.119
+admin:admin:183.10.180.138
+admin:admin:183.138.92.77
+admin:admin:222.85.141.126
+admin:admin:115.239.200.18
+admin:admin:60.208.108.34
+admin:admin:124.78.169.178
+admin:admin:175.172.88.37
+admin:admin:124.117.225.74
+admin:admin:112.99.6.18
+admin:admin:124.128.9.196
+admin:admin:125.75.117.134
+admin:admin:61.163.71.82
+admin:admin:112.115.195.118
+admin:admin:218.93.227.26
+admin:admin:61.177.154.102
+admin:admin:125.77.123.20
+admin:admin:111.85.89.27
+admin:admin:222.74.207.34
+admin:admin:113.128.184.110
+admin:admin:121.8.197.6
+admin:admin:218.29.142.50
+admin:admin:219.138.142.66
+admin:admin:58.55.57.240
+admin:admin:115.60.213.218
+admin:admin:220.197.186.106
+admin:admin:61.164.49.254
+root:root:222.186.174.208
+admin:admin:60.31.144.196
+admin:admin:183.167.251.79
+admin:admin:112.112.201.125
+admin:admin:58.47.159.45
+admin:admin:123.8.35.115
+admin:admin:183.135.172.252
+admin:admin:14.145.146.182
+admin:admin:58.33.30.91
+admin:admin:124.226.232.197
+admin:admin:58.58.42.110
+admin:admin:121.235.157.56
+admin:admin:112.245.53.13
+admin:admin:118.182.148.4
+admin:admin:222.222.69.107
+admin:admin:218.69.16.226
+admin:admin:49.65.2.199
+admin:admin:220.164.192.31
+admin:admin:59.45.103.224
+admin:admin:221.229.246.254
+admin:admin:218.85.12.92
+admin:admin:182.245.233.250
+admin:admin:220.163.124.26
+admin:admin:106.112.154.90
+admin:admin:222.222.105.204
+admin:admin:111.74.1.143
+admin:admin:60.30.79.218
+admin:admin:119.108.225.198
+admin:admin:182.245.17.43
+admin:admin:58.211.63.134
+admin:admin:49.65.2.202
+admin:admin:183.157.168.179
+admin:admin:220.197.200.154
+admin:admin:58.56.153.218
+admin:admin:221.193.231.101
+admin:admin:111.175.145.105
+admin:admin:116.209.240.140
+admin:admin:88.250.245.239
+admin:admin:106.32.24.226
+admin:admin:82.222.53.18
+admin:admin:117.30.75.29
+admin:admin:222.133.217.66
+admin:admin:60.8.18.138
+admin:admin:27.213.73.89
+admin:admin:125.68.137.129
+admin:admin:218.28.60.146
+admin:admin:183.157.175.254
+admin:admin:124.31.229.189
+admin:admin:61.170.221.191
+admin:admin:221.224.15.250
+admin:admin:113.102.163.24
+admin:admin:218.90.227.214
+admin:admin:60.167.74.14
+admin:admin:182.111.95.55
+admin:admin:61.150.104.73
+admin:admin:211.93.16.86
+admin:admin:115.208.58.60
+admin:admin:218.75.41.254
+admin:admin:59.50.94.201
+admin:admin:218.56.166.162
+admin:admin:222.220.232.52
+admin:admin:106.118.68.18
+root:root:2.191.163.185
+admin:admin:219.139.51.238
+admin:admin:203.93.173.18
+admin:admin:153.99.84.134
+admin:admin:183.24.68.132
+admin:admin:220.180.32.5
+admin:admin:14.155.113.144
+admin:admin:106.92.2.126
+admin:admin:218.2.23.130
+admin:admin:171.120.210.62
+admin:admin:59.57.85.2
+admin:admin:202.109.196.150
+admin:admin:222.186.199.133
+admin:admin:110.185.6.113
+admin:admin:222.74.241.62
+admin:admin:211.93.17.22
+admin:admin:61.182.81.212
+admin:admin:61.162.225.54
+admin:admin:124.227.230.51
+admin:admin:119.1.239.220
+admin:admin:58.211.180.50
+admin:admin:220.174.232.70
+admin:admin:123.170.88.155
+admin:admin:123.159.11.216
+admin:admin:113.200.212.206
+admin:admin:182.106.239.149
+admin:admin:116.55.215.87
+admin:admin:111.85.89.30
+admin:admin:222.220.163.12
+admin:admin:106.91.210.124
+admin:admin:220.170.95.178
+admin:admin:219.145.1.224
+admin:admin:61.159.148.189
+admin:admin:124.164.247.101
+admin:admin:61.162.56.162
+admin:admin:222.179.123.78
+DUP support:support:121.17.153.21
+admin:admin:121.17.153.21
+admin:admin:58.220.123.158
+admin:admin:220.163.127.34
+admin:admin:125.36.71.186
+admin:admin:116.112.47.22
+admin:admin:218.13.13.134
+admin:admin:78.187.72.109
+admin:admin:58.42.229.234
+admin:admin:106.226.176.197
+admin:admin:60.161.139.165
+admin:admin:222.77.230.201
+admin:admin:222.173.37.154
+admin:admin:218.2.130.222
+admin:admin:125.119.76.93
+admin:admin:58.56.182.42
+admin:admin:117.94.181.233
+admin:admin:202.103.217.158
+admin:admin:121.17.135.107
+root:root:2.177.121.96
+admin:admin:116.208.254.17
+admin:admin:221.2.193.158
+admin:admin:60.209.98.220
+admin:admin:36.251.89.34
+admin:admin:220.164.2.87
+admin:admin:115.239.187.42
+admin:admin:61.157.117.242
+admin:admin:61.144.161.226
+admin:admin:61.163.138.153
+admin:admin:153.35.169.26
+admin:admin:182.135.63.230
+admin:admin:171.221.242.102
+admin:admin:222.90.213.22
+admin:admin:211.93.17.78
+admin:admin:1.30.19.162
+admin:admin:61.184.108.196
+admin:admin:218.70.11.186
+admin:admin:183.157.173.72
+admin:admin:58.56.178.170
+admin:admin:85.105.146.15
+admin:admin:222.134.81.154
+admin:admin:118.123.175.7
+admin:admin:119.139.197.6
+admin:admin:182.116.56.148
+admin:admin:182.150.116.60
+admin:admin:49.65.2.196
+admin:admin:58.215.223.158
+admin:admin:218.75.36.246
+admin:admin:123.168.238.163
+admin:admin:219.159.164.105
+admin:admin:114.135.10.194
+admin:admin:119.163.199.123
+admin:admin:39.78.98.224
+admin:admin:106.81.229.15
+admin:admin:212.174.88.94
+admin:admin:119.164.218.106
+admin:admin:39.69.118.244
+admin:admin:49.65.2.194
+admin:admin:116.55.170.145
+admin:admin:219.139.51.218
+admin:admin:36.7.191.196
+admin:admin:27.210.66.35
+admin:admin:60.29.37.54
+admin:admin:14.145.174.24
+admin:admin:118.122.186.251
+admin:admin:182.150.22.9
+guest:guest:61.184.176.231
+admin:admin:211.93.17.10
+admin:admin:95.0.66.120
+admin:admin:222.179.205.150
+admin:admin:223.145.148.194
+admin:admin:113.26.251.69
+admin:admin:222.161.206.66
+admin:admin:222.138.25.66
+admin:admin:58.54.246.226
+admin:admin:182.247.101.46
+admin:admin:61.182.27.109
+admin:admin:211.93.16.90
+admin:admin:117.40.214.142
+admin:admin:115.217.70.205
+admin:admin:222.181.144.220
+admin:admin:221.214.213.178
+admin:admin:60.171.118.5
+admin:admin:125.116.112.159
+admin:admin:202.111.210.2
+admin:admin:182.109.127.6
+root:root:2.191.163.81
+admin:admin:218.2.23.135
+admin:admin:218.58.200.26
+admin:admin:220.164.2.71
+admin:admin:61.130.5.138
+admin:admin:124.117.241.50
+admin:admin:1.207.242.7
+admin:admin:106.92.3.43
+admin:admin:124.93.18.133
+admin:admin:219.159.231.251
+admin:admin:218.77.69.26
+admin:admin:14.106.4.204
+admin:admin:176.236.62.59
+admin:admin:119.136.32.88
+admin:admin:58.16.17.18
+admin:admin:116.132.35.42
+admin:admin:113.26.251.150
+admin:admin:58.218.190.2
+admin:admin:222.208.55.21
+admin:admin:222.188.123.154
+admin:admin:218.25.131.80
+admin:admin:112.112.128.94
+admin:admin:222.217.116.239
+admin:admin:221.203.56.178
+admin:admin:112.254.238.141
+admin:admin:222.86.72.105
+admin:admin:119.176.128.9
+admin:admin:222.32.28.159
+admin:admin:180.114.135.183
+admin:admin:222.240.51.85
+admin:admin:123.232.45.74
+admin:admin:58.16.60.5
+admin:admin:202.99.236.151
+admin:admin:219.139.51.170
+admin:admin:60.186.192.179
+admin:admin:112.248.189.1
+admin:admin:88.250.118.76
+admin:admin:218.2.23.132
+admin:admin:60.190.170.238
+admin:admin:221.193.222.14
+admin:admin:183.157.174.42
+admin:admin:120.9.222.253
+admin:admin:202.104.204.69
+admin:admin:112.112.141.118
+admin:admin:115.221.235.146
+admin:admin:139.170.8.130
+admin:admin:60.2.54.82
+admin:admin:59.60.119.66
+admin:admin:112.86.66.170
+admin:admin:121.239.86.49
+admin:admin:218.25.195.142
+admin:admin:60.221.63.105
+admin:admin:114.217.80.117
+admin:admin:124.133.0.42
+admin:admin:49.65.2.200
+admin:admin:60.2.41.246
+ubnt:ubnt:116.2.214.196
+admin:admin:112.117.171.154
+admin:admin:218.3.103.17
+admin:admin:183.66.184.158
+admin:admin:110.80.46.99
+admin:admin:113.0.160.35
+admin:admin:222.41.151.90
+admin:admin:180.101.225.194
+admin:admin:218.57.212.178
+admin:admin:124.129.23.58
+admin:admin:61.181.53.222
+admin:admin:220.171.44.154
+admin:admin:220.163.141.236
+admin:admin:106.91.213.154
+admin:admin:220.163.13.156
+admin:admin:60.173.100.188
+admin:admin:61.146.130.150
+admin:admin:124.93.2.64
+admin:admin:221.224.246.186
+admin:admin:60.217.73.134
+admin:admin:220.164.2.65
+admin:admin:110.189.153.163
+admin:admin:220.248.174.81
+admin:admin:123.145.62.19
+admin:admin:60.11.116.75
+admin:admin:123.161.71.87
+admin:admin:183.157.174.115
+admin:admin:113.236.39.207
+admin:admin:58.213.128.126
+admin:admin:27.207.87.88
+admin:admin:221.228.96.130
+admin:admin:222.173.104.198
+admin:admin:153.34.199.241
+admin:admin:122.4.246.58
+admin:admin:218.75.190.210
+admin:admin:58.242.154.58
+admin:admin:58.210.48.202
+admin:admin:219.138.23.134
+admin:admin:61.143.96.158
+admin:admin:27.15.242.151
+admin:admin:119.86.73.148
+admin:admin:115.236.3.186
+admin:admin:122.142.107.126
+admin:admin:221.203.71.218
+admin:admin:220.164.2.137
+admin:admin:123.7.38.68
+admin:admin:182.242.229.34
+admin:admin:121.205.67.106
+admin:admin:58.221.231.226
+admin:admin:218.76.252.133
+admin:admin:124.165.210.55
+admin:admin:220.172.207.145
+admin:admin:27.14.179.67
+admin:admin:58.52.199.56
+admin:admin:182.138.160.254
+admin:admin:60.11.113.164
+admin:admin:221.7.100.74
+admin:admin:211.93.15.138
+admin:admin:60.178.45.131
+admin:admin:221.207.32.230
+admin:admin:218.4.228.92
+admin:admin:59.37.21.222
+admin:admin:180.101.64.70
+admin:admin:122.224.22.214
+admin:admin:113.88.229.6
+admin:admin:125.108.201.62
+ubnt:ubnt:78.189.152.75
+admin:admin:202.98.218.209
+admin:admin:218.22.104.106
+admin:admin:183.66.24.82
+admin:admin:58.218.243.38
+admin:admin:211.93.16.26
+admin:admin:113.128.197.146
+admin:admin:183.62.200.195
+admin:admin:116.252.221.98
+admin:admin:112.253.44.74
+admin:admin:124.165.253.90
+admin:admin:118.213.150.214
+admin:admin:222.179.125.77
+admin:admin:218.92.49.6
+admin:admin:60.8.213.170
+admin:admin:60.208.20.162
+admin:admin:221.193.235.120
+admin:admin:222.174.58.194
+admin:admin:115.239.178.254
+admin:admin:14.155.222.220
+admin:admin:220.169.106.105
+admin:admin:101.64.157.113
+admin:admin:116.23.139.162
+admin:admin:140.255.143.75
+admin:admin:58.218.151.6
+admin:admin:27.213.248.10
+admin:admin:118.180.215.30
+admin:admin:218.4.127.162
+admin:admin:113.233.90.255
+admin:admin:58.221.143.242
+guest:guest:60.174.92.50
+admin:admin:119.180.97.59
+guest:guest:218.64.57.12
+admin:admin:112.117.89.231
+admin:admin:112.123.134.110
+admin:admin:116.21.127.166
+admin:admin:221.12.26.242
+admin:admin:111.85.36.252
+admin:admin:180.100.233.98
+admin:admin:59.49.77.74
+admin:admin:115.221.233.184
+admin:admin:153.35.169.29
+admin:admin:58.210.144.46
+admin:admin:61.240.15.142
+admin:admin:101.20.138.105
+admin:admin:202.100.163.94
+admin:admin:124.128.9.195
+admin:admin:125.111.43.243
+admin:admin:60.173.209.19
+admin:admin:1.58.13.232
+admin:admin:221.14.138.75
+admin:admin:113.204.226.158
+admin:admin:175.11.70.192
+admin:admin:211.93.16.230
+admin:admin:218.94.10.2
+admin:admin:218.56.32.242
+admin:admin:171.35.236.66
+admin:admin:124.165.241.130
+admin:admin:116.23.92.233
+admin:admin:60.160.21.13
+admin:admin:58.211.177.211
+admin:admin:183.167.254.198
+admin:admin:106.5.45.179
+admin:admin:58.240.85.14
+admin:admin:60.16.5.57
+admin:admin:220.167.112.3
+admin:admin:111.85.15.97
+admin:admin:88.250.231.232
+admin:admin:222.217.144.185
+admin:admin:78.179.107.114
+admin:admin:220.176.247.196
+admin:admin:222.182.114.225
+admin:admin:58.216.233.242
+admin:admin:220.164.2.123
+admin:admin:222.223.101.183
+admin:admin:58.18.140.50
+admin:admin:219.129.1.186
+admin:admin:123.139.215.104
+admin:admin:60.214.211.242
+admin:admin:49.65.2.205
+admin:admin:113.26.251.143
+admin:admin:88.248.111.178
+admin:admin:125.86.125.196
+admin:admin:183.162.92.108
+admin:admin:153.35.169.30
+admin:admin:49.71.67.98
+admin:admin:112.112.109.118
+ubnt:ubnt:117.81.143.91
+admin:admin:222.141.22.52
+admin:admin:60.174.118.80
+admin:admin:219.159.234.246
+admin:admin:220.164.2.77
+admin:admin:223.244.82.104
+admin:admin:106.81.228.194
+admin:admin:61.54.14.23
+admin:admin:116.132.13.18
+admin:admin:113.57.108.157
+admin:admin:115.219.43.172
+admin:admin:202.104.173.134
+admin:admin:219.139.158.71
+admin:admin:58.218.193.74
+admin:admin:59.55.5.4
+admin:admin:183.129.70.161
+admin:admin:180.102.254.125
+admin:admin:60.168.129.118
+admin:admin:219.144.129.26
+admin:admin:218.91.156.42
+admin:admin:113.26.251.81
+admin:admin:60.13.172.146
+admin:admin:58.208.84.218
+admin:admin:14.115.30.194
+admin:admin:125.67.11.90
+admin:admin:220.165.137.192
+admin:admin:58.18.54.148
+admin:admin:222.75.12.78
+admin:admin:59.49.32.27
+admin:admin:222.92.189.218
+admin:admin:1.193.145.31
+admin:admin:125.64.77.74
+admin:admin:95.8.223.199
+admin:admin:106.59.205.52
+admin:admin:61.178.176.175
+admin:admin:175.170.137.144
+admin:admin:222.220.110.25
+admin:admin:125.91.214.90
+admin:admin:113.224.27.238
+admin:admin:61.184.82.100
+admin:admin:183.157.172.12
+admin:admin:121.10.1.119
+admin:admin:171.119.88.178
+admin:admin:59.57.97.202
+admin:admin:95.9.41.96
+admin:admin:27.218.60.230
+admin:admin:124.227.196.102
+admin:admin:116.208.127.143
+admin:admin:123.178.141.130
+admin:admin:119.86.80.114
+admin:admin:118.77.134.69
+admin:admin:59.48.99.238
+admin:admin:39.78.219.253
+admin:admin:222.182.53.206
+root:root:222.223.66.219
+admin:admin:116.208.224.120
+admin:admin:36.22.182.130
+admin:admin:221.226.185.222
+admin:admin:222.175.153.42
+admin:admin:222.173.98.194
+admin:admin:113.57.95.140
+admin:admin:49.65.2.201
+admin:admin:61.178.90.183
+admin:admin:49.65.2.195
+admin:admin:222.221.246.50
+admin:admin:106.92.2.5
+admin:admin:219.136.123.245
+admin:admin:219.146.209.194
+admin:admin:60.210.102.166
+admin:admin:58.56.43.6
+admin:admin:111.122.230.99
+admin:admin:61.187.190.94
+admin:admin:119.116.98.83
+admin:admin:110.53.162.140
+admin:admin:42.243.110.90
+admin:admin:125.75.117.122
+admin:admin:220.172.196.182
+admin:admin:219.146.247.134
+admin:admin:116.31.224.245
+admin:admin:116.52.148.2
+ubnt:ubnt:183.134.3.222
+admin:admin:221.224.132.66
+admin:admin:113.206.46.23
+admin:admin:58.218.183.9
+admin:admin:60.209.239.154
+admin:admin:221.214.16.38
+admin:admin:121.16.243.54
+admin:admin:117.68.154.38
+admin:admin:58.213.76.26
+admin:admin:60.3.110.194
+admin:admin:59.49.137.15
+admin:admin:220.171.100.62
+admin:admin:114.223.162.31
+admin:admin:211.93.16.178
+admin:admin:222.75.172.134
+admin:admin:222.175.127.99
+admin:admin:182.245.175.225
+admin:admin:61.177.30.134
+admin:admin:222.171.48.101
+admin:admin:60.183.32.124
+admin:admin:218.22.36.228
+admin:admin:27.210.131.133
+ubnt:ubnt:183.141.25.141
+admin:admin:218.26.77.40
+DUP support:support:213.14.218.17
+DUP guest:guest:213.14.218.17
+DUP ubnt:ubnt:213.14.218.17
+DUP root:root:213.14.218.17
+admin:admin:213.14.218.17
+admin:admin:116.30.4.160
+admin:admin:121.22.95.58
+admin:admin:180.109.101.248
+admin:admin:59.49.22.77
+admin:admin:122.140.95.165
+admin:admin:222.74.247.130
+admin:admin:113.140.21.186
+admin:admin:218.63.119.41
+admin:admin:36.7.168.161
+admin:admin:222.187.95.146
+admin:admin:59.53.183.198
+admin:admin:116.113.70.194
+admin:admin:125.91.142.125
+admin:admin:61.184.160.166
+admin:admin:111.85.49.102
+admin:admin:125.110.67.86
+admin:admin:58.56.31.123
+admin:admin:125.109.186.244
+admin:admin:211.93.16.34
+admin:admin:58.57.254.198
+admin:admin:58.56.154.170
+admin:admin:221.215.85.98
+admin:admin:183.129.186.50
+admin:admin:122.247.180.93
+admin:admin:112.80.62.214
+admin:admin:60.8.22.86
+admin:admin:124.225.55.202
+admin:admin:58.216.184.254
+admin:admin:60.176.233.25
+admin:admin:183.129.199.242
+admin:admin:118.112.183.204
+admin:admin:39.76.255.237
+admin:admin:183.157.168.245
+admin:admin:59.49.224.9
+admin:admin:218.23.24.203
+admin:admin:218.66.42.153
+admin:admin:221.231.124.148
+admin:admin:61.177.234.158
+admin:admin:39.64.64.190
+admin:admin:123.183.163.66
+admin:admin:60.255.181.249
+admin:admin:222.189.63.90
+admin:admin:27.185.13.212
+admin:admin:222.179.165.157
+admin:admin:123.11.234.203
+admin:admin:153.99.84.154
+admin:admin:115.238.98.210
+admin:admin:218.89.55.224
+admin:admin:60.171.157.72
+admin:admin:220.162.205.166
+admin:admin:118.81.189.59
+admin:admin:183.167.236.33
+admin:admin:171.221.211.89
+admin:admin:218.63.204.41
+admin:admin:121.31.57.194
+admin:admin:58.210.44.210
+admin:admin:111.122.123.48
+admin:admin:110.249.178.222
+admin:admin:180.102.174.208
+admin:admin:115.200.243.164
+admin:admin:27.215.109.24
+admin:admin:221.14.138.88
+admin:admin:218.28.90.62
+admin:admin:183.129.219.70
+admin:admin:106.112.132.244
+admin:admin:114.104.151.114
+admin:admin:58.218.183.9
+admin:admin:218.93.115.122
+admin:admin:183.157.172.12
+admin:admin:140.75.165.118
+admin:admin:220.179.180.185
+admin:admin:202.111.210.2
+admin:admin:58.56.182.42
+admin:admin:116.54.117.254
+admin:admin:61.189.242.137
+admin:admin:14.106.0.122
+admin:admin:183.167.231.172
+admin:admin:183.157.172.207
+admin:admin:183.24.99.107
+admin:admin:58.33.127.26
+admin:admin:58.214.237.66
+admin:admin:222.178.231.218
+admin:admin:58.56.153.226
+admin:admin:59.56.62.65
+admin:admin:171.110.123.2
+admin:admin:121.230.90.126
+admin:admin:58.222.202.90
+admin:admin:61.185.86.254
+admin:admin:220.180.107.193
+admin:admin:58.42.222.216
+admin:admin:60.165.100.31
+admin:admin:183.143.80.230
+DUP support:support:202.111.6.242
+DUP guest:guest:202.111.6.242
+DUP ubnt:ubnt:202.111.6.242
+DUP root:root:202.111.6.242
+admin:admin:202.111.6.242
+admin:admin:111.75.248.229
+admin:admin:61.191.101.110
+admin:admin:122.227.156.22
+admin:admin:219.135.137.26
+admin:admin:122.225.6.130
+admin:admin:218.2.23.130
+admin:admin:42.243.75.54
+admin:admin:122.224.159.86
+admin:admin:58.59.90.186
+admin:admin:171.8.197.61
+admin:admin:119.145.189.118
+admin:admin:121.228.125.156
+admin:admin:61.153.69.214
+admin:admin:116.55.170.218
+admin:admin:121.33.223.210
+admin:admin:124.239.211.76
+admin:admin:124.78.53.237
+admin:admin:58.33.104.170
+admin:admin:222.189.12.234
+admin:admin:121.227.247.62
+admin:admin:1.180.177.14
+admin:admin:58.54.248.18
+admin:admin:122.247.180.93
+admin:admin:218.93.232.166
+admin:admin:58.216.202.98
+admin:admin:61.183.150.42
+admin:admin:218.92.97.50
+admin:admin:220.164.2.111
+admin:admin:117.40.191.184
+admin:admin:60.161.198.63
+admin:admin:183.66.53.58
+admin:admin:58.46.64.29
+admin:admin:114.139.38.96
+admin:admin:61.177.41.254
+admin:admin:58.222.109.122
+admin:admin:58.56.25.170
+admin:admin:183.159.75.214
+admin:admin:61.160.93.110
+admin:admin:218.21.83.24
+admin:admin:182.245.233.250
+admin:admin:58.56.144.102
+admin:admin:106.81.228.194
+admin:admin:220.170.69.207
+admin:admin:59.49.102.218
+admin:admin:180.102.254.125
+admin:admin:60.162.237.195
+admin:admin:219.139.51.237
+admin:admin:58.211.180.50
+admin:admin:125.88.165.112
+admin:admin:221.224.159.226
+admin:admin:218.14.212.74
+admin:admin:222.220.162.110
+admin:admin:222.173.181.58
+guest:guest:58.220.234.18
+admin:admin:171.211.79.38
+admin:admin:125.125.70.34
+admin:admin:2.140.166.60
+admin:admin:114.220.140.165
+admin:admin:61.166.225.210
+admin:admin:223.241.247.198
+admin:admin:219.139.43.34
+admin:admin:180.125.7.192
+admin:admin:115.210.4.249
+admin:admin:113.65.189.98
+admin:admin:180.109.122.234
+admin:admin:218.2.23.131
+admin:admin:115.217.70.205
+admin:admin:221.228.96.130
+admin:admin:14.117.228.122
+admin:admin:1.193.39.124
+admin:admin:182.245.175.225
+admin:admin:116.248.28.30
+admin:admin:140.255.143.75
+admin:admin:183.157.169.18
+admin:admin:119.139.197.6
+admin:admin:124.117.225.74
+admin:admin:112.113.102.11
+admin:admin:14.118.212.66
+admin:admin:110.185.169.18
+admin:admin:58.211.96.154
+admin:admin:220.164.126.185
+admin:admin:106.81.228.4
+admin:admin:116.30.4.160
+admin:admin:221.224.71.226
+admin:admin:58.48.184.250
+admin:admin:122.224.167.154
+admin:admin:221.231.116.114
+admin:admin:222.95.49.125
+admin:admin:58.210.121.182
+admin:admin:182.106.239.149
+admin:admin:220.165.59.120
+admin:admin:183.64.214.239
+admin:admin:58.216.215.66
+admin:admin:222.212.90.54
+admin:admin:60.174.72.69
+admin:admin:125.77.5.157
+admin:admin:219.146.247.94
+admin:admin:111.175.129.69
+admin:admin:60.173.102.41
+admin:admin:116.23.92.233
+admin:admin:61.170.130.2
+admin:admin:125.75.117.132
+admin:admin:183.157.174.115
+admin:admin:110.180.240.152
+admin:admin:218.4.114.10
+admin:admin:60.174.249.65
+admin:admin:59.45.171.158
+admin:admin:218.21.40.222
+admin:admin:118.125.106.63
+admin:admin:61.189.188.43
+admin:admin:183.129.199.242
+admin:admin:219.159.231.251
+root:root:37.158.228.185
+admin:admin:58.56.177.142
+admin:admin:222.77.230.201
+ubnt:ubnt:118.113.46.20
+admin:admin:58.211.117.198
+admin:admin:219.147.218.245
+admin:admin:222.188.127.178
+admin:admin:218.92.116.38
+admin:admin:183.157.172.232
+admin:admin:222.222.105.204
+ubnt:ubnt:81.36.93.96
+admin:admin:218.91.156.42
+root:root:66.102.250.170
+admin:admin:58.57.178.30
+admin:admin:49.65.2.198
+admin:admin:218.70.82.134
+admin:admin:58.214.26.206
+admin:admin:58.33.145.46
+admin:admin:219.135.149.67
+admin:admin:111.122.123.48
+admin:admin:122.226.174.118
+admin:admin:113.105.133.246
+admin:admin:183.157.168.245
+admin:admin:220.180.209.51
+admin:admin:58.222.254.90
+guest:guest:121.225.19.38
+admin:admin:2.141.185.79
+admin:admin:88.31.55.138
+admin:admin:222.190.254.18
+admin:admin:58.209.101.174
+admin:admin:122.224.141.26
+admin:admin:218.23.210.91
+admin:admin:220.164.2.73
+admin:admin:14.145.174.24
+admin:admin:125.70.84.212
+ubnt:ubnt:79.150.254.62
+admin:admin:221.226.117.126
+admin:admin:218.64.81.43
+admin:admin:61.177.81.158
+admin:admin:49.88.48.14
+admin:admin:219.146.101.198
+admin:admin:222.220.232.52
+admin:admin:202.104.45.8
+admin:admin:27.128.206.253
+admin:admin:222.218.17.199
+admin:admin:60.169.46.148
+admin:admin:122.227.151.54
+admin:admin:106.92.149.241
+admin:admin:218.2.33.140
+admin:admin:113.88.118.117
+admin:admin:36.99.221.240
+admin:admin:58.221.148.86
+admin:admin:60.160.21.13
+admin:admin:223.154.233.86
+admin:admin:183.30.204.223
+admin:admin:221.236.33.60
+admin:admin:115.238.94.18
+admin:admin:183.66.184.34
+admin:admin:122.235.98.170
+admin:admin:115.226.23.45
+admin:admin:58.221.251.250
+admin:admin:182.241.92.70
+admin:admin:221.234.216.75
+admin:admin:116.10.142.79
+admin:admin:59.37.126.25
+admin:admin:222.180.149.94
+admin:admin:58.214.243.146
+admin:admin:222.189.63.90
+admin:admin:1.193.145.31
+admin:admin:122.233.248.104
+admin:admin:58.216.233.243
+admin:admin:119.1.105.244
+admin:admin:61.160.66.126
+admin:admin:220.163.13.156
+admin:admin:218.94.62.59
+admin:admin:218.63.204.41
+admin:admin:221.226.135.210
+admin:admin:58.217.101.73
+admin:admin:106.83.114.226
+admin:admin:218.2.130.222
+admin:admin:125.77.83.84
+admin:admin:218.13.173.130
+admin:admin:58.49.171.195
+admin:admin:219.138.9.117
+admin:admin:182.150.186.135
+admin:admin:222.170.210.146
+admin:admin:113.81.208.152
+admin:admin:58.218.236.106
+admin:admin:222.188.123.154
+admin:admin:219.138.89.251
+admin:admin:122.233.211.15
+admin:admin:183.67.94.53
+admin:admin:58.215.223.158
+admin:admin:116.52.252.222
+admin:admin:182.141.29.200
+admin:admin:113.118.218.147
+admin:admin:183.11.235.22
+admin:admin:49.65.2.205
+admin:admin:49.65.2.196
+admin:admin:113.128.184.110
+admin:admin:125.75.45.46
+admin:admin:222.222.254.67
+admin:admin:115.198.4.28
+admin:admin:183.166.79.172
+admin:admin:61.150.104.73
+admin:admin:180.104.126.86
+admin:admin:183.66.184.158
+admin:admin:114.217.80.117
+admin:admin:60.161.85.205
+admin:admin:115.221.233.184
+admin:admin:183.48.26.79
+admin:admin:113.135.192.179
+admin:admin:113.107.76.228
+admin:admin:60.174.93.14
+admin:admin:61.184.160.166
+admin:admin:218.17.137.134
+admin:admin:222.186.113.89
+admin:admin:218.64.215.68
+admin:admin:58.217.98.13
+admin:admin:183.157.170.97
+admin:admin:58.56.145.234
+admin:admin:122.232.146.69
+admin:admin:222.179.125.77
+admin:admin:123.168.238.163
+admin:admin:222.186.65.77
+admin:admin:111.172.25.85
+admin:admin:182.242.244.116
+admin:admin:218.63.53.4
+admin:admin:14.117.179.138
+admin:admin:222.190.130.246
+admin:admin:218.75.52.110
+admin:admin:58.56.101.22
+admin:admin:106.92.2.126
+admin:admin:117.71.178.27
+admin:admin:121.205.67.106
+admin:admin:61.150.88.22
+admin:admin:221.231.5.106
+admin:admin:218.94.134.170
+admin:admin:58.37.134.97
+admin:admin:36.24.224.171
+admin:admin:222.94.38.31
+admin:admin:61.132.117.118
+admin:admin:61.145.181.23
+admin:admin:122.224.30.214
+admin:admin:58.216.226.162
+admin:admin:125.75.36.69
+admin:admin:219.139.118.228
+admin:admin:121.205.89.53
+admin:admin:14.215.235.54
+admin:admin:110.80.46.99
+admin:admin:106.46.114.70
+admin:admin:223.244.252.47
+guest:guest:171.221.157.231
+admin:admin:115.199.238.207
+admin:admin:124.118.151.174
+admin:admin:218.92.49.6
+admin:admin:58.221.231.226
+admin:admin:58.210.7.226
+admin:admin:113.110.20.154
+admin:admin:219.146.247.134
+admin:admin:58.57.51.138
+admin:admin:116.208.254.17
+admin:admin:182.150.114.197
+admin:admin:110.180.242.145
+admin:admin:219.149.220.82
+admin:admin:218.93.177.58
+admin:admin:61.146.130.150
+admin:admin:59.49.137.15
+admin:admin:110.185.171.219
+admin:admin:183.64.247.122
+admin:admin:125.77.89.41
+admin:admin:218.86.223.68
+admin:admin:113.26.251.69
+admin:admin:58.219.26.90
+admin:admin:221.231.8.102
+admin:admin:219.129.1.186
+admin:admin:60.164.203.18
+admin:admin:222.74.33.54
+admin:admin:49.64.37.159
+admin:admin:123.54.69.56
+admin:admin:58.49.171.196
+admin:admin:125.75.47.3
+admin:admin:110.185.161.138
+admin:admin:183.67.90.61
+admin:admin:60.165.200.175
+admin:admin:222.179.123.78
+admin:admin:113.241.138.145
+admin:admin:221.226.213.146
+admin:admin:218.70.11.186
+admin:admin:60.173.252.65
+admin:admin:219.147.20.186
+admin:admin:115.204.180.188
+root:root:180.141.78.13
+admin:admin:60.190.7.26
+admin:admin:180.102.174.208
+admin:admin:61.166.196.114
+admin:admin:58.42.211.41
+admin:admin:219.134.190.133
+admin:admin:49.75.196.125
+admin:admin:218.75.119.218
+admin:admin:222.211.162.234
+admin:admin:119.144.124.31
+admin:admin:221.234.48.37
+admin:admin:115.238.98.210
+admin:admin:222.174.182.58
+admin:admin:219.149.165.194
+admin:admin:202.104.204.69
+admin:admin:36.97.181.116
+admin:admin:60.173.167.19
+admin:admin:59.41.198.116
+admin:admin:182.138.160.254
+admin:admin:1.192.63.234
+admin:admin:116.52.148.2
+admin:admin:106.32.24.226
+admin:admin:222.182.58.243
+admin:admin:219.129.236.174
+admin:admin:222.242.225.229
+admin:admin:220.167.54.98
+admin:admin:119.60.29.78
+admin:admin:218.93.37.18
+admin:admin:115.236.7.226
+admin:admin:115.203.182.106
+admin:admin:219.139.51.135
+admin:admin:219.130.115.150
+admin:admin:119.96.62.254
+admin:admin:58.213.193.90
+admin:admin:222.223.150.143
+admin:admin:220.163.124.26
+admin:admin:183.129.131.186
+admin:admin:61.136.143.131
+admin:admin:218.91.231.122
+admin:admin:58.210.62.54
+admin:admin:171.221.199.38
+admin:admin:59.49.224.9
+admin:admin:58.58.42.242
+admin:admin:222.174.58.194
+admin:admin:183.66.196.138
+admin:admin:218.93.227.26
+admin:admin:222.87.16.72
+admin:admin:222.169.196.14
+admin:admin:218.63.201.210
+admin:admin:59.172.106.182
+admin:admin:125.91.142.114
+admin:admin:221.226.251.42
+admin:admin:219.139.51.170
+admin:admin:27.129.128.83
+admin:admin:222.86.174.227
+admin:admin:125.91.142.125
+admin:admin:183.138.16.100
+admin:admin:118.112.183.204
+admin:admin:125.68.137.129
+admin:admin:113.87.86.71
+admin:admin:220.164.2.110
+admin:admin:122.225.237.122
+admin:admin:222.175.127.166
+admin:admin:59.42.9.155
+admin:admin:222.87.41.35
+admin:admin:220.174.236.144
+admin:admin:124.225.55.202
+admin:admin:183.63.144.186
+admin:admin:115.233.211.254
+admin:admin:183.157.169.29
+admin:admin:59.48.148.130
+admin:admin:222.74.241.2
+admin:admin:222.244.147.214
+admin:admin:221.231.124.148
+admin:admin:116.21.127.166
+admin:admin:112.115.237.85
+admin:admin:60.160.235.87
+admin:admin:115.192.51.62
+admin:admin:182.247.101.46
+admin:admin:36.7.129.46
+admin:admin:183.66.217.170
+admin:admin:59.49.131.113
+admin:admin:125.70.161.22
+admin:admin:81.44.221.77
+admin:admin:218.94.141.194
+admin:admin:219.139.51.218
+admin:admin:218.19.93.130
+admin:admin:125.64.77.74
+admin:admin:223.8.121.58
+admin:admin:122.226.151.66
+admin:admin:218.75.48.174
+admin:admin:88.31.26.22
+admin:admin:219.144.129.26
+admin:admin:123.183.158.12
+admin:admin:183.141.169.114
+admin:admin:58.56.154.170
+admin:admin:222.178.234.186
+admin:admin:106.87.40.104
+admin:admin:220.162.205.166
+admin:admin:58.42.245.114
+admin:admin:37.13.131.25
+admin:admin:183.63.79.194
+admin:admin:60.165.241.204
+admin:admin:222.189.12.2
+admin:admin:183.157.169.56
+admin:admin:222.181.154.183
+admin:admin:222.92.94.118
+admin:admin:59.57.85.2
+admin:admin:125.121.14.91
+admin:admin:218.4.228.92
+admin:admin:36.22.182.130
+admin:admin:115.218.117.147
+admin:admin:61.166.164.43
+admin:admin:117.68.154.38
+admin:admin:218.17.141.81
+admin:admin:120.35.33.153
+admin:admin:121.10.1.119
+admin:admin:121.235.157.56
+admin:admin:218.94.10.2
+admin:admin:183.157.173.237
+admin:admin:58.33.138.203
+guest:guest:61.184.176.231
+admin:admin:59.60.25.175
+admin:admin:117.94.181.233
+admin:admin:124.235.224.157
+admin:admin:61.140.78.195
+admin:admin:183.63.46.34
+admin:admin:60.167.74.14
+admin:admin:221.224.160.2
+admin:admin:59.174.193.216
+admin:admin:220.179.44.25
+admin:admin:58.54.246.226
+admin:admin:218.64.215.67
+admin:admin:125.86.125.196
+admin:admin:14.21.23.205
+admin:admin:116.10.143.148
+admin:admin:180.142.111.132
+admin:admin:221.226.27.214
+admin:admin:171.94.112.223
+admin:admin:218.3.120.165
+admin:admin:182.150.52.14
+admin:admin:124.226.232.197
+admin:admin:124.227.196.103
+admin:admin:106.92.0.80
+admin:admin:223.199.20.224
+admin:admin:113.13.182.141
+guest:guest:60.174.92.50
+admin:admin:116.248.182.132
+admin:admin:220.167.112.3
+admin:admin:122.5.6.238
+admin:admin:222.173.98.166
+admin:admin:111.122.230.99
+admin:admin:83.37.139.98
+admin:admin:220.163.13.157
+admin:admin:220.164.192.31
+admin:admin:183.142.209.39
+admin:admin:183.26.224.173
+admin:admin:219.152.24.117
+admin:admin:116.252.221.98
+admin:admin:183.161.36.202
+admin:admin:119.1.160.67
+guest:guest:218.64.57.12
+admin:admin:58.55.57.240
+admin:admin:58.218.151.6
+admin:admin:218.89.55.224
+admin:admin:222.173.144.150
+admin:admin:106.5.45.162
+admin:admin:222.221.36.120
+admin:admin:121.8.197.6
+admin:admin:58.211.50.2
+admin:admin:113.100.190.137
+admin:admin:119.86.85.127
+admin:admin:106.87.23.202
+admin:admin:123.163.19.197
+admin:admin:58.57.254.198
+admin:admin:119.98.223.76
+admin:admin:223.159.17.20
+admin:admin:218.93.198.218
+admin:admin:61.130.176.54
+admin:admin:61.128.133.2
+admin:admin:220.168.164.30
+admin:admin:61.177.75.22
+admin:admin:115.238.107.242
+admin:admin:218.87.91.173
+admin:admin:220.163.13.154
+admin:admin:182.151.199.20
+admin:admin:220.165.28.9
+admin:admin:115.239.178.254
+admin:admin:218.4.150.253
+admin:admin:36.7.147.154
+admin:admin:222.220.162.107
+admin:admin:60.169.86.97
+admin:admin:222.223.41.92
+admin:admin:113.102.163.24
+admin:admin:121.11.161.175
+admin:admin:219.159.164.105
+admin:admin:61.166.110.178
+admin:admin:58.212.63.129
+admin:admin:220.166.88.26
+admin:admin:222.184.14.226
+admin:admin:222.188.105.154
+admin:admin:219.138.59.240
+admin:admin:59.49.185.228
+admin:admin:61.191.183.210
+admin:admin:171.223.209.234
+admin:admin:222.182.189.13
+admin:admin:114.135.10.194
+admin:admin:223.150.27.130
+admin:admin:218.13.54.194
+admin:admin:220.166.172.161
+admin:admin:221.231.4.186
+admin:admin:116.55.19.162
+admin:admin:221.233.12.133
+admin:admin:222.86.171.81
+admin:admin:222.89.107.11
+admin:admin:171.221.223.9
+admin:admin:121.11.170.152
+admin:admin:125.109.159.213
+admin:admin:36.6.51.38
+admin:admin:182.106.203.156
+admin:admin:219.139.51.238
+admin:admin:220.170.95.178
+admin:admin:113.122.36.203
+admin:admin:14.107.159.185
+admin:admin:113.110.221.161
+admin:admin:58.33.149.234
+admin:admin:222.217.144.185
+admin:admin:218.75.190.210
+admin:admin:119.1.195.116
+admin:admin:219.159.203.119
+admin:admin:183.157.186.92
+admin:admin:218.4.157.46
+admin:admin:125.119.76.93
+admin:admin:61.178.90.183
+admin:admin:115.210.121.28
+admin:admin:118.113.105.216
+admin:admin:218.23.24.203
+admin:admin:220.167.111.111
+admin:admin:61.154.144.98
+admin:admin:222.75.176.138
+admin:admin:222.175.151.210
+admin:admin:223.150.27.115
+admin:admin:222.187.195.58
+admin:admin:218.2.23.132
+admin:admin:219.136.123.245
+admin:admin:1.207.242.7
+admin:admin:220.180.112.65
+admin:admin:115.219.45.236
+admin:admin:220.189.206.110
+admin:admin:116.31.224.245
+admin:admin:27.151.125.17
+admin:admin:112.113.66.219
+admin:admin:175.0.36.245
+admin:admin:58.37.53.37
+admin:admin:219.136.123.246
+admin:admin:219.159.234.250
+admin:admin:113.128.41.222
+admin:admin:120.40.69.169
+admin:admin:120.36.137.18
+admin:admin:222.175.79.94
+admin:admin:183.157.172.227
+admin:admin:218.63.117.177
+admin:admin:176.82.19.102
+admin:admin:112.116.126.34
+admin:admin:171.212.115.185
+admin:admin:111.122.191.113
+admin:admin:58.211.168.98
+admin:admin:122.225.205.254
+admin:admin:115.151.206.17
+admin:admin:222.240.51.85
+admin:admin:49.76.205.219
+admin:admin:220.166.43.46
+admin:admin:61.175.194.78
+admin:admin:220.172.249.152
+admin:admin:59.49.224.216
+admin:admin:58.58.205.46
+admin:admin:111.175.32.226
+admin:admin:59.50.94.201
+admin:admin:113.118.18.102
+admin:admin:183.138.92.77
+guest:guest:122.224.125.235
+admin:admin:106.86.155.125
+admin:admin:182.129.222.69
+admin:admin:123.97.157.244
+admin:admin:113.140.21.186
+admin:admin:122.227.193.46
+admin:admin:114.98.62.13
+admin:admin:58.218.61.70
+admin:admin:106.59.125.68
+admin:admin:176.82.82.115
+admin:admin:171.221.211.89
+admin:admin:58.211.177.211
+admin:admin:58.56.55.206
+admin:admin:58.213.44.38
+admin:admin:60.187.207.200
+admin:admin:218.2.210.246
+admin:admin:183.157.174.255
+admin:admin:27.154.233.146
+admin:admin:220.164.2.131
+admin:admin:58.211.42.107
+admin:admin:218.17.241.76
+admin:admin:115.231.194.234
+admin:admin:59.49.32.27
+admin:admin:182.138.194.191
+admin:admin:183.65.43.110
+admin:admin:220.163.141.236
+admin:admin:106.112.138.69
+admin:admin:58.33.30.91
+admin:admin:122.226.114.222
+admin:admin:182.136.239.29
+admin:admin:59.55.0.5
+admin:admin:115.219.43.172
+admin:admin:60.186.28.173
+admin:admin:58.56.113.58
+admin:admin:222.188.95.202
+admin:admin:219.147.10.126
+admin:admin:58.37.58.233
+admin:admin:113.66.230.35
+admin:admin:60.174.118.80
+admin:admin:49.71.16.92
+admin:admin:221.231.14.214
+admin:admin:61.144.101.13
+admin:admin:114.99.47.201
+admin:admin:171.92.251.32
+admin:admin:125.67.61.30
+admin:admin:59.37.21.219
+admin:admin:218.87.162.165
+admin:admin:58.56.115.178
+admin:admin:60.168.18.229
+admin:admin:61.130.5.138
+admin:admin:183.129.182.122
+admin:admin:58.48.195.102
+admin:admin:220.164.2.61
+admin:admin:222.240.159.130
+admin:admin:112.115.222.206
+admin:admin:58.218.110.179
+admin:admin:61.178.14.55
+admin:admin:220.172.165.134
+admin:admin:58.214.10.54
+admin:admin:110.185.6.113
+admin:admin:59.49.203.67
+admin:admin:125.109.186.244
+admin:admin:61.155.50.34
+admin:admin:221.230.1.113
+admin:admin:116.52.10.214
+admin:admin:222.180.208.6
+admin:admin:60.183.32.124
+admin:admin:222.173.98.230
+admin:admin:113.105.66.83
+admin:admin:222.242.226.98
+admin:admin:222.75.12.10
+admin:admin:183.131.28.102
+admin:admin:220.172.207.145
+admin:admin:182.150.116.60
+admin:admin:218.93.249.146
+admin:admin:222.175.153.42
+admin:admin:61.177.201.58
+admin:admin:124.227.196.102
+admin:admin:221.226.135.162
+admin:admin:122.227.78.74
+admin:admin:218.85.12.91
+admin:admin:49.85.213.215
+admin:admin:222.222.69.107
+admin:admin:106.87.85.166
+admin:admin:222.209.201.21
+admin:admin:222.180.203.138
+admin:admin:116.249.149.158
+admin:admin:219.138.88.164
+admin:admin:59.45.103.224
+admin:admin:218.92.213.182
+admin:admin:61.184.108.196
+admin:admin:171.217.5.67
+admin:admin:59.63.32.147
+admin:admin:42.243.110.90
+admin:admin:183.157.170.100
+admin:admin:61.175.134.27
+admin:admin:60.191.23.202
+admin:admin:121.205.68.116
+admin:admin:58.49.15.82
+admin:admin:218.22.36.228
+admin:admin:220.179.147.35
+admin:admin:222.240.252.90
+admin:admin:27.191.227.96
+admin:admin:58.56.153.218
+admin:admin:219.147.17.206
+admin:admin:171.216.84.55
+admin:admin:58.214.13.226
+admin:admin:180.101.225.194
+admin:admin:60.235.234.122
+admin:admin:123.52.43.233
+admin:admin:114.135.60.2
+admin:admin:36.7.110.188
+admin:admin:183.157.174.48
+admin:admin:124.116.40.178
+admin:admin:220.167.25.25
+admin:admin:113.140.87.162
+admin:admin:175.11.70.192
+ubnt:ubnt:2.139.223.70
+admin:admin:58.56.43.6
+admin:admin:59.55.5.4
+admin:admin:49.65.2.199
+admin:admin:58.213.80.242
+admin:admin:58.215.14.206
+admin:admin:183.159.183.254
+admin:admin:183.24.68.131
+admin:admin:223.247.37.241
+admin:admin:221.231.101.90
+admin:admin:120.33.89.28
+admin:admin:59.49.33.233
+admin:admin:106.81.229.15
+admin:admin:220.189.235.126
+admin:admin:220.160.203.44
+admin:admin:60.173.100.188
+ubnt:ubnt:83.55.236.196
+admin:admin:218.88.201.135
+admin:admin:59.45.114.4
+admin:admin:183.157.173.214
+admin:admin:219.139.51.84
+admin:admin:61.132.96.58
+admin:admin:122.247.86.246
+admin:admin:220.180.149.195
+admin:admin:177.87.43.4
+admin:admin:49.206.22.14
+admin:admin:117.191.103.163
+ubnt:ubnt:195.133.142.46
+ubnt:ubnt:187.108.67.186
+admin:admin:180.167.88.105
+admin:admin:203.122.10.45
+admin:admin:223.100.123.165
+admin:admin:189.114.140.70
+admin:admin:176.100.72.187
+DUP support:support:200.220.131.29
+DUP guest:guest:200.220.131.29
+DUP ubnt:ubnt:200.220.131.29
+DUP root:root:200.220.131.29
+admin:admin:200.220.131.29
+DUP support:support:177.39.186.46
+DUP guest:guest:177.39.186.46
+DUP ubnt:ubnt:177.39.186.46
+DUP root:root:177.39.186.46
+admin:admin:177.39.186.46
+admin:admin:111.21.67.182
+admin:admin:31.172.205.143
+admin:admin:40.72.100.51
+admin:admin:117.220.37.48
+admin:admin:39.129.83.10
+admin:admin:39.153.246.158
+admin:admin:189.112.213.37
+guest:guest:37.44.237.145
+admin:admin:120.194.107.72
+admin:admin:59.99.113.103
+admin:admin:111.20.225.153
+admin:admin:117.247.87.26
+admin:admin:183.3.140.163
+admin:admin:94.241.198.5
+admin:admin:117.213.182.54
+admin:admin:223.84.141.98
+admin:admin:183.24.99.107
+root:root:105.105.1.133
+admin:admin:203.192.208.1
+admin:admin:223.84.226.100
+admin:admin:177.160.4.59
+admin:admin:179.89.94.167
+admin:admin:86.110.189.50
+admin:admin:218.200.61.170
+admin:admin:95.31.91.70
+admin:admin:59.57.85.2
+admin:admin:60.165.200.175
+admin:admin:117.202.21.206
+admin:admin:111.12.138.222
+admin:admin:202.177.244.109
+admin:admin:1.202.77.162
+admin:admin:152.243.149.44
+admin:admin:41.200.165.40
+admin:admin:183.157.172.241
+admin:admin:117.187.96.197
+admin:admin:178.210.26.166
+DUP support:support:177.39.184.126
+DUP guest:guest:177.39.184.126
+DUP ubnt:ubnt:177.39.184.126
+DUP root:root:177.39.184.126
+admin:admin:177.39.184.126
+admin:admin:222.168.29.242
+admin:admin:120.224.38.97
+admin:admin:106.51.0.123
+admin:admin:114.79.161.8
+admin:admin:122.227.193.46
+ubnt:ubnt:223.10.6.239
+admin:admin:61.2.151.239
+admin:admin:110.77.143.94
+admin:admin:14.145.146.182
+DUP ubnt:ubnt:105.99.58.130
+DUP root:root:105.99.58.130
+admin:admin:105.99.58.130
+admin:admin:27.129.128.83
+admin:admin:210.18.98.174
+admin:admin:95.106.250.202
+admin:admin:14.139.122.62
+admin:admin:122.170.13.115
+admin:admin:85.140.182.130
+admin:admin:45.116.2.34
+root:root:200.145.10.29
+ubnt:ubnt:200.237.144.13
+admin:admin:112.27.219.118
+admin:admin:78.85.214.40
+admin:admin:61.130.174.74
+admin:admin:111.9.133.226
+DUP support:support:131.100.128.145
+DUP guest:guest:131.100.128.145
+DUP ubnt:ubnt:131.100.128.145
+DUP root:root:131.100.128.145
+admin:admin:131.100.128.145
+admin:admin:120.196.107.130
+admin:admin:122.15.91.146
+admin:admin:183.230.33.243
+admin:admin:200.164.238.218
+admin:admin:185.50.157.98
+admin:admin:112.133.231.182
+admin:admin:46.229.187.61
+admin:admin:183.201.181.28
+admin:admin:191.246.210.52
+admin:admin:183.129.182.122
+admin:admin:117.239.204.221
+admin:admin:182.75.22.254
+admin:admin:1.7.143.73
+admin:admin:178.22.193.249
+DUP support:support:190.15.121.241
+DUP guest:guest:190.15.121.241
+DUP ubnt:ubnt:190.15.121.241
+DUP root:root:190.15.121.241
+admin:admin:190.15.121.241
+admin:admin:111.17.198.250
+admin:admin:39.152.233.145
+root:root:2.181.6.71
+admin:admin:136.232.109.30
+admin:admin:222.173.98.110
+admin:admin:117.148.251.106
+admin:admin:221.178.190.3
+DUP support:support:190.15.111.153
+DUP guest:guest:190.15.111.153
+DUP ubnt:ubnt:190.15.111.153
+DUP root:root:190.15.111.153
+admin:admin:190.15.111.153
+admin:admin:58.17.103.18
+admin:admin:117.218.173.189
+admin:admin:182.78.253.182
+admin:admin:183.4.28.184
+ubnt:ubnt:66.96.204.164
+admin:admin:125.108.52.47
+admin:admin:111.17.208.232
+admin:admin:218.200.34.26
+root:root:197.200.10.8
+admin:admin:201.59.32.237
+DUP support:support:170.231.154.90
+DUP guest:guest:170.231.154.90
+DUP ubnt:ubnt:170.231.154.90
+DUP root:root:170.231.154.90
+admin:admin:170.231.154.90
+admin:admin:122.143.192.38
+root:root:41.109.5.194
+admin:admin:113.122.36.203
+admin:admin:117.232.87.18
+admin:admin:179.244.84.31
+admin:admin:180.169.168.86
+admin:admin:111.42.174.168
+admin:admin:222.162.70.164
+admin:admin:113.107.76.228
+admin:admin:120.63.147.51
+admin:admin:103.227.96.85
+admin:admin:1.186.250.162
+support:support:178.187.252.89
+root:root:181.25.203.136
+admin:admin:106.120.15.134
+admin:admin:183.224.210.9
+admin:admin:175.100.181.58
+admin:admin:123.178.141.130
+admin:admin:58.18.135.210
+DUP support:support:190.15.99.105
+DUP guest:guest:190.15.99.105
+DUP ubnt:ubnt:190.15.99.105
+DUP root:root:190.15.99.105
+admin:admin:190.15.99.105
+DUP support:support:177.39.184.162
+DUP guest:guest:177.39.184.162
+DUP ubnt:ubnt:177.39.184.162
+DUP root:root:177.39.184.162
+admin:admin:177.39.184.162
+admin:admin:111.11.102.172
+admin:admin:45.126.254.39
+admin:admin:117.202.21.204
+admin:admin:182.73.229.226
+admin:admin:186.233.220.18
+admin:admin:119.226.54.218
+admin:admin:191.211.19.25
+DUP support:support:170.231.152.232
+DUP guest:guest:170.231.152.232
+DUP ubnt:ubnt:170.231.152.232
+DUP root:root:170.231.152.232
+admin:admin:170.231.152.232
+admin:admin:117.196.228.130
+ubnt:ubnt:179.97.89.47
+admin:admin:202.189.248.38
+admin:admin:124.78.53.237
+admin:admin:150.107.210.35
+root:root:200.19.246.54
+admin:admin:178.140.238.200
+admin:admin:121.33.223.210
+admin:admin:60.191.23.202
+admin:admin:183.230.63.107
+admin:admin:115.221.233.184
+admin:admin:117.245.140.42
+admin:admin:122.169.106.13
+admin:admin:117.141.96.168
+admin:admin:189.16.27.210
+admin:admin:202.177.244.106
+admin:admin:219.152.24.117
+DUP support:support:177.39.186.106
+DUP guest:guest:177.39.186.106
+DUP ubnt:ubnt:177.39.186.106
+DUP root:root:177.39.186.106
+admin:admin:177.39.186.106
+admin:admin:221.231.4.186
+admin:admin:61.183.174.238
+admin:admin:117.157.78.37
+admin:admin:180.104.117.174
+admin:admin:182.73.125.219
+admin:admin:201.59.155.186
+ubnt:ubnt:195.54.41.28
+admin:admin:223.82.1.6
+admin:admin:201.56.226.162
+admin:admin:191.201.206.146
+admin:admin:117.158.173.252
+admin:admin:39.64.41.113
+admin:admin:112.31.27.93
+admin:admin:61.178.14.55
+admin:admin:183.236.115.35
+DUP support:support:190.15.109.185
+DUP guest:guest:190.15.109.185
+DUP ubnt:ubnt:190.15.109.185
+DUP root:root:190.15.109.185
+admin:admin:190.15.109.185
+DUP support:support:170.231.152.140
+DUP guest:guest:170.231.152.140
+DUP ubnt:ubnt:170.231.152.140
+DUP root:root:170.231.152.140
+admin:admin:170.231.152.140
+admin:admin:186.215.143.9
+admin:admin:220.163.72.177
+admin:admin:222.176.128.2
+admin:admin:14.99.161.250
+admin:admin:112.16.185.108
+admin:admin:211.161.197.250
+admin:admin:112.27.68.167
+admin:admin:117.160.130.50
+admin:admin:123.252.180.104
+admin:admin:121.205.68.116
+admin:admin:113.7.113.206
+admin:admin:112.54.80.22
+DUP support:support:190.15.125.9
+DUP guest:guest:190.15.125.9
+DUP ubnt:ubnt:190.15.125.9
+DUP root:root:190.15.125.9
+admin:admin:190.15.125.9
+admin:admin:1.6.75.177
+ubnt:ubnt:80.11.63.107
+admin:admin:111.61.66.79
+DUP support:support:143.202.170.60
+DUP guest:guest:143.202.170.60
+DUP ubnt:ubnt:143.202.170.60
+DUP root:root:143.202.170.60
+admin:admin:143.202.170.60
+admin:admin:59.41.198.116
+DUP support:support:182.75.238.226
+admin:admin:182.75.238.226
+admin:admin:113.241.138.145
+admin:admin:5.141.246.19
+admin:admin:117.141.88.91
+admin:admin:201.55.89.34
+admin:admin:117.139.77.168
+DUP support:support:177.125.26.45
+DUP guest:guest:177.125.26.45
+DUP ubnt:ubnt:177.125.26.45
+DUP root:root:177.125.26.45
+admin:admin:177.125.26.45
+DUP guest:guest:122.2.5.14
+DUP ubnt:ubnt:122.2.5.14
+DUP root:root:122.2.5.14
+admin:admin:122.2.5.14
+DUP support:support:170.231.154.155
+DUP guest:guest:170.231.154.155
+DUP ubnt:ubnt:170.231.154.155
+DUP root:root:170.231.154.155
+admin:admin:170.231.154.155
+admin:admin:220.164.2.110
+admin:admin:180.169.40.126
+admin:admin:59.46.76.14
+admin:admin:183.230.135.43
+admin:admin:116.22.82.176
+admin:admin:14.139.217.242
+admin:admin:120.224.134.205
+admin:admin:183.247.194.53
+admin:admin:116.236.199.114
+admin:admin:218.202.177.222
+admin:admin:49.248.99.29
+admin:admin:191.18.90.57
+support:support:80.71.218.90
+admin:admin:112.27.129.78
+admin:admin:112.26.187.155
+admin:admin:112.36.21.46
+admin:admin:182.76.252.146
+root:root:105.105.219.30
+DUP support:support:131.108.9.189
+DUP guest:guest:131.108.9.189
+DUP ubnt:ubnt:131.108.9.189
+DUP root:root:131.108.9.189
+admin:admin:131.108.9.189
+admin:admin:111.2.9.108
+admin:admin:187.87.127.29
+admin:admin:113.137.144.26
+admin:admin:115.218.117.147
+ubnt:ubnt:94.180.185.11
+ubnt:ubnt:163.53.252.155
+DUP support:support:186.208.18.105
+DUP guest:guest:186.208.18.105
+DUP ubnt:ubnt:186.208.18.105
+DUP root:root:186.208.18.105
+admin:admin:186.208.18.105
+admin:admin:123.191.40.155
+ubnt:ubnt:201.159.154.246
+admin:admin:150.242.229.146
+admin:admin:150.165.183.119
+admin:admin:58.214.5.100
+admin:admin:91.219.58.18
+admin:admin:60.173.180.240
+DUP support:support:177.39.191.118
+DUP guest:guest:177.39.191.118
+DUP ubnt:ubnt:177.39.191.118
+DUP root:root:177.39.191.118
+admin:admin:177.39.191.118
+ubnt:ubnt:201.20.182.153
+admin:admin:188.114.36.239
+admin:admin:117.221.67.65
+ubnt:ubnt:177.53.28.234
+admin:admin:61.177.234.158
+admin:admin:1.6.223.193
+admin:admin:103.245.33.187
+DUP support:support:190.15.119.201
+DUP guest:guest:190.15.119.201
+DUP ubnt:ubnt:190.15.119.201
+DUP root:root:190.15.119.201
+admin:admin:190.15.119.201
+root:root:2.177.77.25
+admin:admin:220.174.35.236
+admin:admin:93.183.124.72
+admin:admin:117.158.111.174
+DUP ubnt:ubnt:105.99.50.95
+DUP root:root:105.99.50.95
+admin:admin:105.99.50.95
+admin:admin:117.211.167.134
+root:root:200.135.0.86
+admin:admin:221.231.5.106
+admin:admin:112.2.46.126
+admin:admin:183.203.161.199
+admin:admin:58.56.182.42
+admin:admin:179.146.252.246
+admin:admin:77.82.179.126
+admin:admin:120.238.254.198
+support:support:213.141.224.178
+DUP support:support:138.122.143.129
+DUP guest:guest:138.122.143.129
+DUP ubnt:ubnt:138.122.143.129
+DUP root:root:138.122.143.129
+admin:admin:138.122.143.129
+DUP support:support:170.231.154.183
+DUP guest:guest:170.231.154.183
+DUP ubnt:ubnt:170.231.154.183
+DUP root:root:170.231.154.183
+admin:admin:170.231.154.183
+admin:admin:125.16.131.24
+admin:admin:119.1.233.173
+admin:admin:150.165.183.113
+admin:admin:92.49.140.54
+ubnt:ubnt:191.242.80.126
+admin:admin:203.92.43.14
+admin:admin:111.43.226.4
+admin:admin:117.207.239.216
+admin:admin:27.106.20.91
+admin:admin:191.8.73.31
+admin:admin:90.80.173.165
+admin:admin:103.242.62.101
+admin:admin:111.230.151.179
+DUP support:support:190.15.119.217
+DUP guest:guest:190.15.119.217
+DUP ubnt:ubnt:190.15.119.217
+DUP root:root:190.15.119.217
+admin:admin:190.15.119.217
+ubnt:ubnt:103.89.58.238
+admin:admin:183.157.167.118
+admin:admin:220.170.69.207
+admin:admin:117.141.32.74
+admin:admin:114.95.121.42
+admin:admin:203.88.138.87
+admin:admin:136.232.247.186
+admin:admin:120.224.95.43
+admin:admin:112.6.121.11
+admin:admin:45.116.2.35
+admin:admin:222.75.143.70
+admin:admin:5.166.184.17
+ubnt:ubnt:170.254.250.70
+admin:admin:183.196.210.48
+admin:admin:114.143.155.22
+DUP support:support:186.233.223.181
+DUP guest:guest:186.233.223.181
+DUP ubnt:ubnt:186.233.223.181
+DUP root:root:186.233.223.181
+admin:admin:186.233.223.181
+admin:admin:94.180.58.51
+admin:admin:111.8.181.40
+DUP support:support:190.15.111.177
+DUP guest:guest:190.15.111.177
+DUP ubnt:ubnt:190.15.111.177
+DUP root:root:190.15.111.177
+admin:admin:190.15.111.177
+admin:admin:60.174.249.65
+ubnt:ubnt:103.40.201.39
+admin:admin:197.207.56.167
+DUP support:support:177.39.184.174
+DUP guest:guest:177.39.184.174
+DUP ubnt:ubnt:177.39.184.174
+DUP root:root:177.39.184.174
+admin:admin:177.39.184.174
+root:root:161.24.171.47
+admin:admin:179.85.29.123
+admin:admin:111.21.202.42
+admin:admin:113.105.133.246
+admin:admin:188.235.100.147
+admin:admin:59.56.62.65
+admin:admin:187.12.251.126
+root:root:105.104.97.22
+admin:admin:59.45.114.4
+admin:admin:103.50.6.227
+admin:admin:117.158.199.148
+admin:admin:58.33.30.91
+admin:admin:222.128.43.138
+admin:admin:200.155.187.179
+admin:admin:112.2.52.100
+DUP guest:guest:183.87.16.11
+admin:admin:183.87.16.11
+ubnt:ubnt:178.140.217.4
+admin:admin:116.252.221.98
+admin:admin:101.20.138.105
+admin:admin:186.215.143.149
+admin:admin:60.160.235.87
+admin:admin:83.146.99.62
+admin:admin:191.199.252.61
+admin:admin:116.236.115.214
+admin:admin:59.49.33.233
+admin:admin:222.134.69.78
+admin:admin:222.218.17.199
+admin:admin:103.82.147.94
+admin:admin:219.135.137.26
+admin:admin:113.140.21.186
+admin:admin:117.173.67.210
+admin:admin:117.197.57.77
+admin:admin:177.57.11.23
+admin:admin:113.0.250.232
+admin:admin:117.145.135.178
+root:root:189.14.23.53
+admin:admin:136.169.239.211
+admin:admin:123.178.153.106
+admin:admin:39.153.252.34
+admin:admin:103.36.126.30
+admin:admin:111.39.79.101
+admin:admin:116.73.23.79
+support:support:5.166.183.109
+admin:admin:189.126.76.177
+admin:admin:58.57.51.138
+root:root:195.112.108.69
+admin:admin:88.201.128.6
+admin:admin:182.74.33.221
+admin:admin:118.185.32.185
+admin:admin:189.59.4.9
+admin:admin:191.23.250.48
+admin:admin:60.190.7.26
+admin:admin:39.152.70.155
+admin:admin:92.100.2.209
+admin:admin:221.131.46.82
+admin:admin:117.132.14.228
+admin:admin:211.139.116.90
+admin:admin:1.7.174.77
+admin:admin:123.160.167.32
+root:root:105.104.0.232
+admin:admin:125.72.68.162
+admin:admin:223.100.191.208
+admin:admin:185.26.193.245
+ubnt:ubnt:200.237.128.59
+admin:admin:182.76.193.130
+DUP support:support:186.208.18.57
+DUP guest:guest:186.208.18.57
+DUP ubnt:ubnt:186.208.18.57
+DUP root:root:186.208.18.57
+admin:admin:186.208.18.57
+admin:admin:111.56.43.206
+DUP support:support:170.231.153.5
+DUP guest:guest:170.231.153.5
+DUP ubnt:ubnt:170.231.153.5
+DUP root:root:170.231.153.5
+admin:admin:170.231.153.5
+admin:admin:218.205.27.146
+admin:admin:191.9.151.231
+admin:admin:111.119.219.1
+admin:admin:79.165.170.155
+admin:admin:95.67.251.18
+admin:admin:220.163.13.156
+admin:admin:223.75.124.183
+DUP support:support:191.6.136.122
+DUP guest:guest:191.6.136.122
+DUP ubnt:ubnt:191.6.136.122
+DUP root:root:191.6.136.122
+admin:admin:191.6.136.122
+admin:admin:219.147.85.202
+admin:admin:59.91.23.25
+admin:admin:111.59.174.46
+admin:admin:49.248.163.180
+ubnt:ubnt:179.189.88.69
+admin:admin:191.194.207.127
+DUP support:support:189.127.11.133
+DUP guest:guest:189.127.11.133
+DUP ubnt:ubnt:189.127.11.133
+DUP root:root:189.127.11.133
+admin:admin:189.127.11.133
+admin:admin:60.160.85.16
+admin:admin:92.49.174.249
+ubnt:ubnt:202.160.134.24
+admin:admin:218.13.173.130
+admin:admin:222.212.90.54
+admin:admin:112.27.114.64
+admin:admin:1.193.145.31
+admin:admin:39.129.0.107
+root:root:143.107.224.7
+admin:admin:116.52.29.109
+admin:admin:200.228.176.2
+admin:admin:117.197.107.45
+admin:admin:123.168.238.163
+admin:admin:179.125.223.196
+admin:admin:103.211.23.89
+admin:admin:201.59.118.106
+admin:admin:191.196.210.160
+admin:admin:117.242.185.225
+admin:admin:45.249.78.26
+admin:admin:110.189.153.163
+admin:admin:183.250.32.74
+admin:admin:179.243.250.135
+admin:admin:112.27.153.26
+admin:admin:123.255.251.252
+guest:guest:61.184.176.231
+admin:admin:218.204.46.170
+admin:admin:176.107.80.98
+DUP support:support:177.12.237.145
+DUP guest:guest:177.12.237.145
+DUP ubnt:ubnt:177.12.237.145
+DUP root:root:177.12.237.145
+admin:admin:177.12.237.145
+admin:admin:117.195.132.203
+admin:admin:203.122.7.234
+admin:admin:120.193.50.158
+admin:admin:14.139.212.50
+admin:admin:117.157.69.40
+admin:admin:183.82.112.243
+admin:admin:37.112.113.144
+admin:admin:103.244.123.252
+admin:admin:106.201.237.254
+DUP support:support:190.15.111.129
+DUP guest:guest:190.15.111.129
+DUP ubnt:ubnt:190.15.111.129
+DUP root:root:190.15.111.129
+admin:admin:190.15.111.129
+admin:admin:39.129.4.94
+admin:admin:111.59.189.218
+admin:admin:203.109.100.138
+admin:admin:117.156.72.38
+ubnt:ubnt:82.124.137.229
+admin:admin:59.49.224.216
+admin:admin:210.18.98.172
+root:root:2.177.100.157
+admin:admin:182.73.74.77
+admin:admin:177.182.52.225
+admin:admin:58.210.81.74
+admin:admin:49.248.163.182
+admin:admin:112.11.237.102
+admin:admin:1.7.162.106
+admin:admin:191.36.164.185
+admin:admin:191.23.161.226
+admin:admin:111.56.31.30
+support:support:83.206.116.162
+ubnt:ubnt:185.145.126.165
+admin:admin:183.157.173.34
+admin:admin:219.136.123.245
+admin:admin:111.17.213.125
+DUP support:support:191.6.136.104
+DUP guest:guest:191.6.136.104
+DUP ubnt:ubnt:191.6.136.104
+DUP root:root:191.6.136.104
+admin:admin:191.6.136.104
+admin:admin:203.122.10.43
+root:root:143.107.224.8
+guest:guest:37.44.237.113
+root:root:105.102.253.60
+admin:admin:182.76.52.250
+root:root:200.145.10.203
+root:root:200.145.10.45
+admin:admin:223.100.63.187
+DUP support:support:186.208.26.243
+DUP guest:guest:186.208.26.243
+DUP ubnt:ubnt:186.208.26.243
+DUP root:root:186.208.26.243
+admin:admin:186.208.26.243
+admin:admin:103.248.118.6
+admin:admin:202.189.234.140
+admin:admin:111.39.27.241
+DUP support:support:186.208.18.9
+DUP guest:guest:186.208.18.9
+DUP ubnt:ubnt:186.208.18.9
+DUP root:root:186.208.18.9
+admin:admin:186.208.18.9
+admin:admin:111.21.73.46
+admin:admin:191.196.45.50
+admin:admin:61.246.174.20
+admin:admin:183.215.160.163
+admin:admin:59.97.238.49
+admin:admin:223.83.210.197
+admin:admin:58.52.119.146
+admin:admin:179.243.214.192
+admin:admin:200.24.83.56
+ubnt:ubnt:187.94.141.9
+ubnt:ubnt:90.63.224.18
+admin:admin:182.73.125.60
+admin:admin:117.247.84.125
+admin:admin:103.50.150.179
+ubnt:ubnt:183.82.122.139
+admin:admin:103.28.157.22
+admin:admin:14.117.228.122
+admin:admin:117.242.183.137
+admin:admin:1.6.182.243
+admin:admin:177.182.31.139
+admin:admin:112.31.237.129
+admin:admin:106.92.149.241
+DUP support:support:186.233.223.165
+DUP guest:guest:186.233.223.165
+DUP ubnt:ubnt:186.233.223.165
+DUP root:root:186.233.223.165
+admin:admin:186.233.223.165
+admin:admin:179.162.35.172
+support:support:178.234.35.74
+admin:admin:111.52.244.116
+admin:admin:120.234.194.6
+admin:admin:175.101.129.232
+admin:admin:219.139.51.84
+admin:admin:177.135.96.9
+admin:admin:186.215.198.223
+admin:admin:183.247.206.125
+admin:admin:189.114.139.241
+admin:admin:223.87.162.146
+admin:admin:111.42.174.143
+admin:admin:179.241.63.220
+support:support:31.162.144.134
+admin:admin:183.246.181.213
+ubnt:ubnt:31.135.97.4
+admin:admin:27.191.158.78
+admin:admin:117.200.212.55
+admin:admin:223.31.167.145
+admin:admin:219.139.43.34
+DUP support:support:170.231.155.240
+DUP guest:guest:170.231.155.240
+DUP ubnt:ubnt:170.231.155.240
+DUP root:root:170.231.155.240
+admin:admin:170.231.155.240
+admin:admin:112.11.221.148
+admin:admin:31.207.168.55
+admin:admin:182.156.209.174
+admin:admin:27.150.35.85
+admin:admin:223.82.28.194
+admin:admin:187.26.41.134
+admin:admin:111.42.38.113
+root:root:161.24.171.91
+DUP support:support:89.148.195.206
+admin:admin:89.148.195.206
+admin:admin:117.68.154.38
+admin:admin:178.210.8.73
+DUP support:support:190.15.104.113
+DUP guest:guest:190.15.104.113
+DUP ubnt:ubnt:190.15.104.113
+DUP root:root:190.15.104.113
+admin:admin:190.15.104.113
+admin:admin:189.114.67.217
+DUP support:support:190.15.119.161
+DUP guest:guest:190.15.119.161
+DUP ubnt:ubnt:190.15.119.161
+DUP root:root:190.15.119.161
+admin:admin:190.15.119.161
+admin:admin:179.103.127.41
+admin:admin:111.61.78.112
+root:root:105.97.75.81
+admin:admin:218.17.136.189
+support:support:77.233.178.22
+admin:admin:182.59.2.227
+admin:admin:106.201.236.108
+admin:admin:117.173.207.244
+admin:admin:222.32.28.159
+DUP support:support:37.113.69.156
+admin:admin:37.113.69.156
+admin:admin:183.82.0.92
+ubnt:ubnt:59.91.126.225
+admin:admin:103.245.33.186
+admin:admin:120.211.148.34
+admin:admin:220.167.114.91
+admin:admin:183.30.204.223
+DUP support:support:170.231.154.53
+DUP guest:guest:170.231.154.53
+DUP ubnt:ubnt:170.231.154.53
+DUP root:root:170.231.154.53
+admin:admin:170.231.154.53
+admin:admin:179.172.199.28
+admin:admin:117.141.88.92
+admin:admin:111.30.111.226
+DUP support:support:170.231.153.25
+DUP guest:guest:170.231.153.25
+DUP ubnt:ubnt:170.231.153.25
+DUP root:root:170.231.153.25
+admin:admin:170.231.153.25
+admin:admin:103.50.4.44
+admin:admin:112.27.49.74
+ubnt:ubnt:114.86.128.35
+admin:admin:202.177.185.193
+support:support:90.157.2.155
+admin:admin:183.82.101.64
+DUP support:support:177.91.33.31
+DUP guest:guest:177.91.33.31
+DUP ubnt:ubnt:177.91.33.31
+DUP root:root:177.91.33.31
+admin:admin:177.91.33.31
+admin:admin:113.107.255.210
+admin:admin:182.76.23.34
+admin:admin:223.31.62.150
+admin:admin:112.26.101.249
+DUP support:support:212.44.142.225
+DUP guest:guest:212.44.142.225
+DUP ubnt:ubnt:212.44.142.225
+DUP root:root:212.44.142.225
+admin:admin:212.44.142.225
+admin:admin:177.197.255.67
+admin:admin:14.215.246.10
+admin:admin:182.72.95.98
+admin:admin:187.26.57.162
+admin:admin:49.248.82.238
+ubnt:ubnt:101.100.169.42
+admin:admin:39.152.212.141
+support:support:187.75.133.42
+admin:admin:178.234.133.228
+DUP support:support:138.94.115.217
+DUP guest:guest:138.94.115.217
+DUP ubnt:ubnt:138.94.115.217
+DUP root:root:138.94.115.217
+admin:admin:138.94.115.217
+DUP support:support:170.231.153.162
+DUP guest:guest:170.231.153.162
+DUP ubnt:ubnt:170.231.153.162
+DUP root:root:170.231.153.162
+admin:admin:170.231.153.162
+admin:admin:59.37.126.25
+root:root:187.44.149.197
+admin:admin:111.21.202.18
+admin:admin:179.171.29.250
+support:support:200.158.147.176
+admin:admin:49.206.18.237
+admin:admin:49.248.163.181
+admin:admin:177.135.102.153
+admin:admin:183.182.87.51
+admin:admin:152.243.209.121
+admin:admin:111.63.25.98
+admin:admin:120.194.77.14
+admin:admin:117.202.21.203
+admin:admin:120.197.176.162
+admin:admin:36.158.71.5
+admin:admin:177.145.191.141
+admin:admin:223.83.164.134
+root:root:41.100.89.22
+admin:admin:111.26.165.191
+admin:admin:110.77.137.131
+admin:admin:122.225.237.122
+admin:admin:59.90.143.253
+admin:admin:183.249.114.167
+admin:admin:183.248.251.161
+admin:admin:1.6.68.37
+admin:admin:220.167.116.229
+admin:admin:117.210.211.213
+admin:admin:111.3.104.224
+admin:admin:200.222.74.170
+admin:admin:1.6.75.201
+admin:admin:58.33.149.234
+admin:admin:14.118.212.66
+guest:guest:180.169.180.250
+admin:admin:113.78.218.84
+admin:admin:112.31.250.19
+admin:admin:117.215.246.71
+admin:admin:210.210.113.29
+admin:admin:222.180.203.138
+admin:admin:117.247.83.94
+admin:admin:183.196.231.168
+admin:admin:115.200.126.57
+admin:admin:136.232.52.62
+DUP support:support:190.15.107.129
+DUP guest:guest:190.15.107.129
+DUP ubnt:ubnt:190.15.107.129
+DUP root:root:190.15.107.129
+admin:admin:190.15.107.129
+admin:admin:187.95.20.104
+admin:admin:125.20.210.70
+admin:admin:222.222.110.97
+DUP support:support:190.15.111.121
+DUP guest:guest:190.15.111.121
+DUP ubnt:ubnt:190.15.111.121
+DUP root:root:190.15.111.121
+admin:admin:190.15.111.121
+admin:admin:182.74.198.17
+admin:admin:223.30.205.246
+admin:admin:223.84.187.166
+admin:admin:179.112.154.49
+admin:admin:120.224.135.3
+admin:admin:49.207.1.173
+root:root:175.111.183.162
+DUP support:support:177.125.25.145
+DUP guest:guest:177.125.25.145
+DUP ubnt:ubnt:177.125.25.145
+DUP root:root:177.125.25.145
+admin:admin:177.125.25.145
+admin:admin:218.86.223.68
+admin:admin:222.222.69.107
+admin:admin:58.57.254.198
+admin:admin:117.232.117.146
+admin:admin:136.232.48.118
+admin:admin:222.221.36.120
+DUP support:support:177.125.25.61
+DUP guest:guest:177.125.25.61
+DUP ubnt:ubnt:177.125.25.61
+DUP root:root:177.125.25.61
+admin:admin:177.125.25.61
+admin:admin:183.224.210.8
+admin:admin:117.255.217.85
+admin:admin:58.56.113.58
+admin:admin:218.64.81.43
+admin:admin:60.172.5.101
+admin:admin:180.169.232.168
+admin:admin:200.170.220.170
+admin:admin:112.36.24.171
+admin:admin:223.30.82.33
+root:root:105.101.110.65
+support:support:87.224.248.7
+admin:admin:120.224.63.223
+admin:admin:187.86.255.84
+admin:admin:58.211.177.211
+admin:admin:120.224.61.192
+admin:admin:111.17.189.166
+admin:admin:103.212.129.210
+DUP support:support:170.231.154.46
+DUP guest:guest:170.231.154.46
+DUP ubnt:ubnt:170.231.154.46
+DUP root:root:170.231.154.46
+admin:admin:170.231.154.46
+admin:admin:183.246.78.78
+admin:admin:218.202.73.182
+admin:admin:186.215.130.242
+admin:admin:223.84.201.4
+admin:admin:222.189.12.234
+admin:admin:202.177.244.107
+admin:admin:1.6.233.253
+ubnt:ubnt:92.100.76.152
+DUP support:support:138.94.113.189
+DUP guest:guest:138.94.113.189
+DUP ubnt:ubnt:138.94.113.189
+DUP root:root:138.94.113.189
+admin:admin:138.94.113.189
+admin:admin:186.226.228.199
+support:support:92.242.13.178
+admin:admin:116.238.87.93
+root:root:143.107.43.5
+root:root:197.202.3.140
+admin:admin:170.247.29.55
+admin:admin:221.226.66.78
+admin:admin:103.216.164.50
+admin:admin:117.196.41.185
+admin:admin:112.27.223.83
+admin:admin:61.166.144.43
+admin:admin:195.239.202.14
+admin:admin:177.203.218.67
+admin:admin:120.193.251.110
+admin:admin:111.20.233.122
+admin:admin:60.10.56.11
+guest:guest:218.64.57.12
+admin:admin:117.28.26.18
+admin:admin:91.146.1.115
+admin:admin:188.32.91.208
+support:support:31.162.157.141
+root:root:41.108.161.89
+admin:admin:189.114.67.213
+admin:admin:123.255.251.250
+admin:admin:115.98.58.183
+admin:admin:189.58.240.73
+support:support:89.237.1.32
+admin:admin:120.224.211.130
+admin:admin:45.116.107.243
+admin:admin:179.189.179.132
+admin:admin:177.85.201.229
+DUP support:support:186.208.19.38
+DUP guest:guest:186.208.19.38
+DUP ubnt:ubnt:186.208.19.38
+DUP root:root:186.208.19.38
+admin:admin:186.208.19.38
+admin:admin:112.54.39.9
+admin:admin:223.196.76.66
+admin:admin:125.16.170.37
+DUP support:support:190.15.107.217
+DUP guest:guest:190.15.107.217
+DUP ubnt:ubnt:190.15.107.217
+DUP root:root:190.15.107.217
+admin:admin:190.15.107.217
+admin:admin:111.56.58.187
+admin:admin:203.88.138.66
+DUP support:support:186.236.69.185
+DUP guest:guest:186.236.69.185
+DUP ubnt:ubnt:186.236.69.185
+DUP root:root:186.236.69.185
+admin:admin:186.236.69.185
+admin:admin:177.74.156.153
+DUP support:support:190.15.123.105
+DUP guest:guest:190.15.123.105
+DUP ubnt:ubnt:190.15.123.105
+DUP root:root:190.15.123.105
+admin:admin:190.15.123.105
+ubnt:ubnt:189.5.245.123
+admin:admin:170.244.140.17
+admin:admin:117.160.150.21
+admin:admin:111.17.206.199
+guest:guest:37.44.237.193
+admin:admin:42.104.102.233
+admin:admin:49.206.16.146
+admin:admin:182.48.194.105
+admin:admin:116.228.231.78
+admin:admin:117.218.26.109
+admin:admin:203.88.138.84
+DUP support:support:138.94.114.5
+DUP guest:guest:138.94.114.5
+DUP ubnt:ubnt:138.94.114.5
+DUP root:root:138.94.114.5
+admin:admin:138.94.114.5
+admin:admin:111.21.202.98
+admin:admin:189.39.130.212
+DUP support:support:177.39.184.182
+DUP guest:guest:177.39.184.182
+DUP ubnt:ubnt:177.39.184.182
+DUP root:root:177.39.184.182
+admin:admin:177.39.184.182
+admin:admin:178.44.139.244
+admin:admin:120.234.139.22
+admin:admin:117.160.150.20
+admin:admin:175.101.151.185
+admin:admin:223.71.63.130
+ubnt:ubnt:188.126.63.146
+ubnt:ubnt:122.224.154.106
+admin:admin:219.91.207.188
+admin:admin:117.132.1.177
+DUP support:support:190.15.107.233
+DUP guest:guest:190.15.107.233
+DUP ubnt:ubnt:190.15.107.233
+DUP root:root:190.15.107.233
+admin:admin:190.15.107.233
+admin:admin:177.196.3.160
+admin:admin:182.74.224.122
+admin:admin:182.73.243.178
+admin:admin:182.245.175.225
+ubnt:ubnt:177.74.156.117
+DUP support:support:177.130.55.35
+DUP guest:guest:177.130.55.35
+DUP ubnt:ubnt:177.130.55.35
+DUP root:root:177.130.55.35
+admin:admin:177.130.55.35
+admin:admin:202.111.210.2
+admin:admin:117.212.170.53
+admin:admin:58.146.124.84
+admin:admin:111.61.141.112
+root:root:105.102.132.230
+admin:admin:120.224.10.12
+admin:admin:112.18.118.193
+admin:admin:59.42.9.155
+admin:admin:111.47.21.45
+admin:admin:117.187.16.113
+admin:admin:223.85.217.192
+admin:admin:1.6.183.193
+admin:admin:117.215.246.30
+admin:admin:222.240.159.130
+admin:admin:58.33.145.46
+ubnt:ubnt:79.164.121.135
+admin:admin:219.139.36.76
+admin:admin:111.17.201.99
+admin:admin:103.233.168.204
+ubnt:ubnt:178.248.4.199
+admin:admin:14.117.179.138
+admin:admin:117.218.154.219
+admin:admin:114.143.155.19
+admin:admin:120.234.131.12
+admin:admin:183.230.29.19
+admin:admin:180.142.111.132
+admin:admin:61.95.153.242
+admin:admin:117.139.244.182
+admin:admin:117.239.73.91
+admin:admin:187.71.30.192
+admin:admin:131.108.88.169
+admin:admin:220.171.100.62
+admin:admin:119.164.218.106
+admin:admin:117.239.118.100
+admin:admin:112.46.66.35
+admin:admin:223.94.126.141
+admin:admin:112.2.23.178
+admin:admin:189.112.112.42
+admin:admin:123.255.251.253
+admin:admin:179.112.145.61
+admin:admin:120.224.172.17
+support:support:94.31.221.186
+admin:admin:45.116.2.37
+admin:admin:211.143.127.108
+DUP support:support:138.122.143.250
+DUP guest:guest:138.122.143.250
+DUP ubnt:ubnt:138.122.143.250
+DUP root:root:138.122.143.250
+admin:admin:138.122.143.250
+admin:admin:117.223.155.152
+admin:admin:189.11.172.147
+admin:admin:114.217.80.117
+admin:admin:122.224.227.2
+admin:admin:218.90.227.214
+admin:admin:183.230.214.133
+admin:admin:103.224.33.236
+admin:admin:117.239.215.178
+admin:admin:182.73.74.75
+admin:admin:103.219.0.120
+DUP support:support:170.231.154.101
+DUP guest:guest:170.231.154.101
+DUP ubnt:ubnt:170.231.154.101
+DUP root:root:170.231.154.101
+admin:admin:170.231.154.101
+support:support:46.167.119.148
+admin:admin:114.29.236.135
+root:root:200.237.196.58
+admin:admin:115.217.36.92
+support:support:188.244.244.165
+admin:admin:123.232.39.106
+admin:admin:119.1.160.67
+admin:admin:223.93.68.97
+admin:admin:111.93.50.177
+admin:admin:111.59.184.168
+admin:admin:58.49.50.226
+admin:admin:191.37.39.195
+admin:admin:183.63.150.226
+admin:admin:177.19.171.225
+admin:admin:177.214.71.174
+admin:admin:59.97.238.231
+admin:admin:223.72.161.222
+admin:admin:103.90.159.38
+admin:admin:179.84.156.41
+DUP support:support:190.15.120.121
+DUP guest:guest:190.15.120.121
+DUP ubnt:ubnt:190.15.120.121
+DUP root:root:190.15.120.121
+admin:admin:190.15.120.121
+admin:admin:123.252.133.234
+admin:admin:182.75.22.253
+admin:admin:111.59.189.30
+admin:admin:222.220.162.110
+admin:admin:180.160.27.25
+DUP support:support:177.39.185.150
+DUP guest:guest:177.39.185.150
+DUP ubnt:ubnt:177.39.185.150
+DUP root:root:177.39.185.150
+admin:admin:177.39.185.150
+admin:admin:120.193.111.170
+admin:admin:103.77.23.198
+admin:admin:221.131.85.154
+root:root:200.160.7.61
+admin:admin:178.44.188.207
+admin:admin:219.145.1.224
+admin:admin:122.226.114.222
+admin:admin:27.54.175.180
+admin:admin:220.172.207.145
+admin:admin:211.140.150.222
+admin:admin:117.202.21.201
+admin:admin:182.73.165.218
+admin:admin:111.61.180.22
+admin:admin:123.252.136.138
+admin:admin:203.122.10.44
+admin:admin:81.30.177.213
+admin:admin:60.169.86.97
+admin:admin:120.36.137.18
+root:root:180.169.182.102
+admin:admin:27.106.106.110
+admin:admin:59.55.5.4
+admin:admin:120.192.19.90
+admin:admin:39.152.233.146
+admin:admin:124.123.35.35
+admin:admin:45.115.253.83
+admin:admin:112.115.195.118
+admin:admin:221.226.32.134
+admin:admin:179.89.41.195
+admin:admin:183.157.174.65
+admin:admin:95.181.92.76
+admin:admin:182.75.22.251
+admin:admin:117.135.212.130
+admin:admin:111.59.187.81
+admin:admin:113.110.20.154
+admin:admin:180.167.155.130
+admin:admin:58.57.48.186
+admin:admin:120.224.72.101
+admin:admin:112.6.32.27
+admin:admin:78.139.100.164
+admin:admin:120.205.43.230
+DUP support:support:190.15.98.201
+DUP guest:guest:190.15.98.201
+DUP ubnt:ubnt:190.15.98.201
+DUP root:root:190.15.98.201
+admin:admin:190.15.98.201
+admin:admin:183.177.126.33
+admin:admin:180.151.194.131
+admin:admin:220.179.157.69
+admin:admin:201.30.192.130
+DUP support:support:177.91.33.95
+DUP guest:guest:177.91.33.95
+DUP ubnt:ubnt:177.91.33.95
+DUP root:root:177.91.33.95
+admin:admin:177.91.33.95
+DUP support:support:138.94.114.229
+DUP guest:guest:138.94.114.229
+DUP ubnt:ubnt:138.94.114.229
+DUP root:root:138.94.114.229
+admin:admin:138.94.114.229
+admin:admin:105.105.172.92
+admin:admin:49.206.16.149
+ubnt:ubnt:93.188.18.10
+admin:admin:117.220.36.183
+admin:admin:191.207.126.71
+admin:admin:114.143.197.122
+admin:admin:187.37.218.79
+admin:admin:111.26.178.96
+admin:admin:58.48.184.250
+admin:admin:106.51.54.86
+ubnt:ubnt:59.89.119.177
+admin:admin:61.177.201.58
+admin:admin:61.3.99.123
+root:root:180.169.182.101
+admin:admin:183.82.120.135
+DUP support:support:190.15.121.49
+DUP guest:guest:190.15.121.49
+DUP ubnt:ubnt:190.15.121.49
+DUP root:root:190.15.121.49
+admin:admin:190.15.121.49
+DUP root:root:105.102.142.254
+admin:admin:105.102.142.254
+admin:admin:124.112.97.243
+admin:admin:218.75.190.210
+admin:admin:117.197.106.161
+admin:admin:179.133.250.134
+root:root:112.29.171.229
+DUP support:support:177.91.34.81
+DUP guest:guest:177.91.34.81
+DUP ubnt:ubnt:177.91.34.81
+DUP root:root:177.91.34.81
+admin:admin:177.91.34.81
+admin:admin:61.165.164.23
+admin:admin:61.177.30.134
+admin:admin:92.154.7.234
+admin:admin:200.170.197.122
+DUP support:support:131.100.129.193
+DUP guest:guest:131.100.129.193
+DUP ubnt:ubnt:131.100.129.193
+DUP root:root:131.100.129.193
+admin:admin:131.100.129.193
+root:root:2.187.205.98
+admin:admin:1.23.198.30
+admin:admin:125.16.170.45
+admin:admin:111.172.25.85
+admin:admin:179.146.206.191
+admin:admin:152.245.142.205
+admin:admin:122.15.149.153
+admin:admin:187.12.252.129
+admin:admin:183.224.192.113
+DUP support:support:177.39.184.46
+DUP guest:guest:177.39.184.46
+DUP ubnt:ubnt:177.39.184.46
+DUP root:root:177.39.184.46
+admin:admin:177.39.184.46
+admin:admin:1.7.143.55
+admin:admin:213.193.7.53
+admin:admin:117.223.135.17
+admin:admin:150.129.131.26
+admin:admin:191.199.208.219
+admin:admin:106.51.72.29
+admin:admin:122.170.96.243
+admin:admin:218.7.207.154
+admin:admin:110.172.144.248
+admin:admin:58.221.131.126
+admin:admin:180.169.196.34
+admin:admin:113.30.156.100
+admin:admin:183.82.1.200
+admin:admin:77.51.185.235
+DUP support:support:170.81.246.1
+DUP guest:guest:170.81.246.1
+DUP ubnt:ubnt:170.81.246.1
+DUP root:root:170.81.246.1
+admin:admin:170.81.246.1
+admin:admin:122.185.23.42
+admin:admin:183.82.210.6
+admin:admin:105.105.209.198
+admin:admin:222.87.55.101
+admin:admin:183.82.146.64
+admin:admin:111.59.59.135
+admin:admin:117.158.73.58
+admin:admin:211.142.56.182
+admin:admin:117.248.248.48
+admin:admin:120.193.48.26
+admin:admin:121.69.57.102
+admin:admin:45.116.2.36
+admin:admin:191.202.183.249
+DUP support:support:190.15.122.193
+DUP guest:guest:190.15.122.193
+DUP ubnt:ubnt:190.15.122.193
+DUP root:root:190.15.122.193
+admin:admin:190.15.122.193
+admin:admin:1.23.240.38
+support:support:77.82.148.27
+admin:admin:122.170.119.42
+admin:admin:39.152.233.143
+admin:admin:177.162.54.169
+admin:admin:59.94.249.97
+admin:admin:93.118.112.168
+ubnt:ubnt:95.161.188.218
+admin:admin:179.92.186.2
+admin:admin:183.182.87.54
+DUP support:support:170.0.143.164
+DUP guest:guest:170.0.143.164
+DUP ubnt:ubnt:170.0.143.164
+DUP root:root:170.0.143.164
+admin:admin:170.0.143.164
+admin:admin:60.12.3.131
+root:root:41.96.218.106
+admin:admin:194.0.114.157
+root:root:170.246.253.89
+admin:admin:111.26.165.219
+admin:admin:58.212.63.129
+admin:admin:121.230.90.126
+admin:admin:187.71.35.175
+DUP support:support:177.39.190.30
+DUP guest:guest:177.39.190.30
+DUP ubnt:ubnt:177.39.190.30
+DUP root:root:177.39.190.30
+admin:admin:177.39.190.30
+admin:admin:58.210.62.54
+admin:admin:112.53.198.180
+admin:admin:182.72.219.114
+admin:admin:182.75.13.222
+admin:admin:92.145.226.186
+admin:admin:120.224.180.29
+admin:admin:125.109.186.244
+admin:admin:124.65.241.162
+admin:admin:112.116.142.170
+ubnt:ubnt:5.3.234.74
+admin:admin:111.61.62.30
+admin:admin:116.236.95.74
+root:root:41.103.182.17
+admin:admin:124.227.196.103
+admin:admin:203.122.10.42
+admin:admin:125.71.132.136
+admin:admin:78.108.204.28
+admin:admin:128.71.60.187
+DUP support:support:177.130.55.39
+DUP guest:guest:177.130.55.39
+DUP ubnt:ubnt:177.130.55.39
+DUP root:root:177.130.55.39
+admin:admin:177.130.55.39
+admin:admin:111.17.194.141
+admin:admin:112.6.8.12
+admin:admin:222.75.209.46
+admin:admin:183.213.61.70
+admin:admin:183.196.236.58
+admin:admin:218.202.40.110
+admin:admin:118.185.161.121
+admin:admin:103.66.73.202
+admin:admin:223.94.48.71
+admin:admin:200.155.163.134
+admin:admin:183.157.166.238
+admin:admin:222.217.116.239
+admin:admin:117.195.51.181
+admin:admin:49.207.182.244
+admin:admin:218.94.62.60
+admin:admin:58.56.145.234
+admin:admin:103.36.125.10
+admin:admin:103.48.35.132
+ubnt:ubnt:191.179.123.159
+admin:admin:177.196.180.117
+admin:admin:59.97.21.115
+admin:admin:61.2.151.153
+admin:admin:183.224.80.222
+admin:admin:43.250.164.25
+admin:admin:103.240.168.180
+admin:admin:211.162.234.218
+admin:admin:182.72.106.93
+root:root:105.110.28.48
+admin:admin:117.242.155.4
+admin:admin:111.39.248.33
+admin:admin:111.23.117.5
+DUP support:support:177.125.27.145
+DUP guest:guest:177.125.27.145
+DUP ubnt:ubnt:177.125.27.145
+DUP root:root:177.125.27.145
+admin:admin:177.125.27.145
+admin:admin:222.179.38.73
+admin:admin:109.191.53.74
+DUP support:support:189.112.103.126
+DUP guest:guest:189.112.103.126
+DUP ubnt:ubnt:189.112.103.126
+admin:admin:189.112.103.126
+admin:admin:58.220.172.122
+admin:admin:218.60.30.10
+ubnt:ubnt:177.91.8.98
+admin:admin:58.218.193.74
+admin:admin:117.141.104.112
+admin:admin:125.90.3.66
+admin:admin:111.23.20.210
+admin:admin:27.218.63.63
+admin:admin:179.167.249.224
+admin:admin:182.72.35.42
+root:root:143.107.43.3
+DUP support:support:177.39.186.226
+DUP guest:guest:177.39.186.226
+DUP ubnt:ubnt:177.39.186.226
+DUP root:root:177.39.186.226
+admin:admin:177.39.186.226
+admin:admin:27.4.156.150
+admin:admin:120.194.141.207
+admin:admin:116.52.10.214
+admin:admin:178.44.235.30
+root:root:200.237.196.60
+admin:admin:120.211.155.188
+admin:admin:183.157.171.63
+admin:admin:14.106.4.204
+admin:admin:183.196.165.10
+admin:admin:120.211.148.157
+admin:admin:5.228.72.165
+admin:admin:182.72.106.92
+admin:admin:203.223.189.214
+admin:admin:177.117.212.50
+admin:admin:27.109.24.1
+admin:admin:120.195.27.11
+admin:admin:106.91.213.154
+ubnt:ubnt:185.21.66.189
+admin:admin:183.252.48.169
+admin:admin:116.235.133.71
+admin:admin:122.5.6.238
+admin:admin:37.204.195.122
+admin:admin:90.12.248.201
+admin:admin:1.6.95.177
+DUP support:support:190.15.114.249
+DUP guest:guest:190.15.114.249
+DUP ubnt:ubnt:190.15.114.249
+DUP root:root:190.15.114.249
+admin:admin:190.15.114.249
+admin:admin:202.104.173.134
+admin:admin:183.196.8.74
+admin:admin:112.14.33.25
+admin:admin:183.196.91.165
+admin:admin:117.195.134.197
+admin:admin:183.82.100.47
+DUP support:support:170.231.154.135
+DUP guest:guest:170.231.154.135
+DUP ubnt:ubnt:170.231.154.135
+DUP root:root:170.231.154.135
+admin:admin:170.231.154.135
+admin:admin:222.92.27.34
+admin:admin:218.94.10.2
+admin:admin:103.194.88.147
+admin:admin:111.21.202.34
+admin:admin:222.95.169.117
+admin:admin:183.196.188.205
+admin:admin:112.31.93.6
+root:root:45.115.252.125
+admin:admin:183.223.216.57
+admin:admin:115.96.45.231
+admin:admin:115.98.246.169
+admin:admin:221.13.3.214
+admin:admin:183.224.210.7
+admin:admin:117.145.9.146
+DUP support:support:190.15.111.9
+DUP guest:guest:190.15.111.9
+DUP ubnt:ubnt:190.15.111.9
+DUP root:root:190.15.111.9
+admin:admin:190.15.111.9
+admin:admin:117.242.8.51
+admin:admin:218.2.23.153
+admin:admin:117.236.138.242
+DUP support:support:177.125.27.93
+DUP guest:guest:177.125.27.93
+DUP ubnt:ubnt:177.125.27.93
+DUP root:root:177.125.27.93
+admin:admin:177.125.27.93
+DUP support:support:177.39.187.142
+DUP guest:guest:177.39.187.142
+DUP ubnt:ubnt:177.39.187.142
+DUP root:root:177.39.187.142
+admin:admin:177.39.187.142
+admin:admin:222.220.13.230
+ubnt:ubnt:82.204.199.244
+DUP support:support:190.15.111.73
+DUP guest:guest:190.15.111.73
+DUP ubnt:ubnt:190.15.111.73
+DUP root:root:190.15.111.73
+admin:admin:190.15.111.73
+admin:admin:179.98.79.203
+DUP support:support:138.94.114.225
+DUP guest:guest:138.94.114.225
+DUP ubnt:ubnt:138.94.114.225
+DUP root:root:138.94.114.225
+admin:admin:138.94.114.225
+admin:admin:189.112.213.34
+admin:admin:58.33.138.203
+admin:admin:177.134.10.6
+admin:admin:111.93.175.66
+admin:admin:58.211.168.98
+admin:admin:223.154.233.86
+admin:admin:120.224.135.185
+admin:admin:111.3.180.50
+admin:admin:222.178.231.218
+admin:admin:183.230.166.7
+admin:admin:103.221.80.61
+admin:admin:164.215.49.202
+DUP support:support:190.15.112.217
+DUP guest:guest:190.15.112.217
+DUP ubnt:ubnt:190.15.112.217
+DUP root:root:190.15.112.217
+admin:admin:190.15.112.217
+admin:admin:180.168.76.158
+guest:guest:171.221.157.231
+admin:admin:222.175.153.42
+admin:admin:218.56.166.162
+admin:admin:120.211.158.251
+admin:admin:112.54.34.142
+admin:admin:179.165.215.71
+admin:admin:103.242.62.102
+admin:admin:103.39.245.142
+admin:admin:111.61.157.235
+admin:admin:187.38.150.135
+admin:admin:112.28.77.203
+admin:admin:120.193.217.210
+admin:admin:191.14.44.167
+support:support:95.171.5.102
+admin:admin:103.250.85.26
+admin:admin:175.11.70.192
+admin:admin:111.43.131.238
+DUP support:support:190.15.118.185
+DUP guest:guest:190.15.118.185
+DUP ubnt:ubnt:190.15.118.185
+DUP root:root:190.15.118.185
+admin:admin:190.15.118.185
+admin:admin:112.14.38.183
+DUP support:support:190.15.114.185
+DUP guest:guest:190.15.114.185
+DUP ubnt:ubnt:190.15.114.185
+DUP root:root:190.15.114.185
+admin:admin:190.15.114.185
+admin:admin:223.93.157.27
+admin:admin:109.201.105.38
+DUP support:support:190.15.110.1
+DUP guest:guest:190.15.110.1
+DUP ubnt:ubnt:190.15.110.1
+DUP root:root:190.15.110.1
+admin:admin:190.15.110.1
+admin:admin:221.195.129.90
+admin:admin:49.66.222.84
+admin:admin:211.137.8.3
+DUP support:support:186.233.223.177
+DUP guest:guest:186.233.223.177
+DUP ubnt:ubnt:186.233.223.177
+DUP root:root:186.233.223.177
+admin:admin:186.233.223.177
+admin:admin:61.147.250.130
+ubnt:ubnt:111.23.69.167
+root:root:170.246.253.90
+admin:admin:95.71.172.200
+admin:admin:112.44.120.102
+admin:admin:189.114.93.191
+admin:admin:183.203.175.254
+admin:admin:182.78.232.82
+admin:admin:183.182.87.52
+admin:admin:223.100.0.228
+admin:admin:103.232.10.138
+admin:admin:103.209.176.182
+admin:admin:49.248.164.235
+admin:admin:59.95.101.43
+admin:admin:114.225.246.106
+admin:admin:60.174.130.19
+admin:admin:112.27.171.140
+admin:admin:120.193.189.27
+DUP support:support:190.15.121.41
+DUP guest:guest:190.15.121.41
+DUP ubnt:ubnt:190.15.121.41
+DUP root:root:190.15.121.41
+admin:admin:190.15.121.41
+admin:admin:121.8.197.6
+DUP support:support:186.236.75.17
+DUP guest:guest:186.236.75.17
+DUP ubnt:ubnt:186.236.75.17
+DUP root:root:186.236.75.17
+admin:admin:186.236.75.17
+admin:admin:180.167.35.115
+support:support:109.201.214.178
+admin:admin:220.160.203.44
+admin:admin:202.134.158.126
+admin:admin:221.182.182.98
+admin:admin:219.157.119.188
+admin:admin:120.192.73.44
+admin:admin:1.6.68.57
+admin:admin:171.221.242.102
+admin:admin:189.22.56.98
+admin:admin:112.4.119.3
+admin:admin:111.42.37.217
+admin:admin:114.253.29.146
+admin:admin:200.217.218.225
+admin:admin:168.228.244.6
+admin:admin:221.239.61.67
+admin:admin:177.78.183.177
+admin:admin:60.214.211.242
+admin:admin:78.85.213.209
+admin:admin:211.142.45.36
+admin:admin:31.135.184.79
+admin:admin:176.195.10.128
+admin:admin:111.59.253.23
+DUP support:support:190.15.119.193
+DUP guest:guest:190.15.119.193
+DUP ubnt:ubnt:190.15.119.193
+DUP root:root:190.15.119.193
+admin:admin:190.15.119.193
+admin:admin:219.147.17.206
+admin:admin:117.220.36.51
+admin:admin:117.220.56.237
+admin:admin:177.161.89.250
+admin:admin:203.88.138.83
+DUP support:support:193.251.186.129
+DUP guest:guest:193.251.186.129
+DUP ubnt:ubnt:193.251.186.129
+DUP root:root:193.251.186.129
+admin:admin:193.251.186.129
+admin:admin:95.106.198.125
+admin:admin:103.59.198.6
+admin:admin:179.85.95.3
+admin:admin:183.237.73.205
+admin:admin:203.88.138.79
+admin:admin:46.242.100.134
+admin:admin:112.25.152.10
+admin:admin:112.14.14.72
+admin:admin:111.22.153.29
+admin:admin:14.139.241.75
+admin:admin:182.75.49.150
+admin:admin:222.85.213.69
+admin:admin:117.207.221.208
+DUP support:support:195.222.146.61
+admin:admin:195.222.146.61
+admin:admin:177.78.147.96
+admin:admin:116.113.71.246
+admin:admin:202.122.16.50
+admin:admin:211.141.147.14
+admin:admin:119.145.65.242
+admin:admin:5.228.242.230
+admin:admin:112.54.81.91
+DUP support:support:190.15.111.113
+DUP guest:guest:190.15.111.113
+DUP ubnt:ubnt:190.15.111.113
+DUP root:root:190.15.111.113
+admin:admin:190.15.111.113
+admin:admin:175.111.182.227
+DUP support:support:138.94.115.241
+DUP guest:guest:138.94.115.241
+DUP ubnt:ubnt:138.94.115.241
+DUP root:root:138.94.115.241
+admin:admin:138.94.115.241
+admin:admin:179.112.94.19
+admin:admin:202.88.254.109
+admin:admin:117.190.64.5
+admin:admin:217.218.3.81
+admin:admin:223.86.110.102
+ubnt:ubnt:90.102.9.28
+admin:admin:117.239.73.93
+admin:admin:1.6.180.161
+admin:admin:117.202.23.116
+admin:admin:59.90.216.56
+admin:admin:14.139.241.67
+admin:admin:1.6.181.105
+admin:admin:61.175.134.27
+admin:admin:182.75.63.18
+admin:admin:58.46.64.29
+admin:admin:223.94.138.93
+DUP support:support:170.231.154.225
+DUP guest:guest:170.231.154.225
+DUP ubnt:ubnt:170.231.154.225
+DUP root:root:170.231.154.225
+admin:admin:170.231.154.225
+admin:admin:183.237.210.139
+admin:admin:125.70.84.212
+admin:admin:124.78.144.62
+admin:admin:223.71.206.142
+admin:admin:182.72.106.90
+admin:admin:117.221.105.175
+root:root:161.24.171.111
+admin:admin:101.94.189.91
+admin:admin:152.246.60.243
+ubnt:ubnt:187.63.233.210
+admin:admin:60.165.100.31
+admin:admin:182.19.25.106
+admin:admin:112.25.170.82
+DUP support:support:190.15.116.129
+DUP guest:guest:190.15.116.129
+DUP ubnt:ubnt:190.15.116.129
+DUP root:root:190.15.116.129
+admin:admin:190.15.116.129
+DUP support:support:177.39.186.102
+DUP guest:guest:177.39.186.102
+DUP ubnt:ubnt:177.39.186.102
+DUP root:root:177.39.186.102
+admin:admin:177.39.186.102
+admin:admin:182.74.33.222
+admin:admin:39.152.7.138
+admin:admin:117.240.108.211
+admin:admin:112.28.33.119
+admin:admin:112.27.108.10
+admin:admin:58.210.121.182
+admin:admin:14.162.202.136
+support:support:37.112.13.99
+admin:admin:111.2.21.113
+admin:admin:31.211.45.38
+admin:admin:117.200.74.185
+admin:admin:115.210.4.249
+admin:admin:103.214.191.158
+admin:admin:111.33.157.6
+admin:admin:177.19.186.209
+admin:admin:182.75.22.252
+DUP support:support:177.39.186.110
+DUP guest:guest:177.39.186.110
+DUP ubnt:ubnt:177.39.186.110
+DUP root:root:177.39.186.110
+admin:admin:177.39.186.110
+admin:admin:177.170.118.251
+admin:admin:112.27.46.137
+admin:admin:49.206.24.24
+admin:admin:180.160.27.46
+admin:admin:131.72.153.230
+admin:admin:138.204.131.88
+admin:admin:58.221.6.190
+admin:admin:179.165.57.181
+admin:admin:61.2.128.38
+admin:admin:111.93.46.54
+admin:admin:212.104.93.129
+ubnt:ubnt:170.80.207.1
+admin:admin:95.71.201.134
+admin:admin:201.17.147.35
+admin:admin:218.207.144.251
+admin:admin:218.59.189.202
+admin:admin:122.193.10.110
+DUP root:root:186.224.130.104
+admin:admin:186.224.130.104
+admin:admin:218.85.12.89
+admin:admin:188.17.149.168
+admin:admin:77.41.123.21
+admin:admin:116.236.61.22
+admin:admin:183.239.18.41
+admin:admin:58.33.127.26
+admin:admin:221.4.216.74
+admin:admin:201.73.125.210
+admin:admin:45.248.20.45
+admin:admin:200.49.39.138
+admin:admin:191.20.140.72
+admin:admin:112.26.146.63
+admin:admin:219.65.117.42
+admin:admin:103.57.178.18
+admin:admin:111.26.204.77
+admin:admin:122.224.167.154
+admin:admin:177.184.179.96
+admin:admin:117.184.195.115
+admin:admin:117.32.154.250
+DUP support:support:170.231.154.43
+DUP guest:guest:170.231.154.43
+DUP ubnt:ubnt:170.231.154.43
+DUP root:root:170.231.154.43
+admin:admin:170.231.154.43
+admin:admin:182.71.126.34
+admin:admin:117.176.149.15
+admin:admin:45.249.255.28
+admin:admin:218.92.116.38
+admin:admin:117.146.175.210
+ubnt:ubnt:177.142.83.9
+support:support:94.138.153.246
+admin:admin:103.48.182.251
+admin:admin:95.72.105.210
+admin:admin:49.73.39.72
+support:support:37.131.194.92
+admin:admin:61.54.110.190
+admin:admin:223.68.209.156
+admin:admin:182.71.46.84
+DUP support:support:190.15.111.81
+DUP guest:guest:190.15.111.81
+DUP ubnt:ubnt:190.15.111.81
+DUP root:root:190.15.111.81
+admin:admin:190.15.111.81
+DUP support:support:177.12.231.1
+DUP guest:guest:177.12.231.1
+DUP ubnt:ubnt:177.12.231.1
+DUP root:root:177.12.231.1
+admin:admin:177.12.231.1
+admin:admin:180.165.238.124
+admin:admin:106.51.36.64
+admin:admin:95.52.219.245
+admin:admin:27.191.227.175
+admin:admin:117.239.186.69
+admin:admin:116.132.13.18
+admin:admin:58.37.53.37
+admin:admin:219.139.118.228
+admin:admin:119.139.197.6
+admin:admin:117.160.132.162
+admin:admin:49.65.2.201
+admin:admin:210.18.98.170
+admin:admin:186.233.44.147
+admin:admin:221.229.246.78
+admin:admin:186.237.140.101
+admin:admin:222.240.252.90
+admin:admin:218.63.72.27
+admin:admin:110.51.130.49
+admin:admin:117.156.236.11
+admin:admin:223.75.49.6
+root:root:190.42.160.213
+admin:admin:27.106.108.206
+admin:admin:183.196.231.37
+admin:admin:111.43.225.15
+admin:admin:171.49.203.253
+admin:admin:221.176.157.198
+admin:admin:117.187.96.231
+admin:admin:120.194.1.180
+admin:admin:189.80.178.122
+support:support:87.224.137.241
+admin:admin:183.236.90.213
+admin:admin:122.5.39.226
+ubnt:ubnt:95.72.166.167
+admin:admin:123.136.174.6
+admin:admin:183.230.34.215
+admin:admin:113.0.51.82
+admin:admin:222.75.176.138
+admin:admin:211.142.80.232
+admin:admin:111.38.89.145
+admin:admin:111.75.237.88
+admin:admin:120.194.185.34
+admin:admin:123.13.214.213
+admin:admin:103.69.219.77
+admin:admin:117.158.105.215
+admin:admin:103.83.137.13
+admin:admin:103.254.96.235
+admin:admin:117.218.53.101
+admin:admin:113.193.24.254
+admin:admin:187.12.121.196
+admin:admin:200.201.138.98
+admin:admin:114.234.95.26
+admin:admin:92.38.229.100
+admin:admin:59.38.197.245
+admin:admin:42.103.52.92
+admin:admin:180.137.159.27
+admin:admin:198.58.10.254
+admin:admin:220.163.124.26
+admin:admin:189.3.224.18
+admin:admin:115.239.200.18
+admin:admin:58.218.243.38
+admin:admin:167.249.234.121
+admin:admin:117.160.201.144
+admin:admin:121.57.195.106
+DUP support:support:177.39.185.110
+DUP guest:guest:177.39.185.110
+DUP ubnt:ubnt:177.39.185.110
+DUP root:root:177.39.185.110
+admin:admin:177.39.185.110
+admin:admin:120.238.236.186
+root:root:143.106.70.230
+admin:admin:179.164.235.213
+admin:admin:150.107.95.194
+admin:admin:116.228.182.42
+admin:admin:112.30.47.210
+admin:admin:191.25.24.58
+admin:admin:187.58.151.15
+admin:admin:117.158.155.26
+admin:admin:222.138.25.66
+admin:admin:117.40.214.142
+admin:admin:116.53.247.207
+admin:admin:179.149.161.134
+admin:admin:175.101.79.180
+admin:admin:116.112.207.235
+guest:guest:37.44.237.129
+admin:admin:115.210.122.227
+admin:admin:119.160.195.100
+admin:admin:103.61.102.132
+admin:admin:103.90.159.34
+admin:admin:117.221.67.50
+admin:admin:111.38.176.46
+admin:admin:223.31.167.142
+DUP support:support:138.94.115.161
+DUP guest:guest:138.94.115.161
+DUP ubnt:ubnt:138.94.115.161
+DUP root:root:138.94.115.161
+admin:admin:138.94.115.161
+admin:admin:177.77.29.248
+admin:admin:103.57.178.22
+admin:admin:218.2.23.132
+admin:admin:103.70.144.234
+DUP support:support:186.233.220.173
+DUP guest:guest:186.233.220.173
+DUP ubnt:ubnt:186.233.220.173
+DUP root:root:186.233.220.173
+admin:admin:186.233.220.173
+admin:admin:221.230.45.249
+admin:admin:112.231.252.78
+admin:admin:189.14.196.14
+DUP support:support:94.190.34.67
+admin:admin:94.190.34.67
+admin:admin:111.21.202.74
+admin:admin:31.207.236.29
+DUP root:root:143.208.195.161
+admin:admin:143.208.195.161
+admin:admin:95.220.55.5
+admin:admin:177.87.43.1
+admin:admin:111.35.5.112
+root:root:143.54.16.51
+admin:admin:125.108.5.42
+DUP support:support:190.15.111.41
+DUP guest:guest:190.15.111.41
+DUP ubnt:ubnt:190.15.111.41
+DUP root:root:190.15.111.41
+admin:admin:190.15.111.41
+admin:admin:191.196.30.98
+admin:admin:111.28.132.30
+admin:admin:77.220.48.162
+admin:admin:177.117.194.210
+admin:admin:210.18.156.27
+admin:admin:58.35.19.17
+admin:admin:49.75.25.164
+admin:admin:177.87.43.3
+admin:admin:117.240.117.74
+support:support:31.25.31.6
+root:root:143.107.218.253
+admin:admin:111.39.41.144
+ubnt:ubnt:200.24.83.112
+root:root:143.106.70.249
+admin:admin:183.215.136.245
+admin:admin:182.76.155.122
+admin:admin:179.128.87.131
+admin:admin:182.72.238.29
+admin:admin:152.243.166.75
+admin:admin:103.69.244.228
+DUP support:support:190.15.113.193
+DUP guest:guest:190.15.113.193
+DUP ubnt:ubnt:190.15.113.193
+DUP root:root:190.15.113.193
+admin:admin:190.15.113.193
+admin:admin:180.171.145.33
+DUP support:support:131.100.129.9
+DUP guest:guest:131.100.129.9
+DUP ubnt:ubnt:131.100.129.9
+DUP root:root:131.100.129.9
+admin:admin:131.100.129.9
+admin:admin:191.25.198.242
+admin:admin:181.222.60.141
+admin:admin:203.122.34.50
+admin:admin:183.230.106.203
+admin:admin:92.49.157.153
+DUP support:support:212.220.56.185
+admin:admin:212.220.56.185
+admin:admin:125.86.125.196
+admin:admin:14.98.85.138
+admin:admin:183.82.4.249
+admin:admin:117.213.182.56
+admin:admin:117.145.118.118
+admin:admin:61.144.101.13
+admin:admin:113.128.41.222
+admin:admin:171.123.104.227
+admin:admin:112.6.74.92
+admin:admin:222.173.29.38
+ubnt:ubnt:188.124.228.246
+DUP support:support:170.81.246.177
+DUP guest:guest:170.81.246.177
+DUP ubnt:ubnt:170.81.246.177
+DUP root:root:170.81.246.177
+admin:admin:170.81.246.177
+admin:admin:58.218.183.9
+admin:admin:83.166.121.241
+DUP support:support:138.94.114.217
+DUP guest:guest:138.94.114.217
+DUP ubnt:ubnt:138.94.114.217
+DUP root:root:138.94.114.217
+admin:admin:138.94.114.217
+admin:admin:14.215.221.170
+admin:admin:222.138.25.50
+admin:admin:36.159.56.11
+admin:admin:125.99.41.154
+admin:admin:117.218.176.136
+admin:admin:59.90.182.244
+admin:admin:122.225.205.254
+admin:admin:31.135.102.28
+DUP support:support:190.15.111.169
+DUP guest:guest:190.15.111.169
+DUP ubnt:ubnt:190.15.111.169
+DUP root:root:190.15.111.169
+admin:admin:190.15.111.169
+admin:admin:219.91.204.166
+admin:admin:183.185.140.79
+admin:admin:177.184.182.47
+admin:admin:150.242.254.157
+admin:admin:223.31.62.153
+admin:admin:182.73.123.214
+admin:admin:221.226.79.146
+admin:admin:111.160.115.18
+admin:admin:117.223.181.90
+admin:admin:179.171.123.43
+admin:admin:111.21.202.2
+admin:admin:1.180.177.14
+admin:admin:150.129.131.18
+root:root:187.20.129.233
+admin:admin:221.2.75.232
+admin:admin:136.232.18.22
+admin:admin:112.6.44.12
+admin:admin:111.21.63.34
+admin:admin:183.249.120.85
+admin:admin:103.56.228.45
+admin:admin:202.189.253.149
+admin:admin:213.193.23.210
+admin:admin:182.48.193.204
+admin:admin:210.18.98.173
+admin:admin:60.162.237.195
+admin:admin:106.51.85.90
+admin:admin:114.253.29.142
+DUP support:support:131.100.128.201
+DUP guest:guest:131.100.128.201
+DUP ubnt:ubnt:131.100.128.201
+DUP root:root:131.100.128.201
+admin:admin:131.100.128.201
+admin:admin:111.21.40.90
+guest:guest:46.34.157.234
+admin:admin:117.160.141.23
+admin:admin:59.99.254.22
+admin:admin:111.33.3.142
+admin:admin:182.71.124.202
+admin:admin:221.236.33.60
+admin:admin:112.51.98.192
+admin:admin:37.153.54.58
+admin:admin:221.215.164.174
+DUP support:support:177.91.33.69
+DUP guest:guest:177.91.33.69
+DUP ubnt:ubnt:177.91.33.69
+DUP root:root:177.91.33.69
+admin:admin:177.91.33.69
+admin:admin:49.206.17.210
+admin:admin:111.40.119.29
+admin:admin:114.143.70.186
+support:support:178.211.174.21
+ubnt:ubnt:176.120.241.91
+admin:admin:117.212.192.149
+support:support:46.146.189.21
+admin:admin:220.189.224.234
+ubnt:ubnt:95.27.248.108
+admin:admin:121.18.89.166
+admin:admin:202.177.185.186
+admin:admin:117.192.50.9
+admin:admin:111.12.112.219
+admin:admin:113.88.118.117
+admin:admin:117.158.147.113
+admin:admin:203.110.166.218
+admin:admin:36.170.43.130
+admin:admin:60.16.5.57
+admin:admin:117.190.235.176
+admin:admin:183.250.70.247
+admin:admin:171.92.251.32
+admin:admin:183.196.109.119
+admin:admin:94.180.249.125
+DUP support:support:138.122.143.221
+DUP guest:guest:138.122.143.221
+DUP ubnt:ubnt:138.122.143.221
+DUP root:root:138.122.143.221
+admin:admin:138.122.143.221
+admin:admin:103.70.125.142
+admin:admin:183.215.158.171
+admin:admin:182.73.53.34
+admin:admin:61.166.164.43
+admin:admin:90.83.46.5
+DUP support:support:177.39.186.94
+DUP guest:guest:177.39.186.94
+DUP ubnt:ubnt:177.39.186.94
+DUP root:root:177.39.186.94
+admin:admin:177.39.186.94
+admin:admin:14.155.113.41
+admin:admin:122.227.156.22
+admin:admin:110.172.132.232
+admin:admin:123.201.30.12
+admin:admin:180.160.27.31
+admin:admin:125.72.68.146
+admin:admin:183.233.169.210
+admin:admin:186.201.164.81
+admin:admin:58.33.104.170
+ubnt:ubnt:150.107.92.249
+admin:admin:182.74.33.219
+DUP support:support:177.22.111.113
+DUP guest:guest:177.22.111.113
+DUP ubnt:ubnt:177.22.111.113
+DUP root:root:177.22.111.113
+admin:admin:177.22.111.113
+admin:admin:218.63.53.4
+DUP guest:guest:41.111.242.14
+admin:admin:41.111.242.14
+admin:admin:119.163.15.13
+admin:admin:191.20.156.229
+admin:admin:49.248.222.123
+admin:admin:95.27.7.19
+admin:admin:191.29.200.28
+admin:admin:202.98.218.209
+admin:admin:125.121.109.62
+admin:admin:117.242.150.44
+root:root:105.110.75.15
+admin:admin:61.246.174.22
+admin:admin:180.168.96.22
+DUP support:support:170.81.37.42
+admin:admin:170.81.37.42
+DUP support:support:170.81.244.77
+DUP guest:guest:170.81.244.77
+DUP ubnt:ubnt:170.81.244.77
+DUP root:root:170.81.244.77
+admin:admin:170.81.244.77
+ubnt:ubnt:176.101.89.44
+DUP support:support:138.122.140.180
+DUP guest:guest:138.122.140.180
+DUP ubnt:ubnt:138.122.140.180
+DUP root:root:138.122.140.180
+admin:admin:138.122.140.180
+admin:admin:59.91.244.156
+admin:admin:39.76.69.133
+admin:admin:189.8.203.122
+admin:admin:116.236.126.6
+admin:admin:152.253.207.112
+admin:admin:115.236.181.210
+admin:admin:183.230.147.74
+admin:admin:211.93.17.134
+admin:admin:117.195.135.198
+admin:admin:222.220.110.25
+admin:admin:49.65.2.204
+admin:admin:117.217.121.10
+admin:admin:118.185.19.90
+admin:admin:183.157.167.189
+admin:admin:111.40.70.65
+root:root:105.104.248.80
+admin:admin:203.83.61.5
+admin:admin:117.222.167.190
+guest:guest:114.112.233.134
+admin:admin:117.148.148.111
+admin:admin:122.247.86.246
+DUP support:support:183.214.126.216
+DUP guest:guest:183.214.126.216
+DUP ubnt:ubnt:183.214.126.216
+root:root:183.214.126.216
+admin:admin:103.248.119.50
+admin:admin:124.65.135.114
+admin:admin:58.221.223.218
+admin:admin:111.20.50.26
+admin:admin:203.122.27.2
+admin:admin:218.93.232.166
+root:root:14.139.120.184
+admin:admin:117.240.117.77
+admin:admin:61.240.15.142
+admin:admin:37.113.99.120
+admin:admin:180.102.174.208
+admin:admin:117.239.204.219
+DUP support:support:190.15.99.49
+DUP guest:guest:190.15.99.49
+DUP ubnt:ubnt:190.15.99.49
+DUP root:root:190.15.99.49
+admin:admin:190.15.99.49
+admin:admin:223.244.233.110
+admin:admin:180.124.17.1
+admin:admin:114.143.116.142
+admin:admin:222.92.50.218
+admin:admin:27.34.242.98
+admin:admin:178.45.201.223
+admin:admin:58.221.138.122
+admin:admin:125.111.43.243
+admin:admin:218.94.62.62
+admin:admin:111.75.159.103
+admin:admin:180.167.76.198
+admin:admin:179.181.5.62
+admin:admin:111.61.215.132
+admin:admin:191.195.203.187
+admin:admin:42.228.53.109
+admin:admin:119.226.107.74
+admin:admin:203.194.111.76
+admin:admin:117.197.102.180
+admin:admin:179.91.12.63
+admin:admin:61.53.69.18
+admin:admin:203.110.93.210
+admin:admin:103.207.8.148
+admin:admin:43.228.96.211
+admin:admin:112.16.87.139
+admin:admin:218.26.77.40
+admin:admin:111.207.192.148
+admin:admin:193.233.29.252
+admin:admin:111.93.145.54
+admin:admin:187.71.31.75
+admin:admin:111.93.226.202
+admin:admin:120.63.141.66
+admin:admin:58.215.223.170
+admin:admin:95.29.12.130
+DUP support:support:138.94.114.213
+DUP guest:guest:138.94.114.213
+DUP ubnt:ubnt:138.94.114.213
+DUP root:root:138.94.114.213
+admin:admin:138.94.114.213
+admin:admin:46.41.91.147
+admin:admin:201.3.187.98
+admin:admin:179.229.158.9
+admin:admin:113.214.11.235
+admin:admin:14.139.217.245
+admin:admin:122.159.122.47
+admin:admin:111.21.162.178
+root:root:59.94.214.127
+admin:admin:223.83.155.112
+admin:admin:183.233.137.228
+admin:admin:183.191.126.29
+admin:admin:117.146.110.50
+admin:admin:112.27.129.154
+root:root:187.18.66.44
+admin:admin:122.224.38.174
+admin:admin:179.229.71.47
+admin:admin:219.146.81.82
+support:support:37.140.21.96
+admin:admin:222.174.58.194
+admin:admin:220.164.2.77
+support:support:178.234.34.179
+admin:admin:61.159.128.228
+admin:admin:120.224.129.26
+ubnt:ubnt:168.232.206.178
+admin:admin:1.6.194.129
+admin:admin:59.98.28.158
+support:support:109.201.221.112
+admin:admin:223.240.243.73
+admin:admin:178.252.126.55
+support:support:88.206.65.132
+admin:admin:5.35.53.139
+admin:admin:80.252.136.38
+admin:admin:114.84.212.240
+admin:admin:49.206.16.30
+ubnt:ubnt:138.117.124.66
+admin:admin:114.243.175.162
+admin:admin:117.132.12.135
+admin:admin:122.226.125.234
+admin:admin:82.193.139.218
+DUP support:support:190.15.97.1
+DUP guest:guest:190.15.97.1
+DUP ubnt:ubnt:190.15.97.1
+DUP root:root:190.15.97.1
+admin:admin:190.15.97.1
+admin:admin:120.195.85.98
+DUP support:support:177.91.34.159
+DUP guest:guest:177.91.34.159
+DUP ubnt:ubnt:177.91.34.159
+DUP root:root:177.91.34.159
+admin:admin:177.91.34.159
+admin:admin:113.26.251.145
+admin:admin:191.23.232.194
+admin:admin:185.99.155.188
+admin:admin:222.95.49.125
+admin:admin:27.215.109.24
+admin:admin:111.20.56.78
+admin:admin:187.70.191.127
+root:root:117.202.151.156
+admin:admin:111.39.45.194
+admin:admin:59.49.32.27
+DUP support:support:77.236.93.124
+admin:admin:77.236.93.124
+admin:admin:201.3.11.187
+DUP support:support:170.231.153.217
+DUP guest:guest:170.231.153.217
+DUP ubnt:ubnt:170.231.153.217
+DUP root:root:170.231.153.217
+admin:admin:170.231.153.217
+DUP guest:guest:41.111.242.7
+admin:admin:41.111.242.7
+DUP support:support:170.231.154.162
+DUP guest:guest:170.231.154.162
+DUP ubnt:ubnt:170.231.154.162
+DUP root:root:170.231.154.162
+admin:admin:170.231.154.162
+admin:admin:176.120.216.210
+admin:admin:14.107.159.185
+admin:admin:90.117.136.58
+admin:admin:121.205.67.106
+admin:admin:152.245.169.83
+support:support:46.146.116.62
+admin:admin:49.206.20.102
+admin:admin:1.6.194.127
+DUP support:support:177.39.186.218
+DUP guest:guest:177.39.186.218
+DUP ubnt:ubnt:177.39.186.218
+DUP root:root:177.39.186.218
+admin:admin:177.39.186.218
+admin:admin:221.211.168.198
+admin:admin:106.92.2.126
+admin:admin:1.6.183.205
+admin:admin:203.122.14.34
+admin:admin:111.12.201.6
+admin:admin:117.156.173.196
+admin:admin:109.111.146.96
+admin:admin:183.167.229.180
+admin:admin:183.157.173.60
+admin:admin:60.208.26.74
+admin:admin:31.207.233.47
+admin:admin:124.235.149.162
+admin:admin:182.109.127.6
+admin:admin:191.29.58.115
+admin:admin:39.164.37.154
+admin:admin:182.71.46.86
+admin:admin:219.142.241.138
+admin:admin:61.175.196.78
+admin:admin:101.93.223.123
+admin:admin:103.26.55.241
+admin:admin:114.226.106.115
+DUP support:support:170.231.153.179
+DUP guest:guest:170.231.153.179
+DUP ubnt:ubnt:170.231.153.179
+DUP root:root:170.231.153.179
+admin:admin:170.231.153.179
+admin:admin:116.31.224.245
+admin:admin:103.43.6.150
+admin:admin:31.135.109.174
+admin:admin:211.93.16.218
+admin:admin:117.245.84.1
+admin:admin:103.228.193.116
+admin:admin:170.82.199.201
+admin:admin:111.38.28.36
+admin:admin:111.35.3.178
+admin:admin:183.248.48.10
+admin:admin:131.108.44.254
+admin:admin:116.30.4.160
+admin:admin:191.16.9.79
+admin:admin:203.88.138.82
+admin:admin:62.141.72.189
+admin:admin:218.63.208.18
+admin:admin:177.43.247.17
+admin:admin:117.197.237.222
+admin:admin:103.218.101.30
+admin:admin:45.250.65.99
+admin:admin:191.211.44.225
+admin:admin:187.58.132.235
+admin:admin:120.224.143.82
+admin:admin:120.192.19.98
+admin:admin:110.185.168.161
+admin:admin:110.16.85.210
+admin:admin:117.158.184.220
+admin:admin:223.71.46.86
+admin:admin:202.131.112.78
+admin:admin:112.5.33.15
+admin:admin:177.140.179.161
+admin:admin:103.242.62.105
+root:root:201.48.61.168
+admin:admin:189.59.3.225
+admin:admin:117.232.88.146
+admin:admin:14.105.32.150
+admin:admin:43.255.166.58
+admin:admin:120.196.129.34
+support:support:87.224.201.210
+admin:admin:112.16.168.26
+root:root:143.107.207.141
+admin:admin:58.56.132.210
+admin:admin:14.140.251.234
+DUP support:support:31.40.118.62
+admin:admin:31.40.118.62
+ubnt:ubnt:183.141.25.141
+admin:admin:14.139.217.250
+admin:admin:152.253.233.111
+admin:admin:116.237.124.238
+admin:admin:117.187.96.36
+admin:admin:120.194.242.219
+guest:guest:218.22.100.42
+admin:admin:182.73.55.162
+admin:admin:220.164.2.137
+admin:admin:14.139.217.246
+admin:admin:60.178.45.131
+guest:guest:60.174.92.50
+admin:admin:177.19.187.79
+admin:admin:218.93.115.122
+admin:admin:117.160.151.116
+admin:admin:183.230.113.46
+admin:admin:14.99.93.213
+admin:admin:106.118.68.18
+admin:admin:120.211.31.241
+admin:admin:177.67.240.92
+admin:admin:222.86.171.81
+admin:admin:117.187.230.202
+admin:admin:117.139.247.246
+admin:admin:115.221.235.146
+admin:admin:103.239.235.249
+root:root:161.24.171.230
+admin:admin:179.91.25.218
+admin:admin:60.243.225.148
+admin:admin:61.0.43.187
+admin:admin:77.220.48.163
+admin:admin:116.52.148.2
+admin:admin:39.152.34.50
+admin:admin:14.139.241.74
+admin:admin:117.200.140.120
+admin:admin:182.72.240.25
+admin:admin:61.148.197.134
+admin:admin:116.228.237.113
+admin:admin:203.93.170.18
+admin:admin:191.18.30.30
+admin:admin:200.187.181.254
+admin:admin:223.71.47.82
+admin:admin:201.45.167.194
+admin:admin:61.178.90.183
+admin:admin:95.221.51.24
+DUP support:support:170.231.155.224
+DUP guest:guest:170.231.155.224
+DUP ubnt:ubnt:170.231.155.224
+DUP root:root:170.231.155.224
+admin:admin:170.231.155.224
+admin:admin:187.91.66.62
+admin:admin:1.6.180.147
+admin:admin:201.59.174.194
+admin:admin:117.192.41.107
+admin:admin:222.189.63.90
+DUP support:support:170.81.246.181
+DUP guest:guest:170.81.246.181
+DUP ubnt:ubnt:170.81.246.181
+DUP root:root:170.81.246.181
+admin:admin:170.81.246.181
+admin:admin:103.70.189.25
+admin:admin:114.104.151.114
+admin:admin:219.146.243.38
+DUP support:support:170.231.152.197
+DUP guest:guest:170.231.152.197
+DUP ubnt:ubnt:170.231.152.197
+DUP root:root:170.231.152.197
+admin:admin:170.231.152.197
+admin:admin:203.88.138.80
+admin:admin:200.222.110.170
+admin:admin:152.241.111.176
+admin:admin:182.75.247.150
+admin:admin:177.101.205.169
+admin:admin:183.167.194.120
+admin:admin:191.14.33.22
+admin:admin:182.71.46.83
+admin:admin:187.60.43.6
+admin:admin:182.73.74.78
+admin:admin:39.152.42.166
+DUP support:support:177.39.187.118
+DUP guest:guest:177.39.187.118
+DUP ubnt:ubnt:177.39.187.118
+DUP root:root:177.39.187.118
+admin:admin:177.39.187.118
+admin:admin:117.160.150.23
+admin:admin:189.58.241.33
+admin:admin:182.75.22.250
+admin:admin:103.70.62.12
+admin:admin:114.143.221.130
+admin:admin:119.191.79.6
+admin:admin:103.57.178.20
+admin:admin:219.136.123.247
+ubnt:ubnt:186.227.163.108
+admin:admin:111.61.77.39
+admin:admin:95.106.224.165
+admin:admin:117.135.225.242
+admin:admin:60.217.65.235
+root:root:143.107.43.4
+admin:admin:124.128.9.198
+admin:admin:177.196.242.193
+admin:admin:111.93.52.245
+support:support:77.43.160.16
+admin:admin:218.207.181.184
+admin:admin:221.231.116.114
+admin:admin:5.79.142.16
+admin:admin:221.219.211.14
+root:root:143.107.43.2
+admin:admin:177.162.171.23
+admin:admin:201.59.32.129
+admin:admin:179.128.219.141
+admin:admin:187.85.2.147
+admin:admin:222.190.254.18
+admin:admin:222.76.48.73
+admin:admin:183.162.92.108
+admin:admin:45.250.71.70
+admin:admin:150.242.229.147
+admin:admin:223.94.53.40
+DUP support:support:131.100.129.49
+DUP guest:guest:131.100.129.49
+DUP ubnt:ubnt:131.100.129.49
+DUP root:root:131.100.129.49
+admin:admin:131.100.129.49
+admin:admin:114.89.77.188
+admin:admin:80.12.83.228
+admin:admin:59.94.243.86
+admin:admin:60.223.227.73
+DUP support:support:190.15.114.137
+DUP guest:guest:190.15.114.137
+DUP ubnt:ubnt:190.15.114.137
+DUP root:root:190.15.114.137
+admin:admin:190.15.114.137
+DUP support:support:186.233.220.49
+DUP guest:guest:186.233.220.49
+DUP ubnt:ubnt:186.233.220.49
+DUP root:root:186.233.220.49
+admin:admin:186.233.220.49
+admin:admin:59.48.246.38
+admin:admin:117.202.201.166
+admin:admin:49.248.163.178
+admin:admin:58.57.71.202
+admin:admin:111.38.16.215
+admin:admin:114.143.155.18
+admin:admin:109.124.205.149
+admin:admin:211.139.116.110
+admin:admin:79.133.139.178
+admin:admin:183.193.75.254
+admin:admin:122.185.20.193
+admin:admin:222.138.25.58
+admin:admin:43.228.38.18
+admin:admin:221.231.109.186
+admin:admin:116.236.55.146
+admin:admin:58.211.105.234
+admin:admin:61.164.49.254
+admin:admin:219.142.12.98
+admin:admin:116.228.222.250
+admin:admin:31.135.93.94
+admin:admin:117.158.106.179
+guest:guest:37.44.237.177
+admin:admin:78.85.209.39
+admin:admin:103.192.61.72
+admin:admin:58.58.42.70
+root:root:117.146.23.83
+admin:admin:109.61.252.31
+admin:admin:203.122.41.91
+admin:admin:111.22.154.87
+admin:admin:182.72.186.106
+admin:admin:117.175.169.68
+admin:admin:103.228.76.73
+DUP support:support:186.233.220.181
+DUP guest:guest:186.233.220.181
+DUP ubnt:ubnt:186.233.220.181
+DUP root:root:186.233.220.181
+admin:admin:186.233.220.181
+admin:admin:117.149.31.68
+admin:admin:117.197.107.65
+admin:admin:117.160.202.9
+admin:admin:180.167.197.174
+admin:admin:39.165.37.10
+admin:admin:36.24.224.171
+admin:admin:60.2.190.130
+admin:admin:114.143.149.106
+admin:admin:150.242.230.161
+admin:admin:171.104.218.153
+admin:admin:112.16.49.122
+root:root:211.95.96.14
+guest:guest:200.169.3.75
+admin:admin:59.90.45.198
+admin:admin:103.245.33.190
+DUP support:support:186.236.69.177
+DUP guest:guest:186.236.69.177
+DUP ubnt:ubnt:186.236.69.177
+DUP root:root:186.236.69.177
+admin:admin:186.236.69.177
+root:root:180.141.78.13
+DUP support:support:186.233.220.77
+DUP guest:guest:186.233.220.77
+DUP ubnt:ubnt:186.233.220.77
+DUP root:root:186.233.220.77
+admin:admin:186.233.220.77
+admin:admin:218.92.49.6
+admin:admin:112.6.113.187
+admin:admin:39.129.229.213
+admin:admin:27.191.234.85
+admin:admin:117.254.209.155
+admin:admin:111.59.145.6
+admin:admin:221.182.35.133
+admin:admin:59.37.21.218
+admin:admin:120.224.194.5
+admin:admin:123.145.62.19
+admin:admin:222.211.162.234
+admin:admin:177.163.253.187
+admin:admin:39.153.150.91
+admin:admin:120.195.217.109
+admin:admin:119.145.189.118
+root:root:200.17.1.37
+admin:admin:111.26.198.30
+admin:admin:39.152.233.147
+admin:admin:77.41.96.24
+DUP support:support:101.231.58.14
+DUP guest:guest:101.231.58.14
+DUP ubnt:ubnt:101.231.58.14
+DUP root:root:101.231.58.14
+admin:admin:101.231.58.14
+admin:admin:14.142.12.133
+admin:admin:177.85.200.161
+admin:admin:219.65.118.198
+DUP support:support:170.231.155.184
+DUP guest:guest:170.231.155.184
+DUP ubnt:ubnt:170.231.155.184
+DUP root:root:170.231.155.184
+admin:admin:170.231.155.184
+admin:admin:31.207.135.70
+DUP support:support:189.127.10.241
+DUP guest:guest:189.127.10.241
+DUP ubnt:ubnt:189.127.10.241
+DUP root:root:189.127.10.241
+admin:admin:189.127.10.241
+admin:admin:221.214.16.38
+admin:admin:195.239.202.12
+admin:admin:60.189.117.131
+admin:admin:220.168.164.30
+admin:admin:223.84.162.161
+admin:admin:58.218.151.6
+admin:admin:77.41.13.180
+admin:admin:222.77.230.201
+admin:admin:111.21.107.230
+guest:guest:112.14.40.196
+admin:admin:200.217.249.177
+admin:admin:59.48.241.102
+admin:admin:112.15.96.94
+admin:admin:201.56.164.50
+admin:admin:179.227.181.115
+admin:admin:202.99.252.194
+admin:admin:221.230.1.113
+admin:admin:120.210.46.10
+admin:admin:117.160.210.211
+admin:admin:182.76.18.10
+admin:admin:179.227.241.222
+admin:admin:189.98.105.133
+admin:admin:177.87.43.2
+admin:admin:1.7.140.147
+admin:admin:182.71.46.82
+guest:guest:37.44.237.97
+DUP support:support:138.94.114.117
+DUP guest:guest:138.94.114.117
+DUP ubnt:ubnt:138.94.114.117
+DUP root:root:138.94.114.117
+admin:admin:138.94.114.117
+admin:admin:112.26.113.212
+DUP support:support:190.15.123.145
+DUP guest:guest:190.15.123.145
+DUP ubnt:ubnt:190.15.123.145
+DUP root:root:190.15.123.145
+admin:admin:190.15.123.145
+admin:admin:220.167.25.25
+admin:admin:223.99.4.94
+admin:admin:191.208.91.114
+admin:admin:180.166.234.50
+DUP support:support:190.15.98.49
+DUP guest:guest:190.15.98.49
+DUP ubnt:ubnt:190.15.98.49
+DUP root:root:190.15.98.49
+admin:admin:190.15.98.49
+admin:admin:111.22.96.40
+admin:admin:117.218.189.92
+admin:admin:36.106.40.197
+admin:admin:110.241.248.103
+support:support:176.215.143.45
+admin:admin:221.226.50.162
+root:root:186.235.222.28
+guest:guest:37.44.237.66
+admin:admin:186.209.159.60
+admin:admin:117.62.184.48
+admin:admin:61.178.170.81
+admin:admin:124.161.108.109
+admin:admin:131.108.196.141
+root:root:161.24.171.149
+admin:admin:117.195.15.148
+admin:admin:203.88.138.81
+admin:admin:111.61.235.169
+admin:admin:124.161.35.60
+admin:admin:112.30.148.20
+admin:admin:120.9.222.253
+admin:admin:49.205.178.101
+admin:admin:222.186.199.133
+admin:admin:117.204.252.227
+admin:admin:124.165.250.46
+admin:admin:177.43.244.153
+DUP support:support:131.100.128.161
+DUP guest:guest:131.100.128.161
+DUP ubnt:ubnt:131.100.128.161
+DUP root:root:131.100.128.161
+admin:admin:131.100.128.161
+admin:admin:120.193.251.114
+admin:admin:31.163.204.252
+admin:admin:103.74.139.52
+admin:admin:201.47.201.217
+DUP support:support:170.81.246.57
+DUP guest:guest:170.81.246.57
+DUP ubnt:ubnt:170.81.246.57
+DUP root:root:170.81.246.57
+admin:admin:170.81.246.57
+admin:admin:111.30.23.107
+admin:admin:111.33.99.26
+admin:admin:179.172.197.237
+admin:admin:183.64.79.186
+admin:admin:117.223.135.69
+DUP guest:guest:122.55.16.145
+DUP ubnt:ubnt:122.55.16.145
+DUP root:root:122.55.16.145
+admin:admin:122.55.16.145
+admin:admin:45.127.121.3
+admin:admin:223.87.160.137
+admin:admin:111.26.207.48
+admin:admin:125.70.227.253
+root:root:143.54.16.49
+admin:admin:183.203.175.186
+DUP support:support:191.6.137.184
+DUP guest:guest:191.6.137.184
+DUP ubnt:ubnt:191.6.137.184
+DUP root:root:191.6.137.184
+admin:admin:191.6.137.184
+admin:admin:223.72.166.125
+ubnt:ubnt:191.255.81.179
+admin:admin:14.143.224.59
+admin:admin:221.224.15.250
+admin:admin:49.65.2.206
+admin:admin:1.7.174.75
+admin:admin:59.46.68.114
+admin:admin:187.8.81.123
+admin:admin:115.233.211.254
+admin:admin:218.75.78.42
+admin:admin:124.116.40.178
+admin:admin:191.14.175.221
+DUP support:support:190.15.99.241
+DUP guest:guest:190.15.99.241
+DUP ubnt:ubnt:190.15.99.241
+DUP root:root:190.15.99.241
+admin:admin:190.15.99.241
+admin:admin:189.6.154.217
+admin:admin:109.169.133.1
+admin:admin:115.192.191.206
+admin:admin:2.63.92.197
+admin:admin:45.127.120.234
+admin:admin:120.203.254.93
+admin:admin:111.59.189.207
+admin:admin:183.157.171.20
+admin:admin:183.249.162.107
+admin:admin:222.184.14.226
+admin:admin:101.229.75.156
+admin:admin:36.7.149.205
+DUP support:support:190.15.112.121
+DUP guest:guest:190.15.112.121
+DUP ubnt:ubnt:190.15.112.121
+DUP root:root:190.15.112.121
+admin:admin:190.15.112.121
+admin:admin:117.239.118.101
+admin:admin:117.232.83.138
+admin:admin:14.139.241.69
+admin:admin:106.201.42.133
+admin:admin:223.82.149.6
+DUP support:support:190.15.125.25
+DUP guest:guest:190.15.125.25
+DUP ubnt:ubnt:190.15.125.25
+DUP root:root:190.15.125.25
+admin:admin:190.15.125.25
+DUP support:support:170.231.152.110
+DUP guest:guest:170.231.152.110
+DUP ubnt:ubnt:170.231.152.110
+DUP root:root:170.231.152.110
+admin:admin:170.231.152.110
+support:support:178.234.35.34
+admin:admin:218.201.214.64
+admin:admin:183.66.217.170
+admin:admin:179.91.1.200
+admin:admin:112.2.52.115
+admin:admin:222.247.62.221
+admin:admin:183.239.107.162
+admin:admin:43.231.56.142
+admin:admin:58.218.248.154
+admin:admin:221.231.124.148
+support:support:83.146.119.213
+admin:admin:183.167.254.198
+root:root:219.150.18.102
+admin:admin:125.75.117.126
+admin:admin:222.245.132.250
+admin:admin:183.230.152.220
+admin:admin:113.9.209.249
+admin:admin:116.75.36.150
+admin:admin:218.59.214.104
+admin:admin:109.191.114.158
+admin:admin:180.160.25.212
+admin:admin:121.10.1.119
+admin:admin:203.88.148.93
+admin:admin:200.201.138.99
+admin:admin:122.224.22.214
+admin:admin:177.19.179.1
+admin:admin:117.145.146.226
+admin:admin:103.232.146.96
+admin:admin:106.51.126.99
+admin:admin:222.89.107.11
+admin:admin:61.144.161.226
+support:support:109.187.177.0
+admin:admin:223.247.37.136
+admin:admin:222.85.141.126
+admin:admin:203.88.138.86
+admin:admin:119.164.216.83
+ubnt:ubnt:94.181.190.173
+admin:admin:123.179.225.250
+admin:admin:117.131.146.197
+admin:admin:219.145.189.214
+admin:admin:223.84.206.186
+admin:admin:211.93.16.194
+admin:admin:191.20.197.134
+admin:admin:103.242.61.185
+DUP support:support:177.67.47.10
+DUP guest:guest:177.67.47.10
+DUP ubnt:ubnt:177.67.47.10
+DUP root:root:177.67.47.10
+admin:admin:177.67.47.10
+admin:admin:111.23.141.131
+admin:admin:58.210.98.202
+admin:admin:177.222.42.155
+DUP support:support:190.15.115.249
+DUP guest:guest:190.15.115.249
+DUP ubnt:ubnt:190.15.115.249
+DUP root:root:190.15.115.249
+admin:admin:190.15.115.249
+admin:admin:182.72.106.91
+admin:admin:1.6.95.193
+admin:admin:220.179.30.238
+DUP support:support:177.12.237.1
+DUP guest:guest:177.12.237.1
+DUP ubnt:ubnt:177.12.237.1
+DUP root:root:177.12.237.1
+admin:admin:177.12.237.1
+admin:admin:191.209.218.11
+admin:admin:61.132.96.58
+admin:admin:194.51.139.145
+admin:admin:113.118.218.147
+admin:admin:222.222.167.17
+DUP support:support:138.94.112.161
+DUP guest:guest:138.94.112.161
+DUP ubnt:ubnt:138.94.112.161
+DUP root:root:138.94.112.161
+admin:admin:138.94.112.161
+admin:admin:183.215.189.132
+admin:admin:182.59.131.86
+admin:admin:103.248.117.250
+admin:admin:183.230.125.187
+admin:admin:61.143.127.34
+DUP support:support:189.127.11.153
+DUP guest:guest:189.127.11.153
+DUP ubnt:ubnt:189.127.11.153
+DUP root:root:189.127.11.153
+admin:admin:189.127.11.153
+admin:admin:110.249.134.202
+admin:admin:188.234.242.200
+admin:admin:223.13.120.8
+admin:admin:218.14.212.74
+DUP support:support:170.231.154.192
+DUP guest:guest:170.231.154.192
+DUP ubnt:ubnt:170.231.154.192
+DUP root:root:170.231.154.192
+admin:admin:170.231.154.192
+admin:admin:182.72.107.58
+admin:admin:218.93.220.102
+admin:admin:124.227.196.102
+ubnt:ubnt:168.232.205.97
+admin:admin:117.254.199.57
+admin:admin:220.165.59.120
+admin:admin:220.179.75.163
+admin:admin:171.221.176.146
+admin:admin:203.223.188.170
+admin:admin:183.129.199.242
+admin:admin:180.160.19.83
+admin:admin:60.29.120.34
+admin:admin:182.76.52.11
+guest:guest:223.83.134.195
+admin:admin:119.116.98.83
+admin:admin:219.147.10.126
+DUP support:support:190.15.123.177
+DUP guest:guest:190.15.123.177
+DUP ubnt:ubnt:190.15.123.177
+DUP root:root:190.15.123.177
+admin:admin:190.15.123.177
+admin:admin:179.129.120.52
+admin:admin:211.142.96.178
+admin:admin:124.67.71.154
+DUP support:support:190.15.120.73
+DUP guest:guest:190.15.120.73
+DUP ubnt:ubnt:190.15.120.73
+DUP root:root:190.15.120.73
+admin:admin:190.15.120.73
+admin:admin:114.98.127.183
+admin:admin:58.54.246.226
+admin:admin:202.108.199.58
+admin:admin:124.124.61.105
+admin:admin:113.225.139.35
+admin:admin:111.21.202.50
+admin:admin:221.2.81.86
+admin:admin:125.119.76.93
+admin:admin:60.162.150.40
+admin:admin:39.152.233.144
+admin:admin:61.170.130.2
+admin:admin:112.28.71.130
+admin:admin:49.85.213.215
+admin:admin:122.159.180.132
+admin:admin:124.129.23.58
+admin:admin:112.36.22.238
+admin:admin:116.225.70.171
+admin:admin:39.81.197.200
+ubnt:ubnt:37.195.161.135
+admin:admin:112.26.118.226
+admin:admin:180.151.6.218
+DUP support:support:170.231.155.0
+DUP guest:guest:170.231.155.0
+DUP ubnt:ubnt:170.231.155.0
+DUP root:root:170.231.155.0
+admin:admin:170.231.155.0
+DUP support:support:138.122.143.97
+DUP guest:guest:138.122.143.97
+DUP ubnt:ubnt:138.122.143.97
+DUP root:root:138.122.143.97
+admin:admin:138.122.143.97
+admin:admin:39.152.34.163
+admin:admin:58.37.58.233
+admin:admin:183.134.210.62
+admin:admin:112.27.128.13
+admin:admin:115.61.172.48
+admin:admin:39.164.8.27
+admin:admin:218.4.157.46
+admin:admin:1.6.181.119
+admin:admin:117.176.136.11
+admin:admin:183.230.202.55
+admin:admin:59.94.246.233
+admin:admin:203.110.93.211
+admin:admin:122.247.180.93
+ubnt:ubnt:175.10.241.157
+admin:admin:111.85.49.102
+admin:admin:221.216.205.70
+admin:admin:183.82.250.164
+admin:admin:223.75.162.112
+admin:admin:183.159.75.214
+admin:admin:116.54.117.254
+root:root:105.104.83.13
+admin:admin:111.39.206.218
+admin:admin:114.99.47.201
+admin:admin:59.94.248.133
+admin:admin:201.91.60.106
+admin:admin:115.254.120.33
+admin:admin:103.245.33.189
+admin:admin:123.252.192.67
+admin:admin:180.165.98.118
+admin:admin:103.254.245.218
+admin:admin:114.143.14.58
+admin:admin:103.208.225.218
+admin:admin:183.157.169.123
+DUP support:support:170.231.154.25
+DUP guest:guest:170.231.154.25
+DUP ubnt:ubnt:170.231.154.25
+DUP root:root:170.231.154.25
+admin:admin:170.231.154.25
+admin:admin:27.54.163.182
+admin:admin:180.104.126.86
+admin:admin:203.88.148.92
+admin:admin:191.246.231.100
+admin:admin:124.165.241.130
+admin:admin:202.191.190.178
+admin:admin:1.6.31.58
+admin:admin:119.123.241.56
+admin:admin:117.252.64.146
+admin:admin:112.16.37.134
+admin:admin:183.196.82.46
+admin:admin:117.204.252.226
+admin:admin:111.56.37.70
+root:root:177.23.30.80
+admin:admin:210.18.189.98
+admin:admin:60.6.223.191
+admin:admin:61.163.124.136
+admin:admin:150.242.230.163
+admin:admin:58.57.45.2
+admin:admin:111.12.19.195
+admin:admin:117.195.131.30
+admin:admin:120.197.215.185
+admin:admin:60.173.37.130
+admin:admin:223.166.87.126
+admin:admin:106.226.176.49
+admin:admin:182.129.222.69
+admin:admin:211.93.16.6
+admin:admin:183.138.16.100
+ubnt:ubnt:27.123.240.167
+admin:admin:124.239.211.76
+admin:admin:39.73.93.197
+admin:admin:222.173.98.230
+admin:admin:111.52.248.40
+admin:admin:120.195.24.34
+admin:admin:61.190.12.210
+admin:admin:120.224.214.246
+admin:admin:182.73.74.74
+admin:admin:171.80.66.116
+admin:admin:178.45.145.200
+admin:admin:103.210.146.80
+admin:admin:111.21.214.170
+admin:admin:218.92.213.182
+admin:admin:200.229.220.90
+admin:admin:43.241.26.166
+admin:admin:115.192.148.37
+admin:admin:168.195.168.89
+admin:admin:112.28.84.13
+DUP support:support:186.208.18.27
+DUP guest:guest:186.208.18.27
+DUP ubnt:ubnt:186.208.18.27
+DUP root:root:186.208.18.27
+admin:admin:186.208.18.27
+admin:admin:200.155.187.189
+admin:admin:179.84.138.85
+admin:admin:222.174.186.210
+admin:admin:189.112.213.35
+admin:admin:115.238.98.210
+admin:admin:220.191.237.66
+admin:admin:218.22.104.106
+admin:admin:58.210.212.98
+admin:admin:183.215.158.161
+admin:admin:223.71.4.10
+admin:admin:118.213.150.82
+admin:admin:27.14.153.204
+admin:admin:117.176.63.183
+admin:admin:59.48.103.154
+admin:admin:218.75.19.154
+admin:admin:150.242.230.160
+admin:admin:117.176.193.88
+admin:admin:115.111.157.194
+support:support:92.252.175.111
+support:support:92.54.75.87
+admin:admin:1.6.182.217
+admin:admin:60.221.63.162
+admin:admin:222.222.68.171
+admin:admin:187.58.135.137
+admin:admin:125.90.2.50
+admin:admin:60.221.228.133
+admin:admin:106.32.24.226
+admin:admin:114.241.241.200
+admin:admin:103.87.123.2
+admin:admin:125.99.66.18
+admin:admin:86.217.116.19
+admin:admin:220.227.176.198
+DUP support:support:190.15.114.145
+DUP guest:guest:190.15.114.145
+DUP ubnt:ubnt:190.15.114.145
+DUP root:root:190.15.114.145
+admin:admin:190.15.114.145
+DUP support:support:177.39.185.94
+DUP guest:guest:177.39.185.94
+DUP ubnt:ubnt:177.39.185.94
+DUP root:root:177.39.185.94
+admin:admin:177.39.185.94
+admin:admin:114.242.18.27
+admin:admin:49.232.20.17
+admin:admin:124.78.23.35
+admin:admin:221.130.95.10
+admin:admin:211.93.16.198
+admin:admin:177.22.203.199
+admin:admin:117.13.242.249
+admin:admin:123.178.152.242
+admin:admin:60.173.61.39
+admin:admin:183.196.9.19
+admin:admin:60.214.211.146
+admin:admin:39.152.34.229
+admin:admin:58.215.223.158
+admin:admin:115.210.122.189
+admin:admin:112.14.6.128
+admin:admin:111.38.94.143
+admin:admin:111.56.74.244
+admin:admin:191.32.54.193
+ubnt:ubnt:92.242.50.153
+admin:admin:211.93.17.154
+admin:admin:222.209.201.21
+admin:admin:117.202.21.205
+admin:admin:114.223.162.31
+admin:admin:61.132.102.10
+support:support:188.246.163.133
+admin:admin:103.88.127.37
+admin:admin:122.139.63.34
+admin:admin:222.128.78.202
+admin:admin:200.138.65.90
+admin:admin:223.84.163.174
+admin:admin:222.41.151.90
+admin:admin:112.18.39.150
+admin:admin:203.109.83.225
+admin:admin:223.84.241.67
+admin:admin:115.236.7.226
+admin:admin:177.135.75.166
+admin:admin:112.54.43.93
+DUP support:support:120.237.174.14
+DUP guest:guest:120.237.174.14
+DUP ubnt:ubnt:120.237.174.14
+root:root:120.237.174.14
+admin:admin:61.163.19.106
+admin:admin:58.214.10.54
+admin:admin:112.53.183.183
+admin:admin:122.185.65.145
+admin:admin:111.22.120.208
+admin:admin:120.202.119.203
+admin:admin:122.226.151.66
+admin:admin:163.47.140.106
+admin:admin:182.73.74.73
+admin:admin:60.173.138.145
+DUP support:support:170.231.154.54
+DUP guest:guest:170.231.154.54
+DUP ubnt:ubnt:170.231.154.54
+DUP root:root:170.231.154.54
+admin:admin:170.231.154.54
+guest:guest:37.44.237.81
+admin:admin:117.160.138.142
+admin:admin:123.252.137.230
+admin:admin:218.76.252.133
+admin:admin:118.182.148.4
+admin:admin:182.73.13.194
+admin:admin:223.247.37.241
+admin:admin:223.31.40.82
+admin:admin:49.71.17.116
+admin:admin:61.177.57.50
+admin:admin:114.143.120.242
+admin:admin:179.171.49.41
+admin:admin:114.92.116.19
+admin:admin:14.162.145.206
+admin:admin:218.203.233.110
+admin:admin:220.164.2.107
+admin:admin:222.128.36.212
+admin:admin:61.184.108.196
+admin:admin:49.65.2.196
+admin:admin:202.106.204.242
+DUP support:support:190.15.114.1
+DUP guest:guest:190.15.114.1
+DUP ubnt:ubnt:190.15.114.1
+DUP root:root:190.15.114.1
+admin:admin:190.15.114.1
+guest:guest:37.44.237.161
+admin:admin:125.35.107.166
+admin:admin:39.164.164.180
+admin:admin:117.215.247.156
+admin:admin:189.16.226.194
+admin:admin:59.94.251.138
+DUP support:support:190.15.102.17
+DUP guest:guest:190.15.102.17
+DUP ubnt:ubnt:190.15.102.17
+DUP root:root:190.15.102.17
+admin:admin:190.15.102.17
+admin:admin:183.82.44.84
+admin:admin:111.40.119.33
+admin:admin:175.0.36.245
+admin:admin:113.110.221.161
+admin:admin:187.69.203.92
+admin:admin:118.81.241.172
+admin:admin:200.170.220.164
+admin:admin:221.199.187.42
+admin:admin:120.224.36.162
+ubnt:ubnt:43.229.75.112
+admin:admin:219.65.117.43
+admin:admin:112.53.143.97
+admin:admin:120.253.71.68
+admin:admin:95.71.129.23
+admin:admin:120.211.148.63
+admin:admin:39.85.35.34
+admin:admin:117.132.1.116
+admin:admin:60.212.48.138
+support:support:178.234.35.42
+admin:admin:116.72.148.18
+admin:admin:91.107.15.26
+admin:admin:223.100.63.202
+admin:admin:111.21.202.10
+admin:admin:95.139.108.88
+admin:admin:116.228.21.138
+admin:admin:85.192.2.30
+admin:admin:1.6.187.202
+admin:admin:124.133.154.1
+admin:admin:200.170.220.169
+admin:admin:187.61.106.197
+DUP support:support:211.143.245.218
+DUP guest:guest:211.143.245.218
+DUP ubnt:ubnt:211.143.245.218
+DUP root:root:211.143.245.218
+admin:admin:211.143.245.218
+admin:admin:180.129.225.188
+admin:admin:210.32.122.15
+admin:admin:116.247.116.44
+admin:admin:117.157.72.216
+admin:admin:222.74.12.110
+DUP support:support:190.15.113.217
+DUP guest:guest:190.15.113.217
+DUP ubnt:ubnt:190.15.113.217
+DUP root:root:190.15.113.217
+admin:admin:190.15.113.217
+admin:admin:202.177.244.108
+admin:admin:1.7.174.89
+admin:admin:120.237.146.11
+admin:admin:111.26.65.103
+admin:admin:183.203.147.195
+DUP support:support:190.15.125.249
+DUP guest:guest:190.15.125.249
+DUP ubnt:ubnt:190.15.125.249
+DUP root:root:190.15.125.249
+admin:admin:190.15.125.249
+admin:admin:218.57.212.178
+admin:admin:117.202.21.202
+admin:admin:222.133.63.126
+admin:admin:191.211.53.54
+admin:admin:61.132.94.58
+admin:admin:218.104.182.195
+admin:admin:178.44.211.247
+admin:admin:46.52.131.86
+admin:admin:171.92.251.122
+admin:admin:120.234.56.202
+admin:admin:117.160.150.22
+admin:admin:116.237.199.239
+admin:admin:220.167.111.111
+admin:admin:120.198.19.247
+admin:admin:27.223.200.245
+admin:admin:95.220.44.47
+admin:admin:219.139.51.101
+admin:admin:60.186.28.173
+admin:admin:122.224.189.242
+admin:admin:120.253.71.85
+admin:admin:103.220.29.84
+admin:admin:60.255.181.249
+admin:admin:111.85.83.175
+DUP support:support:190.15.107.185
+DUP guest:guest:190.15.107.185
+DUP ubnt:ubnt:190.15.107.185
+DUP root:root:190.15.107.185
+admin:admin:190.15.107.185
+admin:admin:123.97.157.244
+admin:admin:122.224.234.106
+admin:admin:113.26.251.144
+admin:admin:220.166.172.161
+admin:admin:58.216.226.162
+admin:admin:222.173.98.110
+admin:admin:219.130.112.104
+admin:admin:218.75.48.174
+admin:admin:58.213.138.82
+admin:admin:61.150.88.22
+admin:admin:58.58.42.242
+admin:admin:61.160.121.66
+admin:admin:220.167.116.229
+admin:admin:125.85.191.75
+ubnt:ubnt:117.81.143.91
+admin:admin:125.111.43.243
+admin:admin:219.139.43.57
+admin:admin:222.179.205.150
+admin:admin:218.4.114.10
+admin:admin:115.210.121.28
+admin:admin:183.65.43.110
+admin:admin:222.169.196.14
+admin:admin:106.59.125.85
+admin:admin:61.133.253.150
+admin:admin:58.57.51.138
+admin:admin:60.183.32.124
+admin:admin:58.57.186.194
+ubnt:ubnt:115.239.115.1
+admin:admin:119.1.239.220
+admin:admin:183.3.140.163
+ubnt:ubnt:79.150.254.62
+admin:admin:113.100.30.15
+admin:admin:220.189.224.234
+admin:admin:220.163.44.218
+admin:admin:171.212.115.185
+admin:admin:58.222.202.90
+admin:admin:58.56.144.98
+admin:admin:123.183.170.245
+admin:admin:58.214.29.170
+admin:admin:122.224.22.214
+admin:admin:60.174.118.80
+admin:admin:59.44.138.53
+admin:admin:202.109.196.150
+admin:admin:218.91.99.50
+admin:admin:218.87.91.173
+admin:admin:106.57.46.41
+admin:admin:222.184.86.186
+admin:admin:183.167.236.33
+admin:admin:223.244.252.47
+admin:admin:114.238.206.199
+admin:admin:60.171.135.254
+admin:admin:116.248.28.30
+admin:admin:58.216.179.154
+admin:admin:58.57.146.122
+admin:admin:14.145.174.24
+admin:admin:111.175.32.226
+admin:admin:58.216.202.98
+admin:admin:183.167.229.180
+admin:admin:36.7.191.139
+admin:admin:14.117.179.138
+admin:admin:61.177.234.158
+admin:admin:49.65.2.194
+admin:admin:113.214.11.235
+admin:admin:59.48.103.154
+admin:admin:220.164.192.31
+admin:admin:113.128.247.10
+admin:admin:218.3.103.17
+admin:admin:183.157.173.251
+admin:admin:180.107.77.31
+admin:admin:218.64.215.68
+admin:admin:58.220.109.66
+admin:admin:60.174.68.250
+admin:admin:61.128.133.2
+admin:admin:27.17.2.126
+admin:admin:117.29.165.110
+admin:admin:220.167.54.98
+admin:admin:183.157.173.159
+admin:admin:106.86.155.70
+root:root:222.74.69.146
+admin:admin:49.75.196.125
+admin:admin:182.136.239.29
+admin:admin:219.135.137.26
+admin:admin:183.157.168.250
+admin:admin:106.87.40.104
+admin:admin:60.169.31.95
+admin:admin:61.189.186.185
+admin:admin:60.165.200.175
+admin:admin:121.228.125.156
+admin:admin:121.63.17.103
+admin:admin:219.136.123.247
+admin:admin:59.49.77.74
+admin:admin:58.221.131.126
+admin:admin:59.49.53.253
+admin:admin:219.139.51.238
+admin:admin:220.166.88.26
+ubnt:ubnt:83.55.236.196
+admin:admin:61.159.128.228
+admin:admin:58.46.64.29
+admin:admin:124.78.169.178
+admin:admin:223.150.27.115
+admin:admin:221.230.1.113
+admin:admin:27.191.150.38
+admin:admin:123.160.238.209
+admin:admin:119.98.188.245
+admin:admin:219.145.1.160
+admin:admin:106.112.132.244
+admin:admin:61.157.117.242
+admin:admin:110.185.161.138
+admin:admin:42.243.172.2
+admin:admin:58.57.54.37
+admin:admin:183.64.79.186
+admin:admin:61.130.176.54
+admin:admin:183.135.172.252
+admin:admin:220.164.2.137
+admin:admin:219.145.1.224
+admin:admin:61.130.5.138
+admin:admin:117.28.29.214
+ubnt:ubnt:183.141.10.230
+admin:admin:124.226.232.197
+admin:admin:58.58.50.38
+admin:admin:218.3.180.214
+admin:admin:60.169.17.97
+admin:admin:58.48.195.102
+admin:admin:42.243.110.90
+admin:admin:61.160.93.110
+admin:admin:36.26.51.26
+admin:admin:58.218.190.2
+admin:admin:122.225.237.122
+admin:admin:58.218.61.70
+admin:admin:122.224.22.178
+admin:admin:117.25.38.175
+admin:admin:49.65.2.197
+admin:admin:61.191.101.110
+admin:admin:220.164.126.185
+admin:admin:61.164.49.254
+admin:admin:183.157.171.152
+admin:admin:60.235.234.122
+admin:admin:222.93.82.71
+admin:admin:218.75.119.218
+admin:admin:113.241.138.145
+admin:admin:218.75.78.42
+admin:admin:61.185.26.70
+admin:admin:220.170.95.178
+admin:admin:120.37.137.118
+admin:admin:61.155.52.26
+admin:admin:58.222.109.122
+admin:admin:1.192.63.234
+admin:admin:223.220.164.2
+admin:admin:222.92.94.118
+root:root:114.99.238.246
+admin:admin:61.175.134.27
+admin:admin:112.67.186.140
+admin:admin:221.231.8.102
+admin:admin:27.191.227.175
+admin:admin:183.157.164.58
+admin:admin:222.182.185.177
+admin:admin:218.77.69.26
+admin:admin:115.238.107.242
+admin:admin:125.72.68.162
+admin:admin:221.230.24.233
+admin:admin:218.93.245.158
+admin:admin:222.76.67.215
+admin:admin:117.40.191.184
+admin:admin:183.157.167.62
+admin:admin:111.78.18.214
+admin:admin:222.175.153.42
+admin:admin:61.153.33.6
+admin:admin:59.49.224.9
+admin:admin:58.33.145.46
+admin:admin:218.91.82.98
+admin:admin:219.138.23.134
+admin:admin:115.211.128.221
+admin:admin:113.26.251.143
+admin:admin:222.188.105.154
+admin:admin:37.13.131.25
+admin:admin:58.210.65.170
+admin:admin:113.137.144.26
+admin:admin:58.218.243.38
+admin:admin:106.81.228.4
+admin:admin:58.33.30.91
+admin:admin:183.159.161.152
+admin:admin:58.59.90.186
+admin:admin:113.122.36.203
+admin:admin:49.65.2.199
+admin:admin:1.195.108.236
+admin:admin:49.73.39.72
+admin:admin:119.145.189.118
+admin:admin:219.147.17.206
+admin:admin:221.228.96.130
+admin:admin:61.177.81.158
+admin:admin:182.241.92.69
+admin:admin:121.10.1.119
+admin:admin:112.101.74.226
+admin:admin:125.123.74.193
+admin:admin:123.182.247.237
+admin:admin:218.94.134.234
+admin:admin:222.82.220.27
+admin:admin:219.139.51.84
+admin:admin:113.135.192.179
+admin:admin:182.106.203.156
+admin:admin:58.218.193.74
+admin:admin:60.168.133.46
+admin:admin:49.65.2.204
+admin:admin:222.188.95.202
+admin:admin:219.149.165.194
+admin:admin:219.146.209.194
+admin:admin:222.240.159.130
+admin:admin:58.213.128.126
+admin:admin:113.26.251.149
+admin:admin:222.220.162.110
+admin:admin:58.49.129.226
+admin:admin:61.190.162.143
+admin:admin:144.123.34.34
+admin:admin:58.218.183.9
+admin:admin:27.191.158.78
+admin:admin:183.24.99.107
+admin:admin:60.161.139.165
+admin:admin:222.184.14.226
+admin:admin:36.7.80.227
+admin:admin:218.23.209.10
+admin:admin:218.63.117.177
+admin:admin:58.210.116.226
+admin:admin:171.221.242.102
+admin:admin:182.137.61.89
+admin:admin:222.208.55.21
+admin:admin:61.155.50.34
+admin:admin:219.140.239.248
+admin:admin:58.211.42.107
+admin:admin:115.195.94.115
+admin:admin:120.35.33.193
+admin:admin:183.157.172.87
+admin:admin:123.183.163.66
+admin:admin:222.74.61.230
+admin:admin:183.157.171.7
+admin:admin:183.4.28.184
+admin:admin:223.8.121.58
+admin:admin:113.116.89.140
+admin:admin:115.238.98.210
+admin:admin:125.86.125.196
+admin:admin:115.239.200.18
+admin:admin:115.239.187.42
+admin:admin:183.157.171.156
+admin:admin:122.227.78.74
+admin:admin:58.56.181.54
+admin:admin:58.49.171.196
+admin:admin:218.65.36.10
+admin:admin:59.48.99.238
+admin:admin:58.214.5.100
+admin:admin:114.99.47.200
+admin:admin:125.68.185.169
+admin:admin:113.88.229.6
+admin:admin:119.136.32.88
+admin:admin:122.225.84.118
+admin:admin:171.221.174.227
+admin:admin:221.226.1.22
+admin:admin:123.181.245.30
+admin:admin:222.179.38.73
+admin:admin:183.162.92.108
+admin:admin:218.3.36.220
+admin:admin:60.168.135.244
+admin:admin:60.184.210.40
+admin:admin:61.138.212.230
+admin:admin:222.87.16.128
+admin:admin:60.190.7.26
+admin:admin:58.56.181.46
+admin:admin:222.173.78.86
+admin:admin:116.208.254.17
+admin:admin:36.106.40.197
+admin:admin:218.4.33.106
+admin:admin:221.230.45.249
+admin:admin:59.59.50.222
+admin:admin:112.113.102.11
+admin:admin:218.22.111.158
+admin:admin:115.192.148.37
+admin:admin:222.191.204.2
+admin:admin:113.128.243.54
+admin:admin:58.37.58.233
+admin:admin:58.216.233.243
+admin:admin:122.224.38.174
+admin:admin:59.37.160.175
+admin:admin:106.92.3.43
+admin:admin:106.87.85.166
+admin:admin:222.222.69.107
+admin:admin:36.26.51.234
+admin:admin:114.99.224.57
+admin:admin:222.174.58.194
+admin:admin:49.65.2.201
+admin:admin:119.136.26.148
+admin:admin:58.214.243.146
+admin:admin:220.163.141.236
+admin:admin:122.224.30.214
+admin:admin:58.221.244.78
+admin:admin:218.13.54.194
+admin:admin:220.164.2.63
+admin:admin:59.46.153.194
+admin:admin:218.13.13.134
+admin:admin:58.56.55.206
+admin:admin:106.59.125.68
+admin:admin:124.225.55.202
+admin:admin:58.213.197.14
+admin:admin:218.64.215.67
+admin:admin:58.221.223.218
+admin:admin:180.104.117.174
+admin:admin:1.207.250.121
+admin:admin:183.167.231.172
+admin:admin:222.83.235.237
+admin:admin:220.164.2.119
+admin:admin:116.53.247.207
+admin:admin:58.217.99.177
+admin:admin:222.86.72.105
+admin:admin:218.93.232.166
+admin:admin:14.105.32.68
+admin:admin:58.56.144.102
+admin:admin:222.211.162.234
+admin:admin:223.243.25.189
+admin:admin:60.173.138.145
+admin:admin:88.31.55.138
+admin:admin:113.128.197.146
+admin:admin:220.170.69.207
+admin:admin:119.145.65.242
+admin:admin:125.121.109.62
+admin:admin:115.229.145.151
+admin:admin:1.207.250.86
+admin:admin:117.94.181.233
+admin:admin:119.98.87.229
+admin:admin:219.152.24.117
+admin:admin:183.161.36.202
+admin:admin:58.57.45.2
+admin:admin:222.92.27.34
+admin:admin:58.215.223.158
+admin:admin:222.242.225.137
+admin:admin:61.144.101.13
+admin:admin:58.37.134.97
+admin:admin:1.196.217.65
+admin:admin:122.224.27.158
+admin:admin:222.174.77.6
+admin:admin:183.167.254.198
+admin:admin:58.221.164.46
+guest:guest:58.220.234.18
+admin:admin:61.177.57.50
+admin:admin:125.72.68.146
+admin:admin:182.245.175.225
+admin:admin:115.210.122.189
+admin:admin:182.111.95.55
+admin:admin:221.224.212.130
+admin:admin:183.159.75.214
+admin:admin:61.132.102.10
+admin:admin:106.112.154.83
+admin:admin:125.77.123.20
+admin:admin:58.56.154.170
+admin:admin:114.98.95.78
+admin:admin:121.60.110.208
+admin:admin:122.226.151.66
+admin:admin:58.33.127.26
+admin:admin:222.89.107.11
+admin:admin:125.77.83.84
+admin:admin:119.1.160.69
+admin:admin:222.190.254.18
+admin:admin:218.94.62.60
+admin:admin:58.222.88.234
+admin:admin:61.141.203.250
+admin:admin:115.200.244.183
+ubnt:ubnt:175.10.241.157
+admin:admin:125.77.5.157
+admin:admin:221.224.160.2
+ubnt:ubnt:125.123.80.50
+admin:admin:218.23.41.118
+admin:admin:58.210.185.178
+admin:admin:202.98.215.235
+admin:admin:58.221.115.142
+admin:admin:125.108.33.73
+admin:admin:61.178.170.81
+admin:admin:117.28.27.130
+admin:admin:58.58.43.238
+admin:admin:49.88.48.14
+admin:admin:116.208.127.143
+admin:admin:171.211.79.38
+admin:admin:220.180.112.65
+admin:admin:58.56.182.66
+admin:admin:1.192.171.3
+admin:admin:176.80.168.48
+admin:admin:222.86.174.227
+admin:admin:122.5.39.226
+admin:admin:124.227.230.51
+admin:admin:115.221.233.184
+admin:admin:223.199.20.224
+admin:admin:58.213.76.26
+admin:admin:222.74.208.62
+admin:admin:123.160.165.254
+admin:admin:218.22.36.228
+admin:admin:112.112.201.125
+admin:admin:14.155.222.220
+admin:admin:116.209.240.140
+admin:admin:220.163.13.156
+admin:admin:222.174.186.210
+admin:admin:202.100.163.94
+admin:admin:61.184.85.216
+admin:admin:122.227.236.50
+admin:admin:60.173.167.19
+admin:admin:49.84.50.6
+admin:admin:221.224.132.66
+admin:admin:116.22.252.119
+admin:admin:1.70.252.11
+admin:admin:61.189.242.137
+admin:admin:202.104.204.69
+admin:admin:115.199.238.207
+admin:admin:59.49.32.27
+admin:admin:124.31.223.203
+admin:admin:222.74.207.34
+admin:admin:60.163.137.98
+admin:admin:58.211.177.211
+admin:admin:60.190.253.240
+admin:admin:115.236.3.186
+admin:admin:218.94.38.150
+admin:admin:171.223.209.176
+admin:admin:183.157.172.168
+admin:admin:114.98.62.13
+admin:admin:113.26.251.150
+admin:admin:59.49.137.15
+admin:admin:222.187.195.58
+admin:admin:106.118.212.23
+admin:admin:218.21.47.254
+admin:admin:222.95.49.125
+admin:admin:218.85.12.89
+admin:admin:220.180.32.5
+admin:admin:61.177.75.22
+admin:admin:59.55.0.5
+admin:admin:218.21.4.234
+admin:admin:60.164.208.83
+admin:admin:218.94.10.142
+admin:admin:180.142.111.132
+admin:admin:60.173.180.240
+admin:admin:113.140.28.146
+admin:admin:81.44.221.77
+admin:admin:183.157.173.18
+admin:admin:122.226.125.234
+admin:admin:125.90.3.66
+admin:admin:220.163.122.118
+admin:admin:182.242.244.116
+admin:admin:124.235.224.157
+admin:admin:58.218.243.62
+admin:admin:113.134.200.14
+admin:admin:119.100.152.8
+admin:admin:60.171.118.5
+admin:admin:182.137.60.25
+admin:admin:222.190.130.246
+ubnt:ubnt:183.134.3.222
+admin:admin:171.8.10.176
+admin:admin:113.26.251.81
+admin:admin:58.212.63.129
+admin:admin:218.92.213.178
+admin:admin:218.75.36.246
+admin:admin:123.52.75.158
+admin:admin:113.88.118.117
+admin:admin:220.178.55.98
+admin:admin:58.211.55.142
+admin:admin:119.60.27.162
+admin:admin:180.102.174.208
+admin:admin:59.51.219.38
+admin:admin:122.226.114.222
+admin:admin:222.180.203.138
+admin:admin:220.179.157.69
+admin:admin:218.94.134.170
+admin:admin:222.221.36.120
+admin:admin:219.139.118.229
+admin:admin:58.210.187.74
+admin:admin:2.140.165.118
+admin:admin:180.104.126.86
+admin:admin:218.94.16.18
+admin:admin:182.45.48.3
+admin:admin:122.224.189.244
+admin:admin:218.4.157.46
+admin:admin:124.115.131.254
+admin:admin:61.191.209.106
+admin:admin:222.173.98.166
+admin:admin:59.46.63.133
+admin:admin:218.4.170.114
+admin:admin:119.1.207.173
+admin:admin:59.56.62.65
+admin:admin:123.161.71.87
+admin:admin:218.18.152.20
+admin:admin:58.42.222.216
+admin:admin:58.58.42.138
+admin:admin:113.110.221.161
+admin:admin:115.231.201.126
+admin:admin:116.55.170.145
+admin:admin:113.65.189.98
+admin:admin:124.78.144.62
+admin:admin:115.198.4.28
+admin:admin:106.92.3.85
+admin:admin:60.190.238.202
+admin:admin:220.162.205.166
+admin:admin:122.225.193.114
+admin:admin:218.23.210.91
+admin:admin:116.20.243.216
+admin:admin:58.52.200.204
+admin:admin:59.45.103.224
+admin:admin:58.215.223.170
+admin:admin:61.147.250.130
+admin:admin:116.52.10.214
+admin:admin:61.184.160.166
+admin:admin:171.42.213.110
+admin:admin:117.30.75.29
+admin:admin:124.76.22.215
+admin:admin:183.154.34.203
+admin:admin:58.221.220.84
+admin:admin:117.71.178.27
+admin:admin:218.3.120.165
+admin:admin:171.221.217.180
+admin:admin:218.94.10.2
+admin:admin:115.218.117.34
+admin:admin:58.210.98.202
+admin:admin:58.56.153.214
+admin:admin:221.226.185.222
+admin:admin:61.160.9.18
+admin:admin:58.211.105.234
+DUP guest:guest:220.178.107.242
+admin:admin:220.178.107.242
+admin:admin:218.93.177.58
+admin:admin:183.129.70.161
+ubnt:ubnt:171.15.18.241
+admin:admin:58.217.98.13
+admin:admin:222.173.29.38
+admin:admin:125.75.117.131
+admin:admin:58.210.243.58
+admin:admin:49.65.2.203
+admin:admin:58.211.96.154
+admin:admin:106.5.45.171
+admin:admin:60.173.252.65
+admin:admin:218.2.23.132
+admin:admin:122.233.211.15
+admin:admin:219.147.20.186
+admin:admin:61.170.221.191
+admin:admin:220.176.14.250
+admin:admin:58.217.101.73
+admin:admin:171.221.176.146
+admin:admin:113.106.250.18
+admin:admin:218.70.19.82
+admin:admin:124.78.53.237
+admin:admin:222.75.209.46
+admin:admin:182.245.233.250
+admin:admin:116.55.215.87
+admin:admin:58.210.147.154
+admin:admin:61.140.78.195
+guest:guest:218.64.57.12
+admin:admin:220.167.25.25
+admin:admin:219.145.1.242
+admin:admin:220.176.247.196
+admin:admin:1.83.104.214
+admin:admin:61.178.164.31
+admin:admin:58.218.236.106
+admin:admin:121.204.112.226
+admin:admin:61.178.208.137
+admin:admin:61.187.190.94
+admin:admin:221.226.50.162
+guest:guest:223.243.127.176
+admin:admin:122.225.6.130
+admin:admin:183.157.174.98
+admin:admin:218.23.36.42
+admin:admin:222.74.247.130
+admin:admin:222.186.113.89
+admin:admin:117.32.154.250
+admin:admin:220.179.115.138
+admin:admin:175.0.36.245
+admin:admin:218.92.97.50
+admin:admin:60.175.55.79
+admin:admin:220.174.236.144
+admin:admin:124.112.97.243
+admin:admin:60.165.241.204
+admin:admin:114.217.80.117
+admin:admin:222.247.62.221
+admin:admin:113.116.182.60
+admin:admin:218.22.177.230
+admin:admin:58.210.7.226
+admin:admin:115.216.169.72
+admin:admin:121.57.195.106
+admin:admin:115.204.180.188
+admin:admin:183.157.167.189
+admin:admin:58.57.254.198
+admin:admin:180.109.122.245
+admin:admin:125.117.217.148
+admin:admin:202.98.162.27
+admin:admin:36.6.51.38
+admin:admin:221.226.66.78
+admin:admin:61.166.174.109
+admin:admin:122.5.12.198
+admin:admin:58.214.26.206
+admin:admin:220.164.2.82
+admin:admin:182.45.74.67
+admin:admin:219.146.247.94
+admin:admin:220.163.13.154
+admin:admin:221.224.71.226
+admin:admin:221.229.246.78
+admin:admin:218.4.202.186
+admin:admin:183.167.194.120
+admin:admin:219.144.183.70
+admin:admin:182.106.239.149
+admin:admin:183.63.150.226
+admin:admin:117.81.67.34
+admin:admin:116.249.149.158
+admin:admin:183.24.68.132
+admin:admin:223.244.89.211
+admin:admin:61.132.96.58
+admin:admin:60.165.100.31
+admin:admin:27.185.15.237
+admin:admin:60.178.45.131
+admin:admin:122.4.246.58
+admin:admin:222.168.33.222
+admin:admin:123.178.26.198
+admin:admin:58.218.248.154
+admin:admin:182.150.115.186
+admin:admin:220.171.44.154
+admin:admin:61.175.194.78
+guest:guest:36.48.58.58
+admin:admin:221.231.14.214
+admin:admin:58.221.190.194
+admin:admin:118.213.160.215
+admin:admin:218.89.135.125
+admin:admin:222.88.247.62
+admin:admin:171.92.251.32
+admin:admin:110.180.64.228
+admin:admin:58.213.80.242
+admin:admin:183.138.92.77
+admin:admin:183.129.131.186
+admin:admin:218.17.46.30
+admin:admin:58.214.248.150
+admin:admin:183.166.79.172
+admin:admin:220.179.180.185
+admin:admin:222.76.42.107
+admin:admin:58.57.42.166
+admin:admin:222.77.230.201
+root:root:114.226.90.144
+admin:admin:222.173.37.154
+admin:admin:49.65.2.202
+admin:admin:125.74.222.247
+admin:admin:183.138.16.100
+admin:admin:183.157.171.191
+admin:admin:171.217.5.67
+admin:admin:125.109.157.202
+admin:admin:113.88.254.251
+admin:admin:218.4.150.253
+admin:admin:113.105.133.246
+admin:admin:221.226.213.146
+admin:admin:58.56.144.82
+guest:guest:121.225.19.38
+admin:admin:61.183.70.182
+admin:admin:220.179.147.35
+admin:admin:222.80.227.65
+admin:admin:60.187.197.49
+admin:admin:221.224.159.226
+admin:admin:58.33.104.170
+admin:admin:59.55.5.4
+admin:admin:58.220.237.194
+admin:admin:218.21.83.24
+admin:admin:115.218.117.147
+admin:admin:59.37.21.219
+admin:admin:115.236.181.210
+admin:admin:114.217.11.91
+admin:admin:58.52.119.146
+admin:admin:222.85.213.69
+admin:admin:58.33.138.203
+admin:admin:58.37.53.37
+admin:admin:218.23.241.38
+admin:admin:202.107.196.212
+admin:admin:106.58.218.169
+admin:admin:58.210.44.210
+admin:admin:222.173.98.230
+admin:admin:221.226.27.214
+admin:admin:60.190.170.238
+admin:admin:60.167.74.14
+admin:admin:1.207.242.7
+admin:admin:123.169.126.60
+admin:admin:49.85.213.215
+admin:admin:218.4.127.162
+admin:admin:122.224.167.154
+admin:admin:116.52.148.2
+admin:admin:221.224.246.186
+admin:admin:60.160.235.87
+admin:admin:58.210.48.202
+admin:admin:222.92.189.218
+admin:admin:171.104.218.153
+admin:admin:121.11.161.175
+admin:admin:106.87.23.202
+admin:admin:115.210.4.249
+admin:admin:116.31.224.245
+admin:admin:124.117.225.74
+admin:admin:58.216.204.11
+admin:admin:111.75.237.88
+admin:admin:61.178.177.199
+admin:admin:58.56.101.22
+admin:admin:220.174.35.236
+admin:admin:106.92.0.171
+admin:admin:221.224.15.250
+admin:admin:59.45.171.158
+admin:admin:27.191.234.93
+guest:guest:61.184.176.231
+admin:admin:114.225.200.68
+admin:admin:112.116.142.170
+admin:admin:220.164.2.111
+admin:admin:219.136.123.246
+admin:admin:183.167.251.79
+admin:admin:221.224.72.242
+admin:admin:117.22.230.170
+admin:admin:183.157.170.117
+admin:admin:219.159.231.251
+admin:admin:58.56.43.6
+admin:admin:222.223.254.74
+admin:admin:111.75.159.103
+admin:admin:14.215.235.54
+admin:admin:220.160.203.44
+admin:admin:122.226.174.118
+admin:admin:222.223.150.143
+admin:admin:123.178.152.242
+admin:admin:118.120.173.64
+admin:admin:222.173.25.114
+admin:admin:144.123.45.154
+admin:admin:221.226.24.54
+admin:admin:110.180.245.165
+admin:admin:222.217.116.239
+admin:admin:58.56.177.166
+admin:admin:116.25.46.102
+admin:admin:60.171.149.62
+admin:admin:115.208.58.60
+admin:admin:36.7.191.196
+admin:admin:182.138.126.20
+admin:admin:222.182.58.243
+admin:admin:60.190.27.114
+admin:admin:115.219.43.172
+ubnt:ubnt:110.83.40.250
+ubnt:ubnt:122.224.154.106
+admin:admin:116.52.252.222
+admin:admin:123.183.162.2
+admin:admin:112.112.128.94
+admin:admin:180.113.88.192
